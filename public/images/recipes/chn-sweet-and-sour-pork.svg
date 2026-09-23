@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Sweet and Sour Pork">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdeaea"/>
+      <stop offset="100%" stop-color="#fdf3da"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="420.8" cy="516.3" r="8.2" fill="#ffffff" opacity="0.23"/><circle cx="78.5" cy="467.5" r="3.6" fill="#ffffff" opacity="0.42"/><circle cx="42.1" cy="262.0" r="7.7" fill="#ffffff" opacity="0.18"/><circle cx="105.3" cy="494.0" r="4.8" fill="#ffffff" opacity="0.39"/><circle cx="73.2" cy="209.0" r="7.2" fill="#ffffff" opacity="0.43"/><circle cx="79.0" cy="215.1" r="11.4" fill="#ffffff" opacity="0.27"/><circle cx="37.7" cy="262.9" r="5.5" fill="#ffffff" opacity="0.35"/><circle cx="142.9" cy="312.5" r="8.0" fill="#ffffff" opacity="0.24"/><circle cx="70.2" cy="474.3" r="3.4" fill="#ffffff" opacity="0.25"/><circle cx="485.6" cy="515.4" r="6.0" fill="#ffffff" opacity="0.37"/><circle cx="158.8" cy="415.7" r="8.0" fill="#ffffff" opacity="0.37"/><circle cx="612.5" cy="445.6" r="8.7" fill="#ffffff" opacity="0.23"/><circle cx="559.8" cy="513.6" r="10.7" fill="#ffffff" opacity="0.18"/><circle cx="749.7" cy="48.9" r="11.4" fill="#ffffff" opacity="0.41"/><circle cx="548.2" cy="33.0" r="11.7" fill="#ffffff" opacity="0.46"/><circle cx="714.5" cy="336.8" r="9.6" fill="#ffffff" opacity="0.19"/><circle cx="61.1" cy="463.6" r="11.3" fill="#ffffff" opacity="0.44"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="476.7" cy="321.2" rx="27.8" ry="22.8" fill="#c97a73" opacity="0.94" transform="rotate(118 476.7 321.2)"/><ellipse cx="441.4" cy="344.2" rx="30.6" ry="22.6" fill="#e0948e" opacity="0.94" transform="rotate(121 441.4 344.2)"/><ellipse cx="398.0" cy="324.1" rx="40.9" ry="30.2" fill="#c97a73" opacity="0.94" transform="rotate(119 398.0 324.1)"/><ellipse cx="346.3" cy="328.4" rx="29.9" ry="26.2" fill="#c97a73" opacity="0.94" transform="rotate(122 346.3 328.4)"/><ellipse cx="315.2" cy="271.0" rx="36.4" ry="25.3" fill="#e0948e" opacity="0.94" transform="rotate(36 315.2 271.0)"/><ellipse cx="373.5" cy="237.9" rx="36.9" ry="29.1" fill="#f0b9b3" opacity="0.94" transform="rotate(84 373.5 237.9)"/><ellipse cx="422.3" cy="252.1" rx="35.5" ry="26.2" fill="#c97a73" opacity="0.94" transform="rotate(161 422.3 252.1)"/><ellipse cx="467.1" cy="256.6" rx="27.7" ry="23.8" fill="#f0b9b3" opacity="0.94" transform="rotate(163 467.1 256.6)"/>
+  <circle cx="380.5" cy="232.7" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="363.3" cy="305.0" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="359.2" cy="347.1" r="2.9" fill="#ffffff" opacity="0.7"/><circle cx="497.5" cy="271.9" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="370.5" cy="215.9" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="429.0" cy="370.3" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="355.2" cy="334.5" r="1.9" fill="#ffffff" opacity="0.7"/><circle cx="453.5" cy="316.2" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="479.1" cy="213.5" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="359.9" cy="269.1" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="320.5" cy="320.8" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="376.4" cy="265.8" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="394.0" cy="302.6" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="418.9" cy="342.2" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="297.9" cy="288.4" r="3.3" fill="#ffffff" opacity="0.7"/><circle cx="410.0" cy="299.4" r="1.9" fill="#ffffff" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="151" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="115.5" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">CHINESE</text>
+    </g>
+</svg>

@@ -1,0 +1,181 @@
+@import 'tailwindcss';
+
+/* Class-based dark mode (toggled on <html>) instead of media-query only. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
+
+  /* Brand green — lifted from the reference mock-up. */
+  --color-brand-50: #eff9f3;
+  --color-brand-100: #d8f2e4;
+  --color-brand-200: #b2e5c9;
+  --color-brand-300: #85d2ab;
+  --color-brand-400: #55bd8b;
+  --color-brand-500: #34a86a;
+  --color-brand-600: #268a55;
+  --color-brand-700: #1e6d44;
+  --color-brand-800: #1a5537;
+
+  /* Warm accent for the secondary buttons and spice meters. */
+  --color-amber-soft: #fdf4d8;
+  --color-amber-ink: #b07c11;
+
+  /* Semantic surfaces — overridden wholesale in .dark below. */
+  --color-canvas: #edf1ee;
+  --color-surface: #ffffff;
+  --color-surface-2: #f5f8f6;
+  --color-ink: #16241c;
+  --color-ink-2: #3d554a;
+  --color-muted: #77897e;
+  --color-line: #e5ebe7;
+
+  --radius-card: 1.5rem;
+}
+
+.dark {
+  --color-canvas: #0c110e;
+  --color-surface: #141c17;
+  --color-surface-2: #1a241e;
+  --color-ink: #e9f2ec;
+  --color-ink-2: #c3d4c9;
+  --color-muted: #8ba497;
+  --color-line: #253129;
+  --color-brand-50: #142218;
+  --color-brand-100: #17301f;
+  --color-brand-200: #1f4a2f;
+  --color-amber-soft: #2a2415;
+  --color-amber-ink: #e8c261;
+}
+
+html {
+  color-scheme: light;
+}
+html.dark {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-canvas text-ink font-sans antialiased;
+  margin: 0;
+}
+
+/* Scrollbars that don't shout. */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-line) transparent;
+}
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--color-line);
+  border-radius: 9999px;
+  border: 3px solid transparent;
+  background-clip: content-box;
+}
+
+@layer components {
+  .card {
+    @apply bg-surface border-line rounded-3xl border;
+  }
+
+  /* Shared button base. Tailwind v4 can't @apply a custom class, so the base
+     styles are declared once across every variant selector instead. */
+  .btn,
+  .btn-primary,
+  .btn-soft,
+  .btn-amber,
+  .btn-ghost,
+  .btn-icon {
+    @apply inline-flex cursor-pointer items-center justify-center gap-2 rounded-2xl border border-transparent
+           px-4 py-2.5 text-sm font-semibold transition-all duration-150 select-none
+           focus-visible:ring-2 focus-visible:ring-brand-400 focus-visible:ring-offset-2
+           focus-visible:ring-offset-canvas focus-visible:outline-none
+           disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-primary {
+    @apply bg-brand-500 text-white shadow-sm hover:bg-brand-600 active:scale-[0.98];
+  }
+  .btn-soft {
+    @apply bg-brand-100 text-brand-700 hover:bg-brand-200 active:scale-[0.98];
+  }
+  .btn-amber {
+    @apply bg-amber-soft text-amber-ink hover:brightness-95 active:scale-[0.98];
+  }
+  .btn-ghost {
+    @apply text-ink-2 hover:bg-surface-2 border-line border;
+  }
+  .btn-icon {
+    @apply h-10 w-10 rounded-xl p-0;
+  }
+
+  .chip,
+  .chip-btn,
+  .chip-on {
+    @apply bg-surface-2 text-ink-2 inline-flex items-center gap-1.5 rounded-xl px-3 py-1.5
+           text-xs font-medium whitespace-nowrap;
+  }
+  .chip-btn,
+  .chip-on {
+    @apply border-line cursor-pointer border transition-colors hover:border-brand-300;
+  }
+  .chip-on {
+    @apply bg-brand-500 border-brand-500 text-white hover:border-brand-500;
+  }
+
+  .field {
+    @apply bg-surface border-line text-ink placeholder:text-muted w-full rounded-2xl border
+           px-4 py-2.5 text-sm focus:border-brand-400 focus:outline-none;
+  }
+
+  .panel-title {
+    @apply text-brand-700 dark:text-brand-300 text-base font-bold;
+  }
+
+  .meta {
+    @apply text-muted text-xs font-medium;
+  }
+
+  /* Numbered step bullets in the recipe detail. */
+  .step-no {
+    @apply bg-brand-50 text-brand-700 dark:bg-brand-100 dark:text-brand-300 flex h-7 w-7
+           shrink-0 items-center justify-center rounded-full text-xs font-bold;
+  }
+}
+
+/* Hide the native clear button on search inputs (we ship our own). */
+input[type='search']::-webkit-search-cancel-button {
+  appearance: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes pop-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px) scale(0.99);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.pop-in {
+  animation: pop-in 0.22s ease-out both;
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+  }
+}

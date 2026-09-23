@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+.vite/
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.log
+
+# Local Claude Code state (keep launch.json — it's useful to share)
+.claude/settings.local.json

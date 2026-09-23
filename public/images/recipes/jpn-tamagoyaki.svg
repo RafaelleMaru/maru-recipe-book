@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Tamagoyaki">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef4fc"/>
+      <stop offset="100%" stop-color="#fce7ef"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="85.1" cy="142.0" r="8.5" fill="#ffffff" opacity="0.44"/><circle cx="247.4" cy="112.3" r="5.1" fill="#ffffff" opacity="0.37"/><circle cx="291.4" cy="24.9" r="5.4" fill="#ffffff" opacity="0.34"/><circle cx="173.4" cy="435.0" r="4.5" fill="#ffffff" opacity="0.25"/><circle cx="634.0" cy="166.4" r="8.9" fill="#ffffff" opacity="0.34"/><circle cx="34.1" cy="31.4" r="4.5" fill="#ffffff" opacity="0.35"/><circle cx="776.1" cy="345.9" r="8.1" fill="#ffffff" opacity="0.42"/><circle cx="720.3" cy="203.3" r="4.9" fill="#ffffff" opacity="0.23"/><circle cx="603.9" cy="521.2" r="4.5" fill="#ffffff" opacity="0.45"/><circle cx="176.9" cy="116.1" r="3.6" fill="#ffffff" opacity="0.46"/><circle cx="150.6" cy="73.5" r="8.6" fill="#ffffff" opacity="0.42"/><circle cx="43.9" cy="310.4" r="5.1" fill="#ffffff" opacity="0.41"/><circle cx="728.3" cy="314.4" r="10.2" fill="#ffffff" opacity="0.44"/><circle cx="662.7" cy="277.2" r="5.3" fill="#ffffff" opacity="0.42"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="519.4" cy="307.6" rx="43.5" ry="36.8" fill="#f6c93f" opacity="0.94" transform="rotate(44 519.4 307.6)"/><ellipse cx="444.9" cy="342.1" rx="33.7" ry="21.5" fill="#fde49a" opacity="0.94" transform="rotate(61 444.9 342.1)"/><ellipse cx="422.0" cy="348.9" rx="36.3" ry="29.6" fill="#e2b224" opacity="0.94" transform="rotate(28 422.0 348.9)"/><ellipse cx="369.7" cy="344.6" rx="26.4" ry="22.3" fill="#e2b224" opacity="0.94" transform="rotate(26 369.7 344.6)"/><ellipse cx="286.3" cy="315.0" rx="43.2" ry="27.8" fill="#f6c93f" opacity="0.94" transform="rotate(38 286.3 315.0)"/><ellipse cx="351.1" cy="286.0" rx="22.6" ry="16.9" fill="#e2b224" opacity="0.94" transform="rotate(9 351.1 286.0)"/><ellipse cx="371.5" cy="269.9" rx="41.2" ry="31.1" fill="#e2b224" opacity="0.94" transform="rotate(134 371.5 269.9)"/><ellipse cx="412.3" cy="229.3" rx="30.6" ry="26.9" fill="#fde49a" opacity="0.94" transform="rotate(26 412.3 229.3)"/><ellipse cx="448.6" cy="249.1" rx="34.0" ry="23.5" fill="#fde49a" opacity="0.94" transform="rotate(37 448.6 249.1)"/><ellipse cx="490.5" cy="270.9" rx="20.9" ry="13.3" fill="#f6c93f" opacity="0.94" transform="rotate(44 490.5 270.9)"/>
+  <circle cx="448.6" cy="252.9" r="1.9" fill="#ffffff" opacity="0.7"/><circle cx="424.4" cy="345.2" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="504.4" cy="346.4" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="319.7" cy="228.9" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="394.1" cy="326.3" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="455.1" cy="361.7" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="479.2" cy="323.9" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="384.4" cy="382.6" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="378.7" cy="312.8" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="456.9" cy="348.2" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="385.8" cy="291.9" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="394.3" cy="296.6" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="343.9" cy="313.1" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="419.3" cy="371.3" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="409.2" cy="311.5" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="391.7" cy="273.2" r="3.7" fill="#3f6b32" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="162" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="121" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">JAPANESE</text>
+    </g>
+</svg>

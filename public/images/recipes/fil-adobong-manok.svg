@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Chicken Adobo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff2d9"/>
+      <stop offset="100%" stop-color="#ffdcc4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="607.5" cy="132.6" r="4.0" fill="#ffffff" opacity="0.26"/><circle cx="754.7" cy="168.6" r="4.5" fill="#ffffff" opacity="0.38"/><circle cx="639.8" cy="210.7" r="4.5" fill="#ffffff" opacity="0.19"/><circle cx="716.0" cy="190.8" r="10.1" fill="#ffffff" opacity="0.21"/><circle cx="729.2" cy="151.3" r="5.4" fill="#ffffff" opacity="0.29"/><circle cx="761.9" cy="359.3" r="3.8" fill="#ffffff" opacity="0.26"/><circle cx="74.8" cy="160.7" r="4.9" fill="#ffffff" opacity="0.27"/><circle cx="42.1" cy="428.2" r="4.0" fill="#ffffff" opacity="0.46"/><circle cx="717.3" cy="506.7" r="7.9" fill="#ffffff" opacity="0.21"/><circle cx="138.0" cy="360.0" r="3.5" fill="#ffffff" opacity="0.32"/><circle cx="275.3" cy="100.1" r="3.4" fill="#ffffff" opacity="0.20"/><circle cx="730.6" cy="505.6" r="3.3" fill="#ffffff" opacity="0.18"/><circle cx="315.6" cy="33.1" r="3.6" fill="#ffffff" opacity="0.48"/><circle cx="198.1" cy="496.7" r="10.5" fill="#ffffff" opacity="0.41"/><circle cx="177.5" cy="85.1" r="7.4" fill="#ffffff" opacity="0.42"/><circle cx="738.4" cy="343.2" r="5.6" fill="#ffffff" opacity="0.31"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="490.9" cy="303.4" rx="24.1" ry="15.2" fill="#d29b45" opacity="0.94" transform="rotate(91 490.9 303.4)"/><ellipse cx="445.8" cy="348.0" rx="34.7" ry="30.0" fill="#d29b45" opacity="0.94" transform="rotate(102 445.8 348.0)"/><ellipse cx="389.4" cy="360.9" rx="34.0" ry="22.1" fill="#87c46f" opacity="0.94" transform="rotate(177 389.4 360.9)"/><ellipse cx="304.5" cy="348.8" rx="45.1" ry="39.4" fill="#f2cd8c" opacity="0.94" transform="rotate(36 304.5 348.8)"/><ellipse cx="362.6" cy="273.3" rx="42.5" ry="31.5" fill="#f2cd8c" opacity="0.94" transform="rotate(11 362.6 273.3)"/><ellipse cx="352.7" cy="207.0" rx="32.6" ry="28.3" fill="#5f9e49" opacity="0.94" transform="rotate(61 352.7 207.0)"/><ellipse cx="416.1" cy="264.5" rx="30.9" ry="19.3" fill="#f2cd8c" opacity="0.94" transform="rotate(74 416.1 264.5)"/><ellipse cx="468.3" cy="265.5" rx="25.5" ry="18.1" fill="#e6b45f" opacity="0.94" transform="rotate(65 468.3 265.5)"/>
+  <circle cx="390.5" cy="294.4" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="367.8" cy="341.1" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="387.4" cy="285.2" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="397.1" cy="300.6" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="346.2" cy="292.0" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="413.6" cy="376.3" r="2.0" fill="#3f6b32" opacity="0.7"/><circle cx="413.2" cy="233.0" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="338.5" cy="303.0" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="478.8" cy="296.9" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="522.2" cy="306.5" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="411.7" cy="308.8" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="316.7" cy="218.0" r="1.6" fill="#3f6b32" opacity="0.7"/><circle cx="383.1" cy="291.6" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="467.6" cy="278.4" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="420.4" cy="327.3" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="401.6" cy="298.8" r="1.8" fill="#ffffff" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="162" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="121" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">FILIPINO</text>
+    </g>
+</svg>

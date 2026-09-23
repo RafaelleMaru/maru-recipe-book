@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Mexican Red Rice">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="140.8" cy="468.3" r="10.9" fill="#ffffff" opacity="0.27"/><circle cx="747.9" cy="527.5" r="10.2" fill="#ffffff" opacity="0.36"/><circle cx="458.2" cy="46.8" r="10.8" fill="#ffffff" opacity="0.29"/><circle cx="174.8" cy="30.7" r="10.9" fill="#ffffff" opacity="0.46"/><circle cx="173.2" cy="257.3" r="3.6" fill="#ffffff" opacity="0.22"/><circle cx="121.9" cy="478.0" r="10.4" fill="#ffffff" opacity="0.45"/><circle cx="668.5" cy="429.3" r="3.2" fill="#ffffff" opacity="0.27"/><circle cx="244.4" cy="56.8" r="9.7" fill="#ffffff" opacity="0.22"/><circle cx="590.5" cy="471.2" r="8.5" fill="#ffffff" opacity="0.27"/><circle cx="731.1" cy="46.3" r="4.2" fill="#ffffff" opacity="0.34"/><circle cx="243.2" cy="506.9" r="7.9" fill="#ffffff" opacity="0.32"/><circle cx="741.2" cy="435.3" r="7.2" fill="#ffffff" opacity="0.39"/><circle cx="663.9" cy="321.5" r="11.6" fill="#ffffff" opacity="0.21"/><circle cx="587.7" cy="110.2" r="11.8" fill="#ffffff" opacity="0.46"/><circle cx="652.6" cy="269.5" r="7.3" fill="#ffffff" opacity="0.42"/><circle cx="751.0" cy="180.4" r="3.8" fill="#ffffff" opacity="0.28"/><circle cx="43.9" cy="254.5" r="10.1" fill="#ffffff" opacity="0.29"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="180" fill="#e3b581" opacity="0.82"/>
+    <circle cx="400" cy="290" r="180" fill="none" stroke="#000000" stroke-opacity="0.06" stroke-width="3"/>
+  <ellipse cx="400" cy="296" rx="74" ry="56" fill="#fbfaf3" opacity="0.95"/><ellipse cx="463.8" cy="299.3" rx="28.8" ry="19.9" fill="#fbfaf4" opacity="0.94" transform="rotate(60 463.8 299.3)"/><ellipse cx="442.3" cy="370.3" rx="42.4" ry="31.9" fill="#fbfaf4" opacity="0.94" transform="rotate(157 442.3 370.3)"/><ellipse cx="387.4" cy="326.3" rx="45.9" ry="40.6" fill="#f4f1e6" opacity="0.94" transform="rotate(97 387.4 326.3)"/><ellipse cx="312.4" cy="353.7" rx="38.3" ry="28.2" fill="#fbfaf4" opacity="0.94" transform="rotate(169 312.4 353.7)"/><ellipse cx="308.9" cy="302.0" rx="27.7" ry="25.0" fill="#e6e1cf" opacity="0.94" transform="rotate(150 308.9 302.0)"/><ellipse cx="332.2" cy="255.4" rx="28.2" ry="18.7" fill="#f4f1e6" opacity="0.94" transform="rotate(146 332.2 255.4)"/><ellipse cx="359.0" cy="228.3" rx="29.2" ry="24.2" fill="#e6e1cf" opacity="0.94" transform="rotate(146 359.0 228.3)"/><ellipse cx="426.1" cy="258.5" rx="26.0" ry="19.7" fill="#e6e1cf" opacity="0.94" transform="rotate(160 426.1 258.5)"/><ellipse cx="438.8" cy="268.2" rx="29.0" ry="25.9" fill="#f4f1e6" opacity="0.94" transform="rotate(52 438.8 268.2)"/>
+  <circle cx="458.9" cy="246.2" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="516.6" cy="327.8" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="306.6" cy="266.2" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="355.8" cy="288.3" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="389.3" cy="299.8" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="417.8" cy="270.4" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="427.6" cy="306.1" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="397.3" cy="273.7" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="363.3" cy="264.9" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="366.0" cy="318.4" r="2.9" fill="#ffffff" opacity="0.7"/><circle cx="478.1" cy="212.9" r="3.9" fill="#3f6b32" opacity="0.7"/><circle cx="372.5" cy="290.4" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="510.9" cy="245.5" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="431.2" cy="247.0" r="4.0" fill="#ffffff" opacity="0.7"/><circle cx="344.8" cy="235.5" r="3.9" fill="#3f6b32" opacity="0.7"/><circle cx="418.1" cy="335.3" r="1.7" fill="#3f6b32" opacity="0.7"/>
+  
+    <g stroke="#ffffff" stroke-opacity="0.65" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M354 98 c -14 -26 14 -42 0 -62"/>
+      <path d="M400 86 c -16 -30 16 -48 0 -70"/>
+      <path d="M446 98 c -14 -26 14 -42 0 -62"/>
+    </g>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="151" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="115.5" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">MEXICAN</text>
+    </g>
+</svg>

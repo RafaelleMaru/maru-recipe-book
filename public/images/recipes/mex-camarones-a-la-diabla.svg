@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Deviled Shrimp">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="144.2" cy="370.3" r="7.5" fill="#ffffff" opacity="0.24"/><circle cx="138.8" cy="135.3" r="7.9" fill="#ffffff" opacity="0.36"/><circle cx="80.8" cy="203.7" r="9.3" fill="#ffffff" opacity="0.29"/><circle cx="148.1" cy="213.0" r="3.6" fill="#ffffff" opacity="0.28"/><circle cx="166.2" cy="206.0" r="9.8" fill="#ffffff" opacity="0.20"/><circle cx="31.0" cy="351.0" r="9.4" fill="#ffffff" opacity="0.42"/><circle cx="720.8" cy="427.1" r="9.8" fill="#ffffff" opacity="0.45"/><circle cx="196.5" cy="423.0" r="7.6" fill="#ffffff" opacity="0.27"/><circle cx="524.8" cy="485.3" r="11.1" fill="#ffffff" opacity="0.37"/><circle cx="117.4" cy="322.0" r="10.3" fill="#ffffff" opacity="0.41"/><circle cx="98.8" cy="432.1" r="8.6" fill="#ffffff" opacity="0.19"/><circle cx="40.6" cy="216.0" r="9.2" fill="#ffffff" opacity="0.42"/><circle cx="733.5" cy="128.2" r="4.4" fill="#ffffff" opacity="0.28"/><circle cx="596.8" cy="104.0" r="4.4" fill="#ffffff" opacity="0.46"/><circle cx="72.4" cy="122.5" r="10.7" fill="#ffffff" opacity="0.46"/><circle cx="277.0" cy="537.4" r="10.3" fill="#ffffff" opacity="0.28"/><circle cx="111.1" cy="524.3" r="5.9" fill="#ffffff" opacity="0.41"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="450.1" cy="291.3" rx="24.6" ry="20.5" fill="#f7c0a6" opacity="0.94" transform="rotate(99 450.1 291.3)"/><ellipse cx="437.9" cy="350.1" rx="39.2" ry="31.8" fill="#f7c0a6" opacity="0.94" transform="rotate(126 437.9 350.1)"/><ellipse cx="343.2" cy="343.1" rx="36.6" ry="22.9" fill="#74b45c" opacity="0.94" transform="rotate(97 343.2 343.1)"/><ellipse cx="305.7" cy="315.5" rx="23.1" ry="18.2" fill="#f7c0a6" opacity="0.94" transform="rotate(137 305.7 315.5)"/><ellipse cx="354.7" cy="270.1" rx="21.7" ry="13.9" fill="#ef9a76" opacity="0.94" transform="rotate(142 354.7 270.1)"/><ellipse cx="383.3" cy="222.7" rx="36.7" ry="28.6" fill="#5f9e49" opacity="0.94" transform="rotate(1 383.3 222.7)"/><ellipse cx="468.2" cy="234.9" rx="26.9" ry="22.1" fill="#ef9a76" opacity="0.94" transform="rotate(104 468.2 234.9)"/>
+  <circle cx="393.7" cy="320.7" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="511.7" cy="267.9" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="392.5" cy="313.2" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="413.0" cy="293.8" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="436.9" cy="292.3" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="330.9" cy="361.7" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="287.8" cy="325.7" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="369.1" cy="258.6" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="452.7" cy="217.9" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="281.4" cy="305.4" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="323.1" cy="231.8" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="410.1" cy="293.6" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="399.6" cy="283.7" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="512.9" cy="315.9" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="400.1" cy="290.4" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="418.9" cy="276.1" r="3.0" fill="#ffffff" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="151" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="115.5" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">MEXICAN</text>
+    </g>
+</svg>

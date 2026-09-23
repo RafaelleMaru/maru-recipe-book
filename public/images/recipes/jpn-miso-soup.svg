@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Miso Soup with Tofu and Wakame">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef4fc"/>
+      <stop offset="100%" stop-color="#fce7ef"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="671.1" cy="408.9" r="4.3" fill="#ffffff" opacity="0.19"/><circle cx="777.8" cy="525.9" r="5.4" fill="#ffffff" opacity="0.18"/><circle cx="549.5" cy="512.1" r="5.1" fill="#ffffff" opacity="0.42"/><circle cx="770.3" cy="147.5" r="11.4" fill="#ffffff" opacity="0.40"/><circle cx="174.3" cy="191.9" r="3.4" fill="#ffffff" opacity="0.44"/><circle cx="706.7" cy="356.2" r="4.7" fill="#ffffff" opacity="0.47"/><circle cx="769.5" cy="229.5" r="6.0" fill="#ffffff" opacity="0.46"/><circle cx="41.2" cy="440.8" r="4.5" fill="#ffffff" opacity="0.24"/><circle cx="52.8" cy="206.7" r="6.1" fill="#ffffff" opacity="0.22"/><circle cx="634.0" cy="392.4" r="5.1" fill="#ffffff" opacity="0.23"/><circle cx="432.7" cy="62.0" r="9.6" fill="#ffffff" opacity="0.39"/><circle cx="622.2" cy="414.2" r="5.1" fill="#ffffff" opacity="0.31"/><circle cx="741.4" cy="513.5" r="10.0" fill="#ffffff" opacity="0.29"/><circle cx="737.6" cy="413.9" r="9.4" fill="#ffffff" opacity="0.41"/><circle cx="24.0" cy="476.3" r="9.4" fill="#ffffff" opacity="0.36"/><circle cx="415.2" cy="521.6" r="4.2" fill="#ffffff" opacity="0.46"/><circle cx="81.6" cy="534.1" r="3.6" fill="#ffffff" opacity="0.32"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="180" fill="#cf9450" opacity="0.82"/>
+    <circle cx="400" cy="290" r="180" fill="none" stroke="#000000" stroke-opacity="0.06" stroke-width="3"/>
+  <ellipse cx="400" cy="296" rx="74" ry="56" fill="#e3b581" opacity="0.95"/><ellipse cx="491.5" cy="297.9" rx="38.2" ry="28.3" fill="#b67c3c" opacity="0.94" transform="rotate(101 491.5 297.9)"/><ellipse cx="474.3" cy="364.5" rx="39.0" ry="35.4" fill="#cf9450" opacity="0.94" transform="rotate(60 474.3 364.5)"/><ellipse cx="360.3" cy="365.9" rx="32.6" ry="25.3" fill="#e3b581" opacity="0.94" transform="rotate(24 360.3 365.9)"/><ellipse cx="322.3" cy="321.4" rx="33.0" ry="23.8" fill="#e3b581" opacity="0.94" transform="rotate(132 322.3 321.4)"/><ellipse cx="312.8" cy="278.2" rx="36.1" ry="28.2" fill="#b67c3c" opacity="0.94" transform="rotate(112 312.8 278.2)"/><ellipse cx="346.7" cy="225.6" rx="42.2" ry="30.6" fill="#e3b581" opacity="0.94" transform="rotate(83 346.7 225.6)"/><ellipse cx="408.6" cy="199.5" rx="39.3" ry="30.1" fill="#e3b581" opacity="0.94" transform="rotate(79 408.6 199.5)"/><ellipse cx="483.2" cy="268.2" rx="21.4" ry="14.8" fill="#cf9450" opacity="0.94" transform="rotate(109 483.2 268.2)"/>
+  <circle cx="403.7" cy="195.8" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="410.7" cy="310.1" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="433.5" cy="298.5" r="2.9" fill="#ffffff" opacity="0.7"/><circle cx="399.7" cy="200.0" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="405.1" cy="380.3" r="3.7" fill="#ffffff" opacity="0.7"/><circle cx="416.4" cy="299.4" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="436.5" cy="289.1" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="491.4" cy="226.7" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="423.6" cy="313.1" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="409.8" cy="301.4" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="440.2" cy="360.5" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="400.5" cy="307.0" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="396.6" cy="296.3" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="487.9" cy="249.7" r="2.3" fill="#ffffff" opacity="0.7"/><circle cx="370.3" cy="233.9" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="400.0" cy="372.1" r="2.0" fill="#ffffff" opacity="0.7"/>
+  
+    <g stroke="#ffffff" stroke-opacity="0.65" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M354 98 c -14 -26 14 -42 0 -62"/>
+      <path d="M400 86 c -16 -30 16 -48 0 -70"/>
+      <path d="M446 98 c -14 -26 14 -42 0 -62"/>
+    </g>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="162" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="121" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">JAPANESE</text>
+    </g>
+</svg>

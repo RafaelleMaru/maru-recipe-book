@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Ginger Pork">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef4fc"/>
+      <stop offset="100%" stop-color="#fce7ef"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="719.1" cy="306.5" r="5.3" fill="#ffffff" opacity="0.27"/><circle cx="30.2" cy="108.8" r="5.5" fill="#ffffff" opacity="0.24"/><circle cx="90.2" cy="401.6" r="3.4" fill="#ffffff" opacity="0.19"/><circle cx="165.2" cy="272.8" r="11.6" fill="#ffffff" opacity="0.20"/><circle cx="69.2" cy="259.0" r="9.0" fill="#ffffff" opacity="0.48"/><circle cx="695.6" cy="149.6" r="7.7" fill="#ffffff" opacity="0.42"/><circle cx="665.9" cy="328.7" r="9.8" fill="#ffffff" opacity="0.42"/><circle cx="676.2" cy="230.5" r="11.9" fill="#ffffff" opacity="0.29"/><circle cx="711.7" cy="63.0" r="4.5" fill="#ffffff" opacity="0.19"/><circle cx="118.5" cy="373.6" r="8.0" fill="#ffffff" opacity="0.36"/><circle cx="34.2" cy="437.0" r="11.0" fill="#ffffff" opacity="0.43"/><circle cx="614.3" cy="513.0" r="7.0" fill="#ffffff" opacity="0.22"/><circle cx="699.4" cy="106.9" r="4.1" fill="#ffffff" opacity="0.32"/><circle cx="100.4" cy="135.2" r="10.3" fill="#ffffff" opacity="0.19"/><circle cx="228.9" cy="459.1" r="10.0" fill="#ffffff" opacity="0.30"/><circle cx="181.4" cy="474.6" r="12.0" fill="#ffffff" opacity="0.44"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="444.8" cy="306.6" rx="38.7" ry="29.4" fill="#c97a73" opacity="0.94" transform="rotate(111 444.8 306.6)"/><ellipse cx="406.9" cy="320.3" rx="27.9" ry="19.6" fill="#c97a73" opacity="0.94" transform="rotate(34 406.9 320.3)"/><ellipse cx="378.3" cy="339.2" rx="23.0" ry="16.3" fill="#5f9e49" opacity="0.94" transform="rotate(139 378.3 339.2)"/><ellipse cx="334.6" cy="303.2" rx="43.9" ry="31.5" fill="#e0948e" opacity="0.94" transform="rotate(15 334.6 303.2)"/><ellipse cx="290.1" cy="246.4" rx="28.1" ry="19.8" fill="#f0b9b3" opacity="0.94" transform="rotate(15 290.1 246.4)"/><ellipse cx="393.0" cy="217.6" rx="38.6" ry="33.9" fill="#87c46f" opacity="0.94" transform="rotate(141 393.0 217.6)"/><ellipse cx="494.3" cy="254.3" rx="42.8" ry="38.3" fill="#c97a73" opacity="0.94" transform="rotate(31 494.3 254.3)"/>
+  <circle cx="433.6" cy="293.4" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="420.7" cy="350.8" r="3.1" fill="#3f6b32" opacity="0.7"/><circle cx="360.7" cy="305.9" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="321.4" cy="248.5" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="400.7" cy="290.1" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="277.0" cy="272.3" r="2.3" fill="#ffffff" opacity="0.7"/><circle cx="378.2" cy="266.9" r="2.3" fill="#ffffff" opacity="0.7"/><circle cx="480.0" cy="267.3" r="1.6" fill="#3f6b32" opacity="0.7"/><circle cx="406.2" cy="287.6" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="401.7" cy="368.9" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="418.2" cy="261.2" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="401.9" cy="239.6" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="303.3" cy="298.0" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="395.6" cy="309.2" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="311.0" cy="348.7" r="3.1" fill="#3f6b32" opacity="0.7"/><circle cx="429.6" cy="329.2" r="2.0" fill="#3f6b32" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="162" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="121" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">JAPANESE</text>
+    </g>
+</svg>

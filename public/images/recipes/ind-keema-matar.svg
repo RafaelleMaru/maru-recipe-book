@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Keema Matar">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff4dd"/>
+      <stop offset="100%" stop-color="#ffe1bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="628.4" cy="326.0" r="6.1" fill="#ffffff" opacity="0.44"/><circle cx="286.6" cy="71.0" r="3.3" fill="#ffffff" opacity="0.42"/><circle cx="623.3" cy="372.1" r="3.1" fill="#ffffff" opacity="0.42"/><circle cx="759.9" cy="103.8" r="4.5" fill="#ffffff" opacity="0.36"/><circle cx="716.1" cy="89.0" r="6.4" fill="#ffffff" opacity="0.42"/><circle cx="101.7" cy="461.7" r="9.7" fill="#ffffff" opacity="0.33"/><circle cx="164.0" cy="31.4" r="5.5" fill="#ffffff" opacity="0.32"/><circle cx="36.8" cy="115.7" r="11.6" fill="#ffffff" opacity="0.27"/><circle cx="385.4" cy="33.5" r="11.2" fill="#ffffff" opacity="0.39"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="494.6" cy="309.9" rx="34.1" ry="30.8" fill="#c9705c" opacity="0.94" transform="rotate(70 494.6 309.9)"/><ellipse cx="437.4" cy="362.3" rx="20.2" ry="16.0" fill="#a8503f" opacity="0.94" transform="rotate(171 437.4 362.3)"/><ellipse cx="391.5" cy="356.6" rx="25.1" ry="19.5" fill="#87c46f" opacity="0.94" transform="rotate(155 391.5 356.6)"/><ellipse cx="359.2" cy="320.4" rx="42.1" ry="30.7" fill="#a8503f" opacity="0.94" transform="rotate(131 359.2 320.4)"/><ellipse cx="310.9" cy="253.8" rx="40.0" ry="29.5" fill="#c9705c" opacity="0.94" transform="rotate(148 310.9 253.8)"/><ellipse cx="373.6" cy="259.1" rx="25.0" ry="22.0" fill="#87c46f" opacity="0.94" transform="rotate(8 373.6 259.1)"/><ellipse cx="408.8" cy="212.4" rx="35.0" ry="25.1" fill="#c9705c" opacity="0.94" transform="rotate(144 408.8 212.4)"/><ellipse cx="444.9" cy="269.1" rx="22.6" ry="17.3" fill="#a8503f" opacity="0.94" transform="rotate(98 444.9 269.1)"/>
+  <circle cx="434.5" cy="273.5" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="402.0" cy="292.3" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="329.7" cy="318.4" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="523.5" cy="277.6" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="517.6" cy="257.3" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="412.2" cy="315.0" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="349.9" cy="275.6" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="404.1" cy="291.5" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="504.4" cy="271.0" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="390.7" cy="258.1" r="3.4" fill="#ffffff" opacity="0.7"/><circle cx="332.3" cy="286.0" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="472.6" cy="264.6" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="393.7" cy="289.6" r="3.3" fill="#ffffff" opacity="0.7"/><circle cx="309.2" cy="306.1" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="386.5" cy="226.9" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="408.7" cy="284.9" r="3.6" fill="#ffffff" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="140" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="110" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">INDIAN</text>
+    </g>
+</svg>

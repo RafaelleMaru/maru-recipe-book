@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Bistek Tagalog">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff2d9"/>
+      <stop offset="100%" stop-color="#ffdcc4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="237.2" cy="478.3" r="6.1" fill="#ffffff" opacity="0.26"/><circle cx="22.1" cy="63.2" r="5.2" fill="#ffffff" opacity="0.47"/><circle cx="775.3" cy="190.7" r="5.3" fill="#ffffff" opacity="0.32"/><circle cx="760.8" cy="446.5" r="6.2" fill="#ffffff" opacity="0.39"/><circle cx="698.4" cy="494.6" r="11.0" fill="#ffffff" opacity="0.34"/><circle cx="150.1" cy="162.6" r="5.5" fill="#ffffff" opacity="0.42"/><circle cx="436.6" cy="23.4" r="8.3" fill="#ffffff" opacity="0.37"/><circle cx="753.3" cy="399.5" r="9.6" fill="#ffffff" opacity="0.20"/><circle cx="125.4" cy="54.5" r="10.2" fill="#ffffff" opacity="0.40"/><circle cx="667.0" cy="530.3" r="5.2" fill="#ffffff" opacity="0.28"/><circle cx="600.1" cy="406.6" r="8.1" fill="#ffffff" opacity="0.26"/><circle cx="119.9" cy="38.3" r="8.4" fill="#ffffff" opacity="0.43"/><circle cx="187.6" cy="429.0" r="7.6" fill="#ffffff" opacity="0.34"/><circle cx="225.8" cy="525.1" r="11.5" fill="#ffffff" opacity="0.44"/><circle cx="261.9" cy="83.6" r="8.2" fill="#ffffff" opacity="0.39"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="474.4" cy="299.5" rx="31.1" ry="20.5" fill="#8d3f31" opacity="0.94" transform="rotate(94 474.4 299.5)"/><ellipse cx="426.9" cy="318.4" rx="25.9" ry="17.0" fill="#a8503f" opacity="0.94" transform="rotate(0 426.9 318.4)"/><ellipse cx="383.4" cy="330.1" rx="41.8" ry="31.6" fill="#87c46f" opacity="0.94" transform="rotate(177 383.4 330.1)"/><ellipse cx="310.7" cy="314.1" rx="42.1" ry="26.4" fill="#8d3f31" opacity="0.94" transform="rotate(134 310.7 314.1)"/><ellipse cx="357.4" cy="262.7" rx="25.3" ry="19.1" fill="#c9705c" opacity="0.94" transform="rotate(146 357.4 262.7)"/><ellipse cx="411.5" cy="256.4" rx="23.9" ry="21.3" fill="#74b45c" opacity="0.94" transform="rotate(35 411.5 256.4)"/><ellipse cx="452.2" cy="250.2" rx="22.2" ry="18.6" fill="#a8503f" opacity="0.94" transform="rotate(77 452.2 250.2)"/>
+  <circle cx="416.1" cy="264.6" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="357.9" cy="252.7" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="485.7" cy="337.6" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="369.0" cy="212.6" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="317.0" cy="299.7" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="379.0" cy="324.5" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="406.3" cy="270.8" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="426.3" cy="240.0" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="427.1" cy="288.7" r="2.2" fill="#3f6b32" opacity="0.7"/><circle cx="404.7" cy="256.3" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="425.4" cy="273.9" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="370.2" cy="278.2" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="459.1" cy="333.6" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="380.5" cy="281.0" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="416.2" cy="368.8" r="3.7" fill="#ffffff" opacity="0.7"/><circle cx="304.3" cy="286.2" r="3.7" fill="#ffffff" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="162" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="121" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">FILIPINO</text>
+    </g>
+</svg>

@@ -1,0 +1,351 @@
+{
+  "jpn-oyakodon": {
+    "description": "Manok at sibuyas na sinimmer sa matamis na toyo-dashi sauce, tapos tinapos ng soft-set na itlog at ibinuhos sa mainit na kanin — yung one-bowl dinner na kinalakihan ng bawat batang Hapon.",
+    "ingredients": [
+      "boneless na hita ng manok na may balat, hiniwa nang bite-size",
+      "sibuyas, hiniwa nang manipis",
+      "itlog, banayad na hinalo",
+      "dashi",
+      "toyo",
+      "mirin",
+      "asukal",
+      "lutong Japanese short-grain rice",
+      "mitsuba o scallion, tinadtad, pang-garnish"
+    ],
+    "steps": [
+      "Ihalo ang dashi, toyo, mirin at asukal sa mangkok o kaldero at haluin hanggang matunaw ang asukal.",
+      "Idagdag ang hiniwang sibuyas at manok sa sauce sa loob ng malaking frying pan; takpan at i-simmer sa medium heat for 4-5 minutes hanggang halos maluto na ang manok.",
+      "Ibuhos ang kalahati ng hinalong itlog nang pantay-pantay sa ibabaw, takpan, at lutuin for 30 seconds.",
+      "Ibuhos ang natitirang itlog sa ibabaw, takpan, at lutuin for 1 minute more hanggang mag-set pero glossy pa rin at bahagyang runny sa gitna.",
+      "Idulas ang manok-at-itlog na timpla sa ibabaw ng mangkok ng mainit na kanin, budburan ng extra sauce sa ibabaw.",
+      "Budburan ng mitsuba o scallion at ihain agad."
+    ],
+    "tips": [
+      "Karaniwan, isa-isang niluluto ang bawat serving sa maliit na oyakodon pan para maayos ang pagdulas sa kanin; pwede rin gamit ang isang malaking pan kung pang-family dinner."
+    ],
+    "kidNote": "Lutuin nang mas matagal ang itlog (fully set, hindi runny) para sa mas batang kids na hindi pa sanay sa soft-cooked yolk.",
+    "nutritionNote": "Salty-sweet ang soy-mirin sauce; i-balance ang sodium gamit ang side na pickled o raw vegetables kaysa dagdag na toyo sa table."
+  },
+  "jpn-gyudon": {
+    "description": "Manipis na beef at sibuyas na sinimmer sa savory-sweet na dashi-soy broth at binuhusan sa kanin na may pickled ginger — ang paborito ng Japan na fast, cheap na beef bowl.",
+    "ingredients": [
+      "manipis na hiniwang beef (ribeye o chuck), hiniwa nang 3-inch",
+      "sibuyas, hiniwa nang manipis",
+      "scallion, hiniwa nang pahilis",
+      "dashi",
+      "sake",
+      "mirin",
+      "toyo",
+      "asukal",
+      "lutong Japanese short-grain rice",
+      "pickled red ginger (beni shoga), pang-garnish"
+    ],
+    "steps": [
+      "Hiwain nang manipis ang sibuyas at ihiwa ang scallion nang pahilis, manipis na piraso.",
+      "Sa malaking cold frying pan, ihalo ang dashi, sake, mirin, toyo at asukal, haluin hanggang matunaw ang asukal.",
+      "Ikalat ang sibuyas sa ibabaw ng sauce, tapos patungan ng beef slices, ikalat para matakpan ang sibuyas.",
+      "Takpan, i-set sa medium heat, tapos pag nagsi-simmer na i-lower sa low; lutuin for 3-4 minutes, tinatanggal ang foam at fat sa broth.",
+      "Budburan ng scallion sa ibabaw, takpan, at lutuin for 1 more minute hanggang maluto na ang beef.",
+      "Ihain sa mangkok ng mainit na kanin, budburan ng extra broth, at topan ng pickled red ginger."
+    ],
+    "tips": [
+      "I-simmer nang mahinay lang, huwag pakuluin nang malakas — pag hard boiling, tumitigas ang manipis na beef slices."
+    ],
+    "nutritionNote": "Soy-sauce-forward at maalat ang sauce; ihain kasabay ng vegetable side tulad ng shredded cabbage o cucumber salad sa halip na dagdag na toyo sa table."
+  },
+  "jpn-shogayaki": {
+    "description": "Manipis na pork loin na pinirito sa pan at ni-glaze sa matapang na soy-mirin-ginger sauce na may sauteed sibuyas — five-ingredient weeknight staple na makikita halos sa bawat teishoku set-meal menu.",
+    "ingredients": [
+      "manipis na hiniwang pork loin",
+      "sake, pang-marinate sa pork",
+      "all-purpose flour, panbudbod",
+      "neutral oil",
+      "sibuyas, hiniwa",
+      "luya (mga 10cm), kinudkod, itabi ang juice",
+      "toyo",
+      "mirin",
+      "sake",
+      "asukal",
+      "kinudkod na sibuyas na may juice"
+    ],
+    "steps": [
+      "Kudkurin ang luya at kaunting sibuyas, itabi ang mga juice para sa sauce.",
+      "Ihalo ang toyo, mirin, sake, asukal, kalahati ng ginger juice at ang kinudkod na sibuyas sa mangkok para gawin ang sauce.",
+      "I-toss ang pork sa sake pang-marinate at ang natitirang ginger juice; budburan nang bahagya ng flour, ipagpag ang sobra.",
+      "Painitin ang oil sa malaking skillet sa medium-high heat at lutuin ang pork nang paka-batch hanggang hindi na pink; ilipat sa plato.",
+      "I-saute ang hiniwang sibuyas sa parehong pan hanggang malambot at translucent, mga 6-8 minutes.",
+      "Ibalik ang pork sa pan, ibuhos ang sauce, at i-simmer for 2 minutes, budburan ng sauce sa karne hanggang glossy at bahagyang lumapot.",
+      "Ihain mainit na may shredded raw cabbage at kanin."
+    ],
+    "tips": [
+      "Budburan ng flour ang pork bago mismo lutuin, hindi masyadong maaga — para dumikit at lumapot nang maayos ang sauce, hindi gooey."
+    ],
+    "nutritionNote": "Salty-sweet ang glaze; ang classic pairing na malaking pile ng raw shredded cabbage ay nagdadagdag ng fibre at nagpapabawas sa sodium per bite, kaya huwag i-skip."
+  },
+  "jpn-salmon-teriyaki": {
+    "description": "Pan-seared salmon na steamed nang sandali sa ilalim ng takip, tapos ni-glaze sa makintab na soy-mirin-sake sauce hanggang sticky-sweet — mas mabilis pa sa delivery at sigurado ang thumbs-up ng mga bata.",
+    "ingredients": [
+      "skin-on salmon fillets (mga 150g each, 2cm ang kapal)",
+      "kosher salt",
+      "black pepper",
+      "all-purpose flour",
+      "neutral oil",
+      "unsalted butter",
+      "sake, pang-steam",
+      "sake",
+      "mirin",
+      "toyo",
+      "asukal"
+    ],
+    "steps": [
+      "I-pat dry ang salmon, budburan ng asin at paminta ang dalawang side, tapos budburan nang pantay ng flour.",
+      "Ihalo ang sake, mirin, toyo at asukal sa mangkok, haluin o bahagyang initin hanggang matunaw ang asukal.",
+      "Painitin ang oil at butter sa malaking skillet sa medium heat; i-sear ang salmon skin-side down for 3 minutes hanggang golden.",
+      "I-flip ang fillets, idagdag ang 2 tbsp sake pang-steam, takpan, ibaba ang heat sa low, at i-steam for 3-5 minutes hanggang maluto na.",
+      "Ilipat ang salmon sa plato, ibuhos ang teriyaki sauce sa pan, at painitin hanggang kumulo.",
+      "Ibalik ang salmon sa pan at budburan ng sauce hanggang glossy at bahagyang lumapot; ihain agad na may pan sauce sa ibabaw."
+    ],
+    "tips": [
+      "Ang pag-dredge sa isda sa flour bago i-sear ang dahilan kung bakit dumidikit at lumalapot ang sauce sa halip na maging manipis na likido."
+    ],
+    "kidNote": "Mas mataba ang salmon; i-flake ang bawat portion at suriin nang mabuti kung may natitirang pin bones bago ihain sa 6-year-old — karamihan ng bata mahilig sa sweet glaze.",
+    "nutritionNote": "Magandang source ng omega-3s mula sa salmon, pero mabigat sa asukal at toyo ang glaze; iwasan ang dagdag na toyo sa kanin at ihain kasabay ng plain vegetable side."
+  },
+  "jpn-chicken-karaage": {
+    "description": "Bite-sized na hita ng manok na ni-marinate sa luya, bawang, toyo at sake, tapos double-fried sa potato starch para sa shatter-crisp na crust at juicy sa loob — paborito ng Japan na fried chicken.",
+    "ingredients": [
+      "boneless na hita ng manok na may balat, hiniwa nang 2-inch",
+      "kosher salt",
+      "black pepper",
+      "kinudkod na luya, may juice",
+      "bawang, tinadtad",
+      "toyo",
+      "sake",
+      "toasted sesame oil",
+      "potato starch (o cornstarch)",
+      "all-purpose flour",
+      "neutral oil, pang-deep-fry",
+      "lemon wedges, pang-serve",
+      "Kewpie mayonnaise, pang-serve",
+      "shichimi togarashi, pang-serve"
+    ],
+    "steps": [
+      "Budburan ng asin at paminta ang manok.",
+      "Idagdag ang kinudkod na luya, bawang, toyo, sake at sesame oil; i-toss para mabalutan at i-marinate sa fridge for 30 minutes.",
+      "Maghanda ng hiwalay na pile ng flour at potato starch; i-dredge ang bawat piraso ng manok sa flour muna, tapos sa potato starch, ipagpag ang sobra.",
+      "Painitin ang oil sa heavy pot sa 160°C (325°F) at iprito ang manok nang paka-batch for 90 seconds hanggang pale gold; i-drain sa wire rack.",
+      "Taasan ang oil temperature sa 180°C (350°F) at iprito ulit ang bawat batch for 45 seconds hanggang deep golden at crisp.",
+      "I-drain nang maigi at ihain mainit na may lemon wedges, Kewpie mayonnaise at shichimi togarashi."
+    ],
+    "tips": [
+      "Sulit ang 30-minute marinade — ito ang talagang nagtitimpla sa karne, hindi lang nagko-coat sa labas.",
+      "Ang double fry ang trick: mas mababang first fry ang magluluto sa manok, at mas mainit, mas mabilis na second fry ang mag-crisp sa crust nang hindi natutuyo ang karne."
+    ],
+    "kidNote": "Ilayo muna ang shichimi togarashi sa portion ng mga bata at ipa-dip na lang sa ketchup o mayo — kusang kid-approved naman ito kahit walang spice.",
+    "nutritionNote": "Deep-fried ito, kaya ituring na weekend o party dish sa halip na weeknight regular; i-balance ang plato ng vegetable side at bawasan ang mayo dip."
+  },
+  "jpn-curry-rice": {
+    "description": "Manok, carrot at patatas na sinimmer sa stock at natunaw sa makapal, mild ang spice na roux — ang one-pot family dinner na halos bawat Japanese pantry ay may nakatagong box ng curry roux.",
+    "ingredients": [
+      "sibuyas, hiniwa nang makapal na wedges",
+      "carrot, rolling-cut na chunks",
+      "patatas, quartered at binabad for 15 minutes",
+      "boneless na hita ng manok na walang balat, hiniwa nang chunks",
+      "kinudkod na luya",
+      "bawang, tinadtad",
+      "mansanas, kinudkod",
+      "neutral oil",
+      "chicken stock",
+      "Japanese curry roux, mild (hal. S&B Golden Curry o House Vermont Curry)",
+      "pulot",
+      "toyo",
+      "ketchup",
+      "lutong Japanese short-grain rice"
+    ],
+    "steps": [
+      "Hiwain ang sibuyas nang makapal na wedges, ang carrot nang rolling-cut chunks, at ang patatas nang malalaking quarters; ibabad ang patatas sa tubig for 15 minutes para matanggal ang sobrang starch.",
+      "Painitin ang oil sa malaking pot sa medium heat at i-saute ang sibuyas hanggang malambot at golden, mga 5 minutes; idagdag ang bawang at luya at haluin hanggang mabango.",
+      "Idagdag ang manok at lutuin, haluin, hanggang hindi na pink sa labas.",
+      "Ibuhos ang stock, tapos idagdag ang kinudkod na mansanas, pulot, toyo at ketchup; dapat halos matakpan ng liquid ang mga sangkap.",
+      "Idagdag ang carrot at ang tinuyong patatas, pakuluin, at alisin ang foam.",
+      "Takpan at i-simmer sa medium-low heat for 15 minutes, haluin paminsan-minsan, hanggang halos malambot na ang gulay.",
+      "Patayin ang apoy, dagdagin ang curry roux sa maliliit na piraso, at tunawin nang paunti-unti gamit ang mainit na liquid, ihalo pabalik sa pot.",
+      "I-simmer nang bukas sa medium-low heat for 5-10 minutes, haluin madalas, hanggang lumapot; bantayan para hindi masunog sa ilalim.",
+      "Ihain nang nakabuhos sa kanin, may side na fukujinzuke pickles kung meron."
+    ],
+    "tips": [
+      "Malawak ang range ng curry roux blocks mula mild hanggang very hot — gamitin ang mild (amakuchi) block para sa family pot; may background spice pa rin ito pero hindi totoong maanghang."
+    ],
+    "kidNote": "Gamitin ang mild block para sa buong pot sa halip na gumawa ng hiwalay na spicy batch — talagang mahinahon ang Japanese curry roux sa 'mild' at ito ang iniserve ng karamihan ng pamilya sa 6-year-old.",
+    "nutritionNote": "Mataas sa fat at sodium ang curry roux mismo; dagdagan ang pot ng extra carrot at patatas at ihain kasabay ng simpleng salad para ma-stretch ang gulay."
+  },
+  "jpn-nikujaga": {
+    "description": "Manipis na beef, patatas, carrot at shirataki noodles na sinimmer sa soy-mirin-dashi broth hanggang malambot na malambot ang patatas — ang tunay na home-style simmered dish, mas masarap pa kinabukasan.",
+    "ingredients": [
+      "neutral oil",
+      "manipis na hiniwang beef (ribeye o chuck), hiniwa nang bite-size",
+      "sibuyas, hiniwa nang wedges",
+      "carrot, rolling-cut na chunks",
+      "Yukon gold na patatas (mga 550g), quartered",
+      "shirataki noodles, pinarboil at hiniwa nang kalahati",
+      "snow peas, tinanggalan ng strings, blanched",
+      "dashi",
+      "mirin",
+      "toyo",
+      "sake",
+      "asukal"
+    ],
+    "steps": [
+      "I-blanch ang snow peas sa maalat na kumukulong tubig for 1 minute at itabi; i-parboil ang shirataki noodles ayon sa package directions, i-drain, at hiwain nang kalahati.",
+      "Painitin ang oil sa malaking pot at i-saute ang sibuyas wedges sa medium heat hanggang mabalutan at nagsisimulang lumambot.",
+      "Idagdag ang beef at lutuin, hatiin ang mga piraso, hanggang hindi na pink.",
+      "Idagdag ang patatas, carrot at shirataki; haluin para mabalutan sa fat at juices.",
+      "Ibuhos ang dashi, pakuluin, at alisin ang foam.",
+      "Idagdag ang asukal, sake, toyo at mirin; takpan ng drop lid (otoshibuta) o parchment round at i-simmer for 12-14 minutes hanggang malambot ang patatas.",
+      "Alisin sa apoy at hayaang tumigil, nakabukas, for at least 15 minutes para masipsip pa ng patatas ang broth.",
+      "Ihalo ang blanched snow peas, painitin ulit nang bahagya, at ihain sa malalim na mangkok kasama ang broth."
+    ],
+    "tips": [
+      "Pinapanatili ng drop lid ang patatas na nakalubog para pantay ang pagkaluto nang hindi nadudurog — pwedeng gamitin din ang parchment paper na may butas para sa singaw.",
+      "Classic nimono ito: mas masarap pa pagkatapos mahimlay off the heat, o kinabukasan pag-init ulit."
+    ],
+    "nutritionNote": "Balanced na one-pot ng karne, patatas at gulay; maalat mismo ang broth, kaya bigyan ang maliliit na bata ng mas kaunting sabaw at dagdagan na lang ng patatas at carrot ang mangkok nila."
+  },
+  "jpn-yakisoba": {
+    "description": "Steamed na wheat noodles na stir-fried kasama ang pork belly at repolyo sa sweet-tangy Worcestershire-ketchup sauce — ang sizzling griddle food ng summer festivals, ginawa sa isang pan lang sa bahay.",
+    "ingredients": [
+      "steamed yakisoba noodles (mga 150g each)",
+      "manipis na hiniwang pork belly",
+      "neutral oil",
+      "green cabbage, magaspang na tinadtad",
+      "carrot, julienned",
+      "sibuyas, hiniwa nang manipis",
+      "scallion, hiniwa nang 2-inch",
+      "shiitake mushroom, hiniwa",
+      "black pepper",
+      "Worcestershire sauce",
+      "oyster sauce",
+      "ketchup",
+      "toyo",
+      "asukal"
+    ],
+    "steps": [
+      "Ihalo ang Worcestershire sauce, oyster sauce, ketchup, toyo at asukal; tikman at i-adjust ang tamis.",
+      "Luwagan ang noodles gamit ang kaunting tubig o sa microwave, tapos painitin nang bahagya sa mainit na griddle o wok; ilipat sa plato.",
+      "Lutuin ang pork belly sa oil sa high heat hanggang hindi na pink; timplahan ng kaunting paminta.",
+      "Idagdag ang sibuyas, tapos ang carrot, stir-fry for 1-2 minutes each.",
+      "Idagdag ang repolyo, shiitake at scallion; stir-fry hanggang malanta ang repolyo.",
+      "Ibalik ang noodles sa pan, ibuhos ang sauce, at i-toss ang lahat hanggang pantay na na-coat at glossy.",
+      "Ihain agad, topan ng aonori at pickled red ginger kung gagamitin."
+    ],
+    "tips": [
+      "Iba-iba ang tamis at asim ng ketchup at Worcestershire sauce depende sa brand — tikman muna ang sauce bago idagdag at i-adjust ng dagdag na asukal o toyo."
+    ],
+    "nutritionNote": "Sweet at salty ang Worcestershire-ketchup sauce pero mas mababa sa sodium kaysa straight na toyo dish; punuin ang pan ng extra repolyo at carrot para mas marami ang gulay kaysa noodles."
+  },
+  "jpn-miso-soup": {
+    "description": "Malambot na tofu at wakame sa bonito-kombu dashi, tinapos ng tinunaw na miso paste — ang five-minute soup na nagbubukas halos sa bawat Japanese meal, savory pero hindi mabigat.",
+    "ingredients": [
+      "tubig",
+      "kombu (tuyong kelp), mga 10cm square",
+      "katsuobushi (dried bonito flakes), maluwag na sukat",
+      "soft o silken tofu, hiniwa nang 1/2-inch cubes",
+      "miso paste",
+      "dried wakame seaweed",
+      "scallion, hiniwa nang manipis"
+    ],
+    "steps": [
+      "Ibabad ang kombu sa tubig at painitin nang dahan-dahan sa medium-low heat; alisin ang kombu bago pa kumulo ang tubig.",
+      "Idagdag ang katsuobushi, pakuluin ulit, at i-simmer for 30 seconds.",
+      "Patayin ang apoy, hayaang lumubog ang bonito flakes for about 10 minutes, tapos i-strain sa fine sieve — ito na ang dashi.",
+      "Ibalik ang dashi sa pot, idagdag ang tofu at wakame, at pakuluin nang bahagya.",
+      "Kumuha ng kaunting mainit na dashi sa maliit na mangkok, tunawin ang miso paste dito, tapos ihalo pabalik sa pot; huwag hayaang kumulo ulit ang sabaw pag nasa loob na ang miso.",
+      "Budburan ng scallion sa ibabaw at ihain agad."
+    ],
+    "tips": [
+      "Huwag hayaang kumulo ang soup pag nailagay na ang miso — nawawala ang aroma at flat ang flavor sa high heat."
+    ],
+    "kidNote": "Malakas ang lasa ng bonito dashi na baka masyadong strong para sa ilang batang bata; gamitan ng mas kaunting miso ang mangkok nila at unti-untiin lang hanggang sa full recipe.",
+    "nutritionNote": "Isa sa pinaka-maalat na sangkap sa Japanese cooking ang miso paste; medyo katamtaman na ang 4 tbsp para sa 4 na mangkok dito, kaya i-skip na lang ang extra toyo sa ibang bahagi ng meal."
+  },
+  "jpn-horenso-gomaae": {
+    "description": "Blanched na spinach na piniga hanggang tuyo at tinoss sa malinamnam na ground-sesame, toyo at asukal na dressing — make-ahead na vegetable side at isa sa iilang genuinely low-sodium na ulam sa table.",
+    "ingredients": [
+      "spinach, hinugasan at tinabas",
+      "asin, pang-blanching water",
+      "white sesame seeds, toasted",
+      "toyo",
+      "asukal"
+    ],
+    "steps": [
+      "Toastin ang sesame seeds sa tuyong pan sa medium-high heat, ipagpag nang paulit-ulit, hanggang mabango, mga 1-2 minutes.",
+      "Gilingin ang karamihan ng seeds gamit ang mortar and pestle, mag-iwan ng ilan na buo para sa texture, tapos ihalo ang toyo at asukal para sa dressing.",
+      "Pakuluin ang maalat na tubig sa pot at maghanda ng ice bath sa tabi.",
+      "Isawsaw muna ang tangkay ng spinach, hawakan for 20 seconds, tapos ilubog ang mga dahon; lutuin for 30-45 seconds total hanggang malambot lang.",
+      "Isawsaw agad ang spinach sa ice water para itigil ang pagkaluto at ma-set ang kulay.",
+      "Pigain nang mabuti ang spinach para matanggal ang sobrang tubig, tapos hiwain nang 1-inch.",
+      "I-toss ang spinach sa sesame dressing bago mismo ihain."
+    ],
+    "tips": [
+      "Pigain nang husto ang spinach — talagang husto — kung hindi tumutubig ang dressing sa halip na dumikit sa mga dahon.",
+      "Tumatagal ng 3 days sa fridge ang dressed spinach, kaya gumawa ng doble para sa baon."
+    ],
+    "nutritionNote": "Isa sa iilang genuinely low-sodium na ulam sa washoku spread; asahan ito para sa iron at fibre lalo na kung maalat na ang ibang ulam (miso soup, teriyaki)."
+  },
+  "jpn-tamagoyaki": {
+    "description": "Layers ng bahagyang matamis na itlog na rolled papuntang neat na rectangle sa maliit na pan — bento-box staple at kadalasan ang unang ulam na natututunan ng maraming batang Hapon na lutuin.",
+    "ingredients": [
+      "itlog",
+      "asukal",
+      "asin",
+      "usukuchi soy sauce (light-coloured soy sauce)",
+      "tubig",
+      "neutral oil, panggrasa ng pan"
+    ],
+    "steps": [
+      "Sa mangkok, ihalo ang itlog, asukal, asin, toyo at tubig; 'gupitin' ang timpla gamit ang chopsticks sa zigzag motion sa halip na batihin, para hindi masyadong pumasok ang hangin.",
+      "Painitin ang rectangular na tamagoyaki pan (o maliit na frying pan) sa medium heat at punasan ng oiled paper towel.",
+      "Ibuhos ang manipis na layer ng egg mixture, itagilid ang pan para pantay ang pagkalat, at butasin ang mga air bubbles.",
+      "Kapag naka-set na ang ilalim pero medyo basa pa ang taas, i-roll ang itlog mula sa malayong gilid papunta sa'yo para gumawa ng log.",
+      "Grasahan ulit ang pan, idulas ang rolled omelette sa malayong side, tapos ibuhos ang isa pang manipis na layer ng itlog sa ilalim at paligid nito.",
+      "Ulitin ang pag-roll at pagdagdag ng layers hanggang maubos ang egg mixture, mga 3-4 layers total.",
+      "Diinan nang bahagya ang tapos na roll para ayusin ang hugis, tapos hayaang lumamig for 5 minutes bago hiwain nang 6-8 pieces."
+    ],
+    "tips": [
+      "Panatilihin ang heat sa medium, hindi high — dapat mag-set nang dahan-dahan ang tamagoyaki sa layers sa halip na mag-brown o mamaga.",
+      "Ang pagbalot sa warm roll gamit ang bamboo sushi mat for a minute ay tumutulong para hawakan nito ang neat na rectangular shape habang lumalamig."
+    ],
+    "nutritionNote": "Low-effort, low-sodium na protina kumpara sa ibang ulam sa washoku spread (2 tsp lang na toyo ang gamit ng batch na ito para sa 6 na itlog) — magandang paraan para ma-stretch ang meal o punuin ang lunchbox."
+  },
+  "jpn-kitsune-udon": {
+    "description": "Makapal, chewy na udon noodles sa malinaw na bonito dashi broth na may toppings na sweet soy-simmered fried tofu pouches — ang pinaka-cozy, pinaka-mild na noodle soup sa Japanese home repertoire.",
+    "ingredients": [
+      "kombu (tuyong kelp), mga 10cm x 25cm",
+      "tubig",
+      "katsuobushi (dried bonito flakes), naka-pack",
+      "mirin",
+      "asukal",
+      "usukuchi soy sauce (light-coloured soy sauce)",
+      "asin",
+      "inari age (seasoned fried tofu pouches)",
+      "scallion, hiniwa nang manipis",
+      "narutomaki (fish cake)",
+      "udon noodle servings (fresh, frozen o dried)",
+      "shichimi togarashi"
+    ],
+    "steps": [
+      "Ibabad ang kombu sa tubig for 30 minutes, tapos painitin nang dahan-dahan hanggang magkaroon ng maliliit na bubbles; alisin ang kombu bago pa kumulo.",
+      "Idagdag ang katsuobushi, i-simmer for 15 seconds, tapos patayin ang apoy at hayaang lumubog ang flakes for 10-15 minutes bago i-strain — ito na ang dashi.",
+      "Ibalik ang dashi sa saucepan, idagdag ang mirin, asukal, toyo at asin, pakuluin, tapos ibaba sa mahinang simmer.",
+      "Pigain ang sobrang liquid sa inari age pouches; hiwain nang manipis ang scallion at narutomaki.",
+      "Pakuluin ang udon noodles ayon sa package directions (mga 1 minute para sa frozen, mas matagal para sa dried), tapos i-drain nang mabuti.",
+      "Hatiin ang noodles sa malalim na mangkok, buhusan ng mainit na broth, at topan ng inari age, narutomaki at scallion.",
+      "Ihain agad na may shichimi togarashi sa tabi."
+    ],
+    "tips": [
+      "Magtago ng frozen udon — nagluluto ito mula frozen in about a minute at mas springy ang bite kaysa dried noodles."
+    ],
+    "kidNote": "Tulad ng miso soup, malakas ang bonito-dashi flavor ng broth na ito; kung bago pa lang ang mga bata dito, simulan sa medyo diluted na broth at unti-untiin papunta sa full-strength recipe.",
+    "nutritionNote": "Nagdadagdag ng sodium ang broth at ang seasoned tofu pouches; i-balance ang mangkok ng side na sesame spinach o ibang plain vegetable sa halip na dagdag na toppings."
+  }
+}

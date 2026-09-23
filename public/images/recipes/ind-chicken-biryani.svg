@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Chicken Biryani">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff4dd"/>
+      <stop offset="100%" stop-color="#ffe1bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="693.7" cy="488.8" r="6.8" fill="#ffffff" opacity="0.32"/><circle cx="35.0" cy="258.9" r="10.3" fill="#ffffff" opacity="0.37"/><circle cx="755.9" cy="121.1" r="7.9" fill="#ffffff" opacity="0.27"/><circle cx="151.3" cy="377.0" r="4.9" fill="#ffffff" opacity="0.44"/><circle cx="74.9" cy="396.8" r="3.1" fill="#ffffff" opacity="0.28"/><circle cx="121.6" cy="121.0" r="4.0" fill="#ffffff" opacity="0.18"/><circle cx="594.2" cy="57.9" r="10.3" fill="#ffffff" opacity="0.19"/><circle cx="80.5" cy="20.8" r="7.1" fill="#ffffff" opacity="0.27"/><circle cx="712.0" cy="457.7" r="8.7" fill="#ffffff" opacity="0.43"/><circle cx="603.7" cy="434.3" r="8.3" fill="#ffffff" opacity="0.43"/><circle cx="30.7" cy="209.8" r="7.8" fill="#ffffff" opacity="0.41"/><circle cx="746.8" cy="408.4" r="3.8" fill="#ffffff" opacity="0.47"/><circle cx="116.3" cy="233.2" r="10.4" fill="#ffffff" opacity="0.45"/><circle cx="24.3" cy="442.2" r="10.5" fill="#ffffff" opacity="0.22"/><circle cx="264.5" cy="485.6" r="4.0" fill="#ffffff" opacity="0.39"/><circle cx="694.8" cy="130.7" r="10.7" fill="#ffffff" opacity="0.33"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="180" fill="#e3b581" opacity="0.82"/>
+    <circle cx="400" cy="290" r="180" fill="none" stroke="#000000" stroke-opacity="0.06" stroke-width="3"/>
+  <ellipse cx="400" cy="296" rx="74" ry="56" fill="#fbfaf3" opacity="0.95"/><ellipse cx="475.7" cy="291.2" rx="45.7" ry="38.8" fill="#f4f1e6" opacity="0.94" transform="rotate(8 475.7 291.2)"/><ellipse cx="432.0" cy="361.2" rx="41.1" ry="34.3" fill="#fbfaf4" opacity="0.94" transform="rotate(161 432.0 361.2)"/><ellipse cx="351.8" cy="370.2" rx="23.3" ry="15.2" fill="#87c46f" opacity="0.94" transform="rotate(65 351.8 370.2)"/><ellipse cx="326.9" cy="315.4" rx="34.7" ry="29.1" fill="#f4f1e6" opacity="0.94" transform="rotate(62 326.9 315.4)"/><ellipse cx="345.1" cy="269.0" rx="40.0" ry="29.3" fill="#e6e1cf" opacity="0.94" transform="rotate(65 345.1 269.0)"/><ellipse cx="359.7" cy="249.7" rx="35.2" ry="28.0" fill="#5f9e49" opacity="0.94" transform="rotate(86 359.7 249.7)"/><ellipse cx="417.6" cy="195.3" rx="28.7" ry="25.6" fill="#f4f1e6" opacity="0.94" transform="rotate(40 417.6 195.3)"/><ellipse cx="443.7" cy="277.0" rx="22.8" ry="15.7" fill="#fbfaf4" opacity="0.94" transform="rotate(139 443.7 277.0)"/>
+  <circle cx="406.3" cy="286.4" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="464.9" cy="269.3" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="425.0" cy="223.8" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="343.4" cy="281.8" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="436.2" cy="310.1" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="429.6" cy="308.8" r="2.2" fill="#3f6b32" opacity="0.7"/><circle cx="346.1" cy="270.0" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="465.4" cy="260.9" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="401.2" cy="291.0" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="354.9" cy="199.7" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="330.6" cy="227.3" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="372.6" cy="270.7" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="400.9" cy="290.6" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="411.5" cy="374.7" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="394.8" cy="290.1" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="389.6" cy="288.8" r="2.2" fill="#3f6b32" opacity="0.7"/>
+  
+    <g stroke="#ffffff" stroke-opacity="0.65" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M354 98 c -14 -26 14 -42 0 -62"/>
+      <path d="M400 86 c -16 -30 16 -48 0 -70"/>
+      <path d="M446 98 c -14 -26 14 -42 0 -62"/>
+    </g>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="140" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="110" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">INDIAN</text>
+    </g>
+</svg>

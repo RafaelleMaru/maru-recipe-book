@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Chicken Tinga">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="695.2" cy="238.2" r="8.8" fill="#ffffff" opacity="0.44"/><circle cx="670.5" cy="410.8" r="6.4" fill="#ffffff" opacity="0.35"/><circle cx="643.7" cy="202.7" r="5.8" fill="#ffffff" opacity="0.24"/><circle cx="675.4" cy="344.6" r="8.2" fill="#ffffff" opacity="0.25"/><circle cx="701.2" cy="496.2" r="11.4" fill="#ffffff" opacity="0.38"/><circle cx="145.6" cy="143.9" r="11.6" fill="#ffffff" opacity="0.26"/><circle cx="239.8" cy="20.5" r="9.8" fill="#ffffff" opacity="0.46"/><circle cx="56.1" cy="272.0" r="7.7" fill="#ffffff" opacity="0.43"/><circle cx="365.8" cy="53.4" r="10.4" fill="#ffffff" opacity="0.29"/><circle cx="562.4" cy="95.7" r="10.5" fill="#ffffff" opacity="0.41"/><circle cx="721.9" cy="508.7" r="6.4" fill="#ffffff" opacity="0.40"/><circle cx="687.3" cy="162.2" r="5.3" fill="#ffffff" opacity="0.28"/><circle cx="131.6" cy="176.3" r="10.6" fill="#ffffff" opacity="0.43"/><circle cx="611.9" cy="25.3" r="5.3" fill="#ffffff" opacity="0.30"/><circle cx="602.3" cy="407.4" r="4.1" fill="#ffffff" opacity="0.42"/><circle cx="687.3" cy="122.1" r="6.5" fill="#ffffff" opacity="0.34"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="446.5" cy="310.5" rx="28.6" ry="24.2" fill="#f2cd8c" opacity="0.94" transform="rotate(7 446.5 310.5)"/><ellipse cx="428.4" cy="318.2" rx="20.6" ry="15.6" fill="#f2cd8c" opacity="0.94" transform="rotate(89 428.4 318.2)"/><ellipse cx="396.5" cy="330.9" rx="20.4" ry="16.1" fill="#87c46f" opacity="0.94" transform="rotate(79 396.5 330.9)"/><ellipse cx="332.8" cy="359.3" rx="32.8" ry="27.7" fill="#d29b45" opacity="0.94" transform="rotate(3 332.8 359.3)"/><ellipse cx="323.1" cy="283.6" rx="44.7" ry="30.3" fill="#d29b45" opacity="0.94" transform="rotate(30 323.1 283.6)"/><ellipse cx="337.6" cy="241.4" rx="35.1" ry="28.6" fill="#87c46f" opacity="0.94" transform="rotate(68 337.6 241.4)"/><ellipse cx="364.3" cy="213.8" rx="37.3" ry="29.7" fill="#e6b45f" opacity="0.94" transform="rotate(76 364.3 213.8)"/><ellipse cx="455.7" cy="221.5" rx="42.0" ry="37.6" fill="#f2cd8c" opacity="0.94" transform="rotate(157 455.7 221.5)"/><ellipse cx="451.9" cy="280.9" rx="39.4" ry="32.7" fill="#87c46f" opacity="0.94" transform="rotate(117 451.9 280.9)"/>
+  <circle cx="342.6" cy="248.3" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="396.5" cy="295.9" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="384.0" cy="268.9" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="302.2" cy="348.2" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="390.9" cy="240.1" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="395.6" cy="300.5" r="2.0" fill="#3f6b32" opacity="0.7"/><circle cx="381.2" cy="322.7" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="446.7" cy="279.3" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="331.8" cy="347.4" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="383.3" cy="297.4" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="446.2" cy="289.7" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="419.5" cy="243.8" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="456.8" cy="232.3" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="425.7" cy="388.3" r="4.0" fill="#3f6b32" opacity="0.7"/><circle cx="403.1" cy="315.0" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="372.1" cy="288.6" r="2.0" fill="#ffffff" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="151" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="115.5" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">MEXICAN</text>
+    </g>
+</svg>

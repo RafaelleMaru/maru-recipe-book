@@ -1,0 +1,432 @@
+{
+  "ind-butter-chicken": {
+    "description": "Tandoori-marinated na manok na sinimmer sa velvety butter-tomato-cashew gravy, finished with cream at kasuri methi — mild lang ang spice, ang restaurant classic na kinakain kahit ng ayaw sa maanghang.",
+    "ingredients": [
+      "manok thigh fillet, boneless, cubed",
+      "plain yogurt o hung curd",
+      "ginger-garlic paste",
+      "Kashmiri red chilli powder",
+      "garam masala",
+      "kasuri methi (dried fenugreek leaves), dinurog",
+      "asin",
+      "butter",
+      "cinnamon stick (2-inch)",
+      "green cardamom pods",
+      "cloves",
+      "hinog na kamatis, hiniwa sa apat",
+      "raw cashew",
+      "Kashmiri red chilli powder",
+      "garam masala",
+      "asukal",
+      "heavy cream",
+      "kasuri methi, dinurog"
+    ],
+    "steps": [
+      "Ihalo ang manok sa yogurt, ginger-garlic paste, chilli powder, garam masala, kasuri methi at asin; i-marinate for at least 1 hour, ideally overnight sa ref.",
+      "Pakuluan ang kamatis at cashew sa 1 cup water for 12-15 minutes hanggang lumambot, tapos i-blend hanggang maging smooth puree.",
+      "I-sear ang na-marinate na manok sa konting butter sa medium-high heat hanggang mag-char sa gilid pero hindi pa fully cooked; itabi muna.",
+      "Tunawin ang natitirang butter sa parehong pan tapos ilagay ang cinnamon, cardamom at cloves; hayaang mag-sizzle for 30 seconds hanggang bumango.",
+      "Alisin ang pan sa apoy tapos ihalo ang chilli powder at garam masala para mag-bloom ang mga powdered spices sa residual heat na hindi nasusunog.",
+      "Ibuhos ang tomato-cashew puree, ibalik sa apoy at i-simmer for 12-15 minutes, haluin, hanggang mag-separate ang fat sa gilid.",
+      "Idagdag ang seared chicken, asukal at sapat na tubig para maluwagan ang gravy; takpan at i-simmer for 10 minutes hanggang ma-cook through ang manok.",
+      "Ihalo ang cream at dinurog na kasuri methi off the heat, tapos ihain."
+    ],
+    "tips": [
+      "Ang overnight marinate ang gumagawa sa manok na malambot — huwag laktawan ang 1-hour minimum.",
+      "I-simmer ang tomato puree hanggang makitang nag-separate ang butter sa gilid; yun ang sign na wala nang raw tomato taste."
+    ],
+    "nutritionNote": "Mataas sa protein galing sa manok pero heavy sa butter at cream — balansehin ang plato ng cucumber-onion salad at bawasan ang naan kung may rice na rin sa table."
+  },
+  "ind-keema-matar": {
+    "description": "Mutton o beef mince na bhuna-fried with whole garam masala, sibuyas at kamatis, tapos sinimmer with peas — may tunay na kick pero manageable, hindi apoy-apoy, ready in half an hour.",
+    "ingredients": [
+      "ghee o oil",
+      "bay leaf",
+      "cinnamon stick (2-inch)",
+      "cloves",
+      "green cardamom pods",
+      "sibuyas, tinadtad ng pino",
+      "ginger-garlic paste",
+      "green chilli, hiniwa",
+      "mutton o beef mince (keema)",
+      "turmeric powder",
+      "Kashmiri red chilli powder",
+      "garam masala",
+      "tomato puree",
+      "green peas, fresh o frozen",
+      "mint leaves, tinadtad",
+      "wansoy leaves, tinadtad",
+      "asin"
+    ],
+    "steps": [
+      "Painitin ang ghee sa heavy pan at ilagay ang bay leaf, cinnamon, cloves at cardamom; iprito for 30 seconds hanggang mag-sizzle at bumango.",
+      "Idagdag ang sibuyas at lutuin sa medium heat, haluin often, hanggang deep golden brown, mga 8 minutes.",
+      "Idagdag ang ginger-garlic paste at green chilli at igisa for a minute hanggang mawala ang raw smell.",
+      "Idagdag ang mince at durugin gamit ang likod ng kutsara; lutuin sa medium heat for 4-5 minutes hanggang magbago ang kulay.",
+      "Hinaan ang apoy tapos ihalo ang turmeric, chilli powder at kalahati ng garam masala with a splash of water para mag-bloom ang powders na hindi masusunog.",
+      "Idagdag ang tomato puree at asin, takpan at lutuin sa low heat for 10 minutes hanggang lumambot ang mince at magsimulang mag-separate ang oil.",
+      "Ihalo ang peas at i-simmer uncovered for 6-8 minutes hanggang maluto ang peas at maging semi-dry ang curry.",
+      "Tapusin ng natitirang garam masala, mint at wansoy, tapos ihain mainit."
+    ],
+    "tips": [
+      "Ang pagdurog ng mince nang husto bago ito mag-brown ang nagpapaiwas sa pagiging clumpy nito na parang matigas na bola.",
+      "Para sa mas tuyong keema na isstuff sa paratha, i-simmer ng ilang extra minutes uncovered sa dulo."
+    ],
+    "kidNote": "Ikuha muna ang share ng mga bata bago ilagay ang green chilli at second hit ng garam masala, tapos haluan ng kutsarang yogurt o kaunting asukal para mabawasan ang anghang — mananatili ang whole garam masala aromatics para sa lasa na walang init.",
+    "nutritionNote": "Magandang source ng iron at protein galing sa mince, pero may saturated fat rin dahil karne — isabay sa fibre-rich na side gaya ng cucumber-tomato salad o dal at bawasan ang ghee kung madalas itong iniluluto."
+  },
+  "ind-rajma-masala": {
+    "description": "Red kidney beans na sinimmer nang mahinay sa onion-tomato masala hanggang lumapot at kumapit ang gravy — mild at homely Punjabi comfort food na kinakain with steamed rice.",
+    "ingredients": [
+      "dried red kidney beans (rajma), naibabad overnight",
+      "butter",
+      "oil",
+      "cumin seeds",
+      "sibuyas, tinadtad ng pino",
+      "bawang, dinurog",
+      "luya, dinurog",
+      "green chilli, tinadtad",
+      "kamatis, tinadtad ng pino",
+      "turmeric powder",
+      "red chilli powder",
+      "coriander powder",
+      "garam masala",
+      "asin",
+      "cream",
+      "wansoy leaves, tinadtad"
+    ],
+    "steps": [
+      "I-drain ang naibabad na kidney beans at pressure-cook with fresh water for 15-20 minutes hanggang completely soft at madaling madurog sa pagitan ng daliri.",
+      "Painitin ang butter at oil sa pan at ilagay ang cumin seeds; hayaang mag-sizzle for a few seconds.",
+      "Idagdag ang sibuyas at lutuin sa medium heat hanggang deep golden brown, mga 8-10 minutes.",
+      "Idagdag ang dinurog na bawang, luya at green chilli at igisa for 30 seconds hanggang bumango.",
+      "Idagdag ang kamatis at lutuin hanggang lumambot at maging pulpy, tapos hinaan ang apoy at ihalo ang turmeric, chilli powder at coriander powder with a splash of water para hindi masusunog.",
+      "Lutuin ang masala hanggang mag-separate ang oil sa gilid, mga 5 minutes.",
+      "Idagdag ang lutong beans kasama ang cooking liquid nito at asin; i-simmer uncovered for 15-20 minutes, dinudurog ang ilang beans sa gilid ng pan para lumapot ang gravy.",
+      "Ihalo ang garam masala at cream, i-simmer for a minute, at tapusin ng wansoy leaves."
+    ],
+    "tips": [
+      "I-soak ang rajma for at least 8 hours o overnight — matigas pa rin ang unsoaked beans kahit pressure-cooked na.",
+      "Ang pagdurog ng isang kutsarang beans papasok sa gravy ang nagbibigay sa rajma ng signature thick at clingy texture nito."
+    ],
+    "nutritionNote": "Ang kidney beans plus rice ay complete protein at mataas sa fibre — isa ito sa pinaka-balanced na meal sa rotation; bantayan lang ang cream at butter kung madalas itong ihain."
+  },
+  "ind-dal-tadka": {
+    "description": "Split pigeon pea lentils na sinimmer hanggang lumambot at tinapusan ng sizzling ghee tempering ng bawang, cumin at dried red chilli — ang everyday, mildly warm na lentil dal na anchor ng home thali.",
+    "ingredients": [
+      "tuvar dal (split pigeon peas), banlawan",
+      "sibuyas, tinadtad",
+      "kamatis, tinadtad",
+      "green chilli, tinadtad",
+      "luya, tinadtad",
+      "turmeric powder",
+      "garam masala",
+      "asin",
+      "ghee",
+      "cumin seeds",
+      "bawang, tinadtad ng pino",
+      "dried red chillies, dinurog",
+      "Kashmiri red chilli powder",
+      "wansoy leaves, tinadtad"
+    ],
+    "steps": [
+      "Pressure-cook ang dal kasama ang sibuyas, kamatis, green chilli, luya, turmeric at 3 cups water for 8-10 minutes hanggang lumambot at maging mushy ang lentils.",
+      "Pagkalabas ng pressure, i-whisk ang dal hanggang smooth, i-adjust ang consistency ng hot water, at ihalo ang garam masala at asin; i-simmer for 5 minutes.",
+      "Para sa tadka, painitin ang ghee sa maliit na pan sa medium heat at ilagay ang cumin seeds; hayaang mag-sizzle hanggang golden.",
+      "Idagdag ang tinadtad na bawang at dried red chillies at iprito hanggang light brown ang bawang at medyo dumilim ang chillies — huwag hayaang masunog ang bawang.",
+      "Alisin ang pan sa apoy tapos ihalo ang Kashmiri chilli powder para mag-bloom sa residual heat sa halip na masunog.",
+      "Ibuhos ang buong sizzling tadka sa simmering dal at haluin, o hayaang lumutang sa ibabaw para sa table.",
+      "Garnish ng wansoy leaves at ihain mainit with rice o roti."
+    ],
+    "tips": [
+      "I-whisk nang maayos ang dal bago idagdag ang tadka — hindi kailanman 'restaurant style' ang lumpy dal.",
+      "Dapat honey-brown lang ang bawang sa tadka, hindi deep brown; napapait ito lampas doon."
+    ],
+    "nutritionNote": "Magandang plant protein at fibre source kapag isinabay sa rice para sa complete amino acid profile; mababa sa fat maliban sa ghee tempering, na puwedeng i-half kahit konti lang mawala sa lasa."
+  },
+  "ind-chana-masala": {
+    "description": "Chickpeas na sinimmer sa maigting na bhuna'd onion-tomato masala with whole spices at green chillies — tangy, robust at tunay na maanghang, hindi lang heavily spiced, ang classic chole.",
+    "ingredients": [
+      "dried white chickpeas, naibabad overnight",
+      "cinnamon stick (1-inch)",
+      "cloves",
+      "black cardamom pod",
+      "bay leaf",
+      "oil",
+      "carom seeds (ajwain)",
+      "sibuyas, tinadtad ng pino",
+      "ginger paste",
+      "garlic paste",
+      "turmeric powder",
+      "red chilli powder",
+      "garam masala",
+      "kamatis, tinadtad ng pino",
+      "green chillies, hiniwa",
+      "dry mango powder (amchur)",
+      "asin",
+      "wansoy leaves, tinadtad"
+    ],
+    "steps": [
+      "I-drain ang naibabad na chickpeas at pressure-cook kasama ang cinnamon, cloves, black cardamom, bay leaf at fresh water for 15 minutes hanggang completely tender.",
+      "Painitin ang oil sa pan at ilagay ang carom seeds; hayaang mag-sizzle for a few seconds.",
+      "Idagdag ang sibuyas at igisa sa medium heat hanggang golden brown.",
+      "Idagdag ang ginger paste at garlic paste at lutuin for a minute hanggang mawala ang raw smell.",
+      "Hinaan ang apoy tapos ihalo ang turmeric, chilli powder at garam masala with a splash of water para hindi masusunog ang powders.",
+      "Idagdag ang kamatis at green chillies at lutuin, haluin often, for 8-10 minutes hanggang maging glossy ang masala at mag-separate ang oil.",
+      "Idagdag ang lutong chickpeas kasama ang stock nito, ang amchur at asin; i-simmer uncovered for 15-20 minutes, dinudurog ang ilang chickpeas para lumapot ang gravy.",
+      "Garnish ng wansoy leaves at ihain mainit."
+    ],
+    "tips": [
+      "I-soak ang chickpeas for at least 8 hours; halos doble ang laki nito at mas even ang pagkaluto.",
+      "Ang pagluto ng masala hanggang maging glossy at makitang nag-separate ang oil ang tunay na test na wala nang raw tomato taste."
+    ],
+    "kidNote": "Ikuha muna ang share ng mga bata bago ilagay ang slit green chillies at gumamit lang ng kalahating tsp na chilli powder sa batch nila, tapos tapusin ng kutsarang yogurt sa tabi para pumalamig — mananatili ang whole spices (cinnamon, cloves, cardamom) para sa bango na walang init.",
+    "nutritionNote": "Ang chickpeas ay strong na plant protein at fibre source, lalo na kapag isinabay sa rice o roti para maging complete meal; mababa sa fat ang dish mismo, kaya magandang counterbalance sa araw na may naihain kang mamantika."
+  },
+  "ind-palak-paneer": {
+    "description": "Fresh spinach na blanched, shocked at pinureed hanggang maging silky green gravy, tinempera ng cumin at sinimmer with soft paneer at swirl ng cream — mild na kayang ibahagi ng buong table.",
+    "ingredients": [
+      "fresh spinach, hinugasan",
+      "green chilli, tinadtad",
+      "luya, tinadtad",
+      "bawang, tinadtad",
+      "ghee o butter",
+      "cumin seeds",
+      "bay leaf",
+      "sibuyas, tinadtad ng pino",
+      "bawang, tinadtad ng pino",
+      "kamatis, tinadtad ng pino",
+      "turmeric powder",
+      "red chilli powder",
+      "garam masala",
+      "paneer, cubed",
+      "cream",
+      "kasuri methi, dinurog"
+    ],
+    "steps": [
+      "I-blanch ang spinach sa boiling salted water for 1 minute, tapos isawsaw kaagad sa ice water para mahinto ang pagluto at manatiling bright ang kulay.",
+      "I-drain ang spinach at i-blend kasama ang green chilli, luya at bawang hanggang smooth puree; itabi muna.",
+      "Painitin ang ghee sa pan at ilagay ang cumin seeds at bay leaf; hayaang mag-sizzle hanggang golden ang cumin.",
+      "Idagdag ang sibuyas at igisa hanggang malambot at light golden.",
+      "Idagdag ang tinadtad na bawang at lutuin for 30 seconds, tapos idagdag ang kamatis at lutuin hanggang lumambot at magsimulang mag-separate ang oil.",
+      "Hinaan ang apoy tapos ihalo ang turmeric, chilli powder at garam masala with a splash of water para mag-bloom na hindi masusunog.",
+      "Idagdag ang spinach puree at kaunting tubig para maluwagan, tapos i-simmer for 6-7 minutes hanggang mawala ang raw spinach smell.",
+      "Idagdag ang paneer cubes, i-simmer for 2 minutes hanggang uminit, tapos alisin sa apoy at ihalo ang cream at kasuri methi."
+    ],
+    "tips": [
+      "Ang pag-shock ng spinach sa ice water kaagad pagkatapos i-blanch ang nagpapanatili sa palak paneer na bright green sa halip na khaki.",
+      "Idagdag ang paneer sa pinakadulo lang — nagiging rubbery ito kung masyadong matagal pinakuluan."
+    ],
+    "nutritionNote": "Ang spinach ay may iron at folate at ang paneer naman ay may calcium at protein, kaya isa ito sa pinaka nutrient-dense na vegetarian main dito — bawasan ang cream kung madalas itong ihain sa weeknight."
+  },
+  "ind-aloo-gobi": {
+    "description": "Patatas at cauliflower na pan-fried hanggang golden, tapos hinalo sa cumin tempering with dry spices — tunay na maanghang bite by bite dahil walang gravy na magpapabawas ng init, hindi lang heavily spiced.",
+    "ingredients": [
+      "oil",
+      "cauliflower florets",
+      "patatas, balatan at cubed",
+      "oil",
+      "cumin seeds",
+      "dried fenugreek leaves (kasuri methi)",
+      "sibuyas, tinadtad ng pino",
+      "ginger-garlic paste",
+      "green chilli, hiniwa",
+      "turmeric powder",
+      "Kashmiri red chilli powder",
+      "coriander powder",
+      "kamatis, tinadtad",
+      "dry mango powder (amchur)",
+      "garam masala",
+      "wansoy leaves, tinadtad"
+    ],
+    "steps": [
+      "Painitin ang 3 tbsp oil sa wide pan at shallow-fry ang cauliflower florets in batches hanggang golden sa gilid; i-drain at itabi muna.",
+      "Sa parehong oil, iprito ang patatas hanggang golden at crisp; i-drain at itabi muna.",
+      "Punasan ang pan, painitin ang natitirang oil at ilagay ang cumin seeds at dried fenugreek leaves; hayaang mag-sizzle hanggang bumango.",
+      "Idagdag ang sibuyas at lutuin hanggang malambot at light brown.",
+      "Idagdag ang ginger-garlic paste at green chilli at igisa for a minute.",
+      "Hinaan ang apoy tapos ihalo ang turmeric, chilli powder at coriander powder with a splash of water para hindi masusunog.",
+      "Idagdag ang kamatis at lutuin hanggang lumambot at mawala ang raw smell.",
+      "Ihalo nang mahinay ang fried potatoes at cauliflower, pahiran ng masala na hindi nadudurog.",
+      "Budburan ng amchur at garam masala, haluin ulit, at garnish ng wansoy leaves."
+    ],
+    "tips": [
+      "Ang paghiwalay ng pagprito ng cauliflower at patatas bago idagdag ang masala ang nagpapanatili sa sabzi na dry sa halip na mushy.",
+      "I-fold, huwag haluin, kapag nabalik na ang gulay — madaling madurog ang cauliflower."
+    ],
+    "kidNote": "Dahil walang gravy na magpapabawas ng init, mas matindi ang anghang bite by bite — ikuha muna ang share ng mga bata bago ilagay ang slit green chilli at gumamit lang ng kaunting chilli powder sa share nila, tapos dagdagan na lang ng extra wansoy sa halip. Mararamdaman pa rin ang cumin-fenugreek tempering para sa lasa.",
+    "nutritionNote": "Isang fibre- at vitamin-C-rich na vegetable side na mababa talaga sa fat kung bawasan ang frying oil; isabay sa dal o rajma para sa protein na wala sa dish na ito."
+  },
+  "ind-kerala-meen-curry": {
+    "description": "Firm na fish steaks na sinimmer sa tangy coconut-milk gravy na inasiman ng kudampuli at tinapusan ng mustard-curry-leaf tempering — everyday curry ng coastal Kerala, tunay na maanghang, hindi lang heavily spiced.",
+    "ingredients": [
+      "firm fish steaks (kingfish o pomfret), hiniwa",
+      "kudampuli (Malabar tamarind) pieces",
+      "coconut oil",
+      "shallots o red onion, hiniwa",
+      "luya, dinurog",
+      "bawang, dinurog",
+      "green chillies, hiniwa",
+      "kamatis, dinurog",
+      "turmeric powder",
+      "Kashmiri red chilli powder",
+      "coriander powder",
+      "asin",
+      "coconut milk",
+      "coconut oil",
+      "mustard seeds",
+      "dried red chillies, dinurog",
+      "curry leaves"
+    ],
+    "steps": [
+      "I-soak ang kudampuli pieces sa quarter cup na hot water for 10 minutes.",
+      "Painitin ang coconut oil sa clay pot o wide pan at ilagay ang dinurog na luya, bawang, shallots at green chillies; igisa for 6-7 minutes hanggang lumambot.",
+      "Idagdag ang dinurog na kamatis at lutuin for 4-5 minutes hanggang mawasak.",
+      "Hinaan ang apoy tapos ihalo ang turmeric, chilli powder at coriander powder with a splash of water para mag-bloom ang powdered spices na hindi masusunog.",
+      "Idagdag ang na-soak na kudampuli kasama ang soaking water nito, kalahati ng coconut milk at sapat na tubig para matakpan; pakuluin at i-simmer for 3-4 minutes.",
+      "Idulas ang isda papasok sa gravy, takpan at lutuin for 10 minutes nang hindi masyadong hinahalo, i-swirl lang ang pot para hindi madurog ang isda.",
+      "Ibuhos ang natitirang coconut milk, timplahan ng asin at i-simmer uncovered for 5 minutes hanggang ma-cook through ang isda.",
+      "Para sa tempering, painitin ang coconut oil sa maliit na pan, ilagay ang mustard seeds at hayaang mag-sputter, tapos idagdag ang dried red chillies at curry leaves at iprito hanggang crisp.",
+      "Ibuhos ang sizzling tempering sa curry at hayaang magpahinga for 10 minutes bago ihain — mas masarap talaga ang curry na ito sa susunod na araw."
+    ],
+    "tips": [
+      "Umiimprove talaga ang curry na ito overnight sa ref habang naghahalo ang tamarind at chilli sa isda — traditionally ginagawa ito isang araw bago ihain.",
+      "I-swirl ang pot sa halip na haluin ng kutsara kapag nasa loob na ang isda, para hindi madurog ang mga piraso."
+    ],
+    "kidNote": "Dahil sa chilli at kudampuli, tunay itong maanghang na curry, hindi lang heavily spiced, kaya hindi ito safe na ihain nang diretso sa mga bata. Ikuha muna ang bahagi ng isda bago ilagay ang chilli powder, i-poach ito nang hiwalay sa konting coconut milk na may turmeric at asin lang, tapos ibuhos ang kaunting mellow coconut gravy sa rice nila sa halip na full curry.",
+    "nutritionNote": "Magandang source ng omega-3 at lean protein galing sa isda, pero may dagdag saturated fat ang coconut milk — balansehin ang meal ng plain rice at cucumber salad sa halip na isa pang coconut-based side."
+  },
+  "ind-chicken-biryani": {
+    "description": "Marinated na manok na inilayer with part-cooked basmati at dum-steamed sa sealed lid — heavily spiced with whole garam masala pero moderate lang ang chilli warmth, special-occasion na one-pot rice dish.",
+    "ingredients": [
+      "bone-in na manok",
+      "plain yogurt",
+      "ginger-garlic paste",
+      "red chilli powder",
+      "garam masala",
+      "lemon juice",
+      "aged basmati rice, banlawan at naibabad for 30 minutes",
+      "ghee",
+      "bay leaf",
+      "green cardamom pods",
+      "cinnamon stick (2-inch)",
+      "star anise",
+      "sibuyas, hiniwa ng manipis, pinriton hanggang golden",
+      "mint leaves, tinadtad",
+      "warm milk na may pinch ng saffron"
+    ],
+    "steps": [
+      "Ihalo ang manok sa yogurt, ginger-garlic paste, chilli powder, garam masala at lemon juice; i-marinate for at least 1 hour, ideally overnight sa ref.",
+      "Banlawan ang basmati rice hanggang malinaw ang tubig at i-soak for 30 minutes, tapos i-drain.",
+      "Painitin ang ghee sa heavy pot at ilagay ang bay leaf, cardamom, cinnamon at star anise; hayaang mag-sizzle for 30 seconds hanggang bumango.",
+      "Ibalik ang fried onions kasama ang na-marinate na manok at igisa sa medium heat for 5 minutes.",
+      "Takpan at lutuin sa low heat for 12-15 minutes hanggang ma-cook through ang manok, tapos ikalat nang pantay sa ilalim ng pot.",
+      "Samantala, pakuluan ang na-soak na rice sa maraming salted water for 5-6 minutes hanggang mga 70% luto lang — matigas pa rin sa core — tapos i-drain.",
+      "Ikalat ang part-cooked rice sa ibabaw ng manok, budburan ng mint leaves at patakan ng saffron milk.",
+      "Takpan ang pot ng tight-fitting lid, selyuhan ang gilid ng strip ng dough o foil kung hindi airtight, at lutuin sa pinakamababang apoy for 20 minutes.",
+      "Patayin ang apoy at hayaang magpahinga ang pot, sealed pa rin, for 10 minutes bago buksan.",
+      "I-fluff nang mahinay mula sa ilalim pataas para maghalo ang manok at rice sa layers, at ihain with raita."
+    ],
+    "tips": [
+      "Ang par-boiling ng rice hanggang 70% lang ang key step — natatapos itong maluto sa sealed pot gamit ang steam ng manok at nananatiling separate sa halip na maging mushy.",
+      "Ang pagpapahinga ng sealed pot off the heat for 10 minutes ang nagpapaayos sa layers bago ito buksan."
+    ],
+    "kidNote": "Ikuha muna ang bahagi ng na-marinate na manok na walang chilli powder bago ito ilagay sa pot, at ilayer nang hiwalay (o sa maliit na foil packet sa loob ng parehong pot) para maranasan ng mga bata ang whole-spice aroma ng biryani na walang init — ihain with plain yogurt sa tabi para pumalamig kung may stray na init mula sa rice malapit sa main chicken layer.",
+    "nutritionNote": "Isang filling na one-pot meal na may protein mula sa manok at carbs mula sa rice, pero dumadami ang ghee at fried onions — ihain with cooling cucumber raita sa halip na dagdag na fried sides para mapanatiling balanced ang meal."
+  },
+  "ind-egg-curry": {
+    "description": "Boiled na itlog na pan-fried hanggang blistered, tapos sinimmer sa robust dhaba-style onion-tomato masala — tunay na maanghang, hindi lang heavily spiced, at mabilis na protein-packed curry para sa mga araw na walang karne.",
+    "ingredients": [
+      "itlog, luto at balatan",
+      "oil",
+      "ghee",
+      "bay leaf",
+      "cinnamon stick (1-inch)",
+      "green cardamom pods",
+      "sibuyas, tinadtad ng pino",
+      "ginger-garlic paste",
+      "kamatis, tinadtad ng pino",
+      "red chilli powder",
+      "turmeric powder",
+      "garam masala",
+      "asin",
+      "tubig",
+      "wansoy leaves, tinadtad"
+    ],
+    "steps": [
+      "Tusukin ang luto at balat nang itlog ng ilang beses gamit ang tinidor para hindi ito sumabog habang pinipriton.",
+      "Painitin ang ghee sa nonstick pan at shallow-fry ang itlog, ibaligtad, hanggang golden at blistered sa lahat ng gilid; itabi muna.",
+      "Painitin ang oil sa parehong pan at ilagay ang bay leaf, cinnamon at cardamom; hayaang mag-sizzle for 30 seconds.",
+      "Idagdag ang sibuyas at lutuin sa medium heat, haluin often, hanggang deep golden brown.",
+      "Idagdag ang ginger-garlic paste at igisa for a minute hanggang mawala ang raw smell.",
+      "Idagdag ang kamatis at lutuin hanggang lumambot at maging pulpy, tapos hinaan ang apoy at ihalo ang chilli powder, turmeric at kalahati ng garam masala with a splash of water para mag-bloom na hindi masusunog.",
+      "Lutuin hanggang mag-separate ang oil sa gilid, mga 3-4 minutes, tapos idagdag ang tubig at asin at pakuluin.",
+      "Idulas ang fried eggs papasok sa gravy, takpan at i-simmer for 5 minutes para maabsorb nila ang masala.",
+      "Budburan ng natitirang garam masala at wansoy leaves bago ihain."
+    ],
+    "tips": [
+      "Ang pagprito muna ng boiled eggs ang nagbibigay sa dhaba-style egg curry ng blistered skin na kumakapit sa gravy.",
+      "Lutuin ang masala hanggang makitang nag-separate ang oil — yun ang cue na lutong-luto na ang kamatis."
+    ],
+    "kidNote": "Bawasan ng kalahati ang chilli powder at laktawan ang extra green chilli sa batch ng gravy na ihahain sa mga bata, at hatiin sa dalawa ang itlog nila para mas madaming surface ang nababalutan ng masala pero mas kaunti ang tama per bite — mararamdaman pa rin ang whole garam masala (cinnamon, cardamom, bay leaf) para sa home-style aroma.",
+    "nutritionNote": "Ang itlog ay complete protein at magandang panghalili sa araw na walang karne o isda; moderate lang sa fat ang dish dahil sa frying step, kaya isabay sa mas light na dal o plain rice sa halip na isa pang mayamang curry."
+  },
+  "ind-chapati": {
+    "description": "Whole-wheat dough na ginulong nang manipis at pinapuffed diretso sa open flame hanggang mamaga sa steam — ang plain, unspiced everyday flatbread na laging nasa halos bawat Indian meal.",
+    "ingredients": [
+      "whole wheat flour (atta)",
+      "asin",
+      "tubig, o as needed",
+      "extra whole wheat flour, panbudbod",
+      "ghee o oil"
+    ],
+    "steps": [
+      "Ihalo ang harina at asin sa malaking mangkok, tapos ilagay nang paunti-unti ang tubig, hanguin ang dough habang tumatagal.",
+      "I-knead for 5-7 minutes hanggang malambot, makinis at hindi na malengkit ang dough; takpan at pahingahin for 20-30 minutes.",
+      "Hatiin ang dough sa 12 pantay na bola at igulong ang bawat isa sa flour-dusted na surface hanggang maging manipis at pantay na bilog.",
+      "Painitin ang tawa o flat griddle sa medium-high heat; ilagay ang ginulong na bilog dito at lutuin for about 20 seconds hanggang lumitaw ang maliliit na bula.",
+      "Ibaligtad at lutuin ang kabilang side for about 30 seconds hanggang lumitaw ang light brown spots.",
+      "Gamit ang tongs, buhatin ang roti at ilagay diretso sa ibabaw ng open flame for a few seconds hanggang mamaga na parang balloon; ibaligtad para mapaga rin ang kabilang side.",
+      "Alisin sa flame, pahiran nang bahagya ng ghee kung gagamitin, at i-stack sa cloth-lined na container para manatiling malambot.",
+      "Ulitin sa natitirang dough, iginulong ang susunod na roti habang niluluto ang isa."
+    ],
+    "tips": [
+      "Ang pagpapahinga ng dough for at least 20 minutes ang nagre-relax sa gluten at nagpapadali sa pag-roll ng manipis at maayos na hugis na roti.",
+      "Walang open flame sa bahay — pindutin nang mahigpit ang roti gamit ang tiklop na tela sa tawa; mamamaga pa rin ito dahil sa trapped steam."
+    ],
+    "nutritionNote": "Whole-grain carb na naturally mababa sa fat — ang pinaka-healthy na bread option sa table kumpara sa naan o paratha, at madaling paraan para makapasok ang whole grains sa mga bata na hindi man lang nila mamamalayan."
+  },
+  "ind-poha": {
+    "description": "Flattened rice na binanlawan hanggang malambot at hinalo sa mustard-seed tempering with patatas, mani at curry leaves — ang gently spiced, paboritong quick breakfast ng Maharashtra, ready pa bago maluto ang chai.",
+    "ingredients": [
+      "thick poha (flattened rice)",
+      "turmeric powder",
+      "asukal",
+      "asin",
+      "mani",
+      "oil",
+      "mustard seeds",
+      "cumin seeds",
+      "patatas, balatan at cubed nang maliit",
+      "sibuyas, tinadtad ng pino",
+      "green chilli, tinadtad",
+      "curry leaves",
+      "wansoy leaves, tinadtad"
+    ],
+    "steps": [
+      "Ilagay ang poha sa colander at banlawan nang bahagya sa running water twice, hanggang lumambot lang — huwag ibabad para hindi maging mushy.",
+      "Budburan ng turmeric, asukal at asin ang binanlawang poha, haluin nang bahagya para mabalutan, at itabi muna.",
+      "Dry-roast ang mani sa pan hanggang crunchy, tapos itabi muna.",
+      "Painitin ang oil sa parehong pan at shallow-fry ang patatas hanggang golden at just tender; alisin at itabi muna.",
+      "Idagdag ang mustard seeds sa mainit na oil; kapag nag-splutter na, idagdag ang cumin seeds at hayaang mag-crackle.",
+      "Idagdag ang sibuyas at igisa hanggang translucent, tapos idagdag ang curry leaves, green chilli at roasted na mani.",
+      "Idagdag ang malambot na poha at fried potatoes, at haluin nang bahagya sa low heat hanggang uminit at pantay ang pagkabalot ng lahat.",
+      "Takpan at hayaang mag-steam for 2 minutes sa low heat, tapos garnish ng wansoy leaves at ihain with lemon wedges."
+    ],
+    "tips": [
+      "Banlawan lang, huwag ibabad, ang poha — ang mabilis na banlaw sa running water ang lumalambot sa flakes na hindi ito naging paste.",
+      "Haluin nang bahagya gamit ang wide spatula sa halip na haluing malakas; madaling madurog ang poha flakes."
+    ],
+    "nutritionNote": "Magaan at madaling matunaw ang flattened rice, at ang mani at patatas ang nagbibigay ng konting protein at energy — magandang low-oil breakfast option, bantayan lang ang mani kung may nut allergy sa bahay."
+  }
+}

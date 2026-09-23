@@ -1,0 +1,26 @@
+{
+  "name": "maru-recipe-book",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Weekly meal planner and recipe book for Filipino, Japanese, Korean, Chinese, Mexican and Indian home cooking.",
+  "scripts": {
+    "dev": "vite",
+    "build": "node tools/build-db.mjs && vite build",
+    "preview": "vite preview",
+    "db": "node tools/build-db.mjs",
+    "images": "node tools/make-images.mjs",
+    "test": "node tools/check.mjs",
+    "check": "node tools/build-db.mjs && node tools/check.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tailwindcss": "^4.3.3",
+    "vite": "^5.4.11"
+  }
+}

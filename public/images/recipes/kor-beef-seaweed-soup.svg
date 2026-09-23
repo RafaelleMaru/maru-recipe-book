@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Beef Seaweed Soup">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdeceb"/>
+      <stop offset="100%" stop-color="#e9e9fa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="728.4" cy="273.5" r="5.6" fill="#ffffff" opacity="0.36"/><circle cx="109.3" cy="352.9" r="11.7" fill="#ffffff" opacity="0.28"/><circle cx="751.4" cy="378.3" r="6.0" fill="#ffffff" opacity="0.40"/><circle cx="641.5" cy="127.9" r="10.7" fill="#ffffff" opacity="0.33"/><circle cx="166.6" cy="135.0" r="9.0" fill="#ffffff" opacity="0.27"/><circle cx="717.5" cy="160.6" r="3.6" fill="#ffffff" opacity="0.29"/><circle cx="756.3" cy="372.2" r="10.8" fill="#ffffff" opacity="0.31"/><circle cx="71.0" cy="166.2" r="7.8" fill="#ffffff" opacity="0.38"/><circle cx="775.9" cy="299.0" r="10.4" fill="#ffffff" opacity="0.36"/><circle cx="587.5" cy="80.0" r="8.9" fill="#ffffff" opacity="0.28"/><circle cx="42.1" cy="437.7" r="4.7" fill="#ffffff" opacity="0.40"/><circle cx="170.5" cy="299.6" r="7.8" fill="#ffffff" opacity="0.30"/><circle cx="95.1" cy="218.4" r="11.2" fill="#ffffff" opacity="0.39"/><circle cx="153.4" cy="195.7" r="3.1" fill="#ffffff" opacity="0.45"/><circle cx="738.6" cy="529.3" r="7.0" fill="#ffffff" opacity="0.46"/><circle cx="46.3" cy="460.2" r="4.6" fill="#ffffff" opacity="0.18"/><circle cx="741.3" cy="52.9" r="4.5" fill="#ffffff" opacity="0.23"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="180" fill="#cf9450" opacity="0.82"/>
+    <circle cx="400" cy="290" r="180" fill="none" stroke="#000000" stroke-opacity="0.06" stroke-width="3"/>
+  <ellipse cx="400" cy="296" rx="74" ry="56" fill="#e3b581" opacity="0.95"/><ellipse cx="469.5" cy="310.5" rx="27.1" ry="20.4" fill="#b67c3c" opacity="0.94" transform="rotate(130 469.5 310.5)"/><ellipse cx="417.8" cy="339.4" rx="31.9" ry="21.1" fill="#cf9450" opacity="0.94" transform="rotate(133 417.8 339.4)"/><ellipse cx="378.7" cy="329.7" rx="41.6" ry="31.9" fill="#5f9e49" opacity="0.94" transform="rotate(54 378.7 329.7)"/><ellipse cx="355.5" cy="293.7" rx="27.0" ry="17.1" fill="#cf9450" opacity="0.94" transform="rotate(61 355.5 293.7)"/><ellipse cx="352.7" cy="258.8" rx="44.6" ry="33.9" fill="#cf9450" opacity="0.94" transform="rotate(38 352.7 258.8)"/><ellipse cx="413.3" cy="248.9" rx="38.3" ry="27.4" fill="#74b45c" opacity="0.94" transform="rotate(129 413.3 248.9)"/><ellipse cx="452.6" cy="258.4" rx="26.5" ry="20.0" fill="#e3b581" opacity="0.94" transform="rotate(69 452.6 258.4)"/>
+  <circle cx="347.0" cy="380.7" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="364.4" cy="362.3" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="419.8" cy="260.0" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="508.2" cy="281.3" r="3.7" fill="#ffffff" opacity="0.7"/><circle cx="382.2" cy="276.4" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="287.2" cy="251.7" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="401.9" cy="287.3" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="419.6" cy="240.6" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="315.2" cy="299.3" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="363.8" cy="251.5" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="378.3" cy="328.6" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="395.1" cy="307.7" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="338.3" cy="237.9" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="502.3" cy="329.7" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="467.7" cy="305.9" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="311.1" cy="289.6" r="2.7" fill="#3f6b32" opacity="0.7"/>
+  
+    <g stroke="#ffffff" stroke-opacity="0.65" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M354 98 c -14 -26 14 -42 0 -62"/>
+      <path d="M400 86 c -16 -30 16 -48 0 -70"/>
+      <path d="M446 98 c -14 -26 14 -42 0 -62"/>
+    </g>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="140" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="110" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">KOREAN</text>
+    </g>
+</svg>

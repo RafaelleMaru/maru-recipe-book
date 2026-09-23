@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Braised Spicy Chicken">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdeceb"/>
+      <stop offset="100%" stop-color="#e9e9fa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="692.2" cy="188.8" r="5.4" fill="#ffffff" opacity="0.22"/><circle cx="769.6" cy="41.4" r="8.1" fill="#ffffff" opacity="0.25"/><circle cx="83.3" cy="42.9" r="4.0" fill="#ffffff" opacity="0.33"/><circle cx="64.4" cy="512.2" r="9.5" fill="#ffffff" opacity="0.37"/><circle cx="114.7" cy="413.5" r="11.4" fill="#ffffff" opacity="0.18"/><circle cx="522.3" cy="71.3" r="6.0" fill="#ffffff" opacity="0.37"/><circle cx="416.6" cy="30.0" r="7.1" fill="#ffffff" opacity="0.18"/><circle cx="437.7" cy="30.5" r="9.6" fill="#ffffff" opacity="0.40"/><circle cx="203.0" cy="440.2" r="7.0" fill="#ffffff" opacity="0.45"/><circle cx="734.4" cy="376.4" r="5.0" fill="#ffffff" opacity="0.39"/><circle cx="741.2" cy="321.6" r="5.8" fill="#ffffff" opacity="0.40"/><circle cx="739.6" cy="448.8" r="6.3" fill="#ffffff" opacity="0.27"/><circle cx="617.9" cy="75.9" r="9.5" fill="#ffffff" opacity="0.22"/><circle cx="57.2" cy="148.3" r="11.5" fill="#ffffff" opacity="0.25"/><circle cx="763.5" cy="436.9" r="4.7" fill="#ffffff" opacity="0.42"/><circle cx="652.4" cy="276.1" r="7.0" fill="#ffffff" opacity="0.33"/><circle cx="763.0" cy="267.4" r="6.3" fill="#ffffff" opacity="0.26"/><circle cx="763.3" cy="78.8" r="4.0" fill="#ffffff" opacity="0.38"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="510.4" cy="302.9" rx="24.5" ry="18.3" fill="#d29b45" opacity="0.94" transform="rotate(179 510.4 302.9)"/><ellipse cx="451.1" cy="330.0" rx="22.0" ry="14.0" fill="#f2cd8c" opacity="0.94" transform="rotate(149 451.1 330.0)"/><ellipse cx="396.0" cy="329.0" rx="33.6" ry="29.8" fill="#5f9e49" opacity="0.94" transform="rotate(160 396.0 329.0)"/><ellipse cx="314.9" cy="354.9" rx="43.3" ry="33.7" fill="#f2cd8c" opacity="0.94" transform="rotate(8 314.9 354.9)"/><ellipse cx="329.8" cy="285.3" rx="29.7" ry="25.1" fill="#f2cd8c" opacity="0.94" transform="rotate(25 329.8 285.3)"/><ellipse cx="316.4" cy="253.4" rx="24.9" ry="19.9" fill="#5f9e49" opacity="0.94" transform="rotate(67 316.4 253.4)"/><ellipse cx="349.4" cy="208.0" rx="40.0" ry="33.1" fill="#d29b45" opacity="0.94" transform="rotate(45 349.4 208.0)"/><ellipse cx="453.2" cy="228.5" rx="39.1" ry="29.1" fill="#e6b45f" opacity="0.94" transform="rotate(145 453.2 228.5)"/><ellipse cx="431.2" cy="269.0" rx="20.8" ry="15.0" fill="#87c46f" opacity="0.94" transform="rotate(117 431.2 269.0)"/>
+  <circle cx="436.2" cy="275.7" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="395.3" cy="284.4" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="403.8" cy="279.1" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="399.8" cy="290.7" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="373.8" cy="228.2" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="331.6" cy="293.1" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="382.2" cy="363.6" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="430.5" cy="264.8" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="359.4" cy="306.7" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="426.3" cy="200.6" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="393.5" cy="298.2" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="430.1" cy="226.7" r="1.9" fill="#ffffff" opacity="0.7"/><circle cx="340.8" cy="346.0" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="310.6" cy="335.7" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="438.9" cy="244.7" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="364.3" cy="282.5" r="2.8" fill="#3f6b32" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="140" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="110" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">KOREAN</text>
+    </g>
+</svg>

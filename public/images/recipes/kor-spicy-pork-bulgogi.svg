@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Spicy Pork Bulgogi">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdeceb"/>
+      <stop offset="100%" stop-color="#e9e9fa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="637.6" cy="27.7" r="10.6" fill="#ffffff" opacity="0.47"/><circle cx="759.1" cy="59.3" r="10.5" fill="#ffffff" opacity="0.21"/><circle cx="84.0" cy="28.1" r="3.0" fill="#ffffff" opacity="0.31"/><circle cx="495.8" cy="53.1" r="8.4" fill="#ffffff" opacity="0.35"/><circle cx="644.9" cy="375.4" r="3.6" fill="#ffffff" opacity="0.28"/><circle cx="645.9" cy="220.2" r="10.3" fill="#ffffff" opacity="0.19"/><circle cx="706.3" cy="50.3" r="10.2" fill="#ffffff" opacity="0.38"/><circle cx="643.6" cy="291.5" r="10.5" fill="#ffffff" opacity="0.18"/><circle cx="505.7" cy="499.9" r="5.7" fill="#ffffff" opacity="0.38"/><circle cx="72.7" cy="214.9" r="8.3" fill="#ffffff" opacity="0.33"/><circle cx="217.0" cy="438.5" r="9.0" fill="#ffffff" opacity="0.41"/><circle cx="697.1" cy="323.4" r="6.9" fill="#ffffff" opacity="0.40"/><circle cx="99.1" cy="391.9" r="11.2" fill="#ffffff" opacity="0.41"/><circle cx="738.5" cy="282.6" r="8.9" fill="#ffffff" opacity="0.34"/><circle cx="688.2" cy="446.5" r="8.0" fill="#ffffff" opacity="0.39"/><circle cx="276.8" cy="501.6" r="4.9" fill="#ffffff" opacity="0.46"/><circle cx="712.1" cy="357.5" r="4.2" fill="#ffffff" opacity="0.46"/><circle cx="714.5" cy="239.0" r="11.4" fill="#ffffff" opacity="0.33"/><circle cx="382.5" cy="532.1" r="6.5" fill="#ffffff" opacity="0.29"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="446.1" cy="296.1" rx="24.5" ry="20.1" fill="#c97a73" opacity="0.94" transform="rotate(41 446.1 296.1)"/><ellipse cx="459.1" cy="373.7" rx="24.5" ry="16.6" fill="#c97a73" opacity="0.94" transform="rotate(166 459.1 373.7)"/><ellipse cx="386.9" cy="322.6" rx="27.6" ry="17.5" fill="#c97a73" opacity="0.94" transform="rotate(115 386.9 322.6)"/><ellipse cx="346.2" cy="330.0" rx="28.9" ry="22.1" fill="#f0b9b3" opacity="0.94" transform="rotate(69 346.2 330.0)"/><ellipse cx="302.8" cy="267.6" rx="36.4" ry="27.9" fill="#f0b9b3" opacity="0.94" transform="rotate(107 302.8 267.6)"/><ellipse cx="371.0" cy="239.8" rx="27.0" ry="17.7" fill="#f0b9b3" opacity="0.94" transform="rotate(68 371.0 239.8)"/><ellipse cx="433.6" cy="234.1" rx="37.6" ry="32.8" fill="#c97a73" opacity="0.94" transform="rotate(29 433.6 234.1)"/><ellipse cx="484.0" cy="257.3" rx="26.1" ry="18.4" fill="#e0948e" opacity="0.94" transform="rotate(41 484.0 257.3)"/>
+  <circle cx="480.6" cy="248.2" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="416.5" cy="296.3" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="323.8" cy="214.9" r="3.4" fill="#ffffff" opacity="0.7"/><circle cx="396.3" cy="220.3" r="3.1" fill="#3f6b32" opacity="0.7"/><circle cx="314.6" cy="302.9" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="440.8" cy="250.7" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="384.2" cy="304.1" r="3.9" fill="#3f6b32" opacity="0.7"/><circle cx="413.5" cy="291.2" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="418.2" cy="288.4" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="453.2" cy="327.4" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="395.6" cy="278.4" r="1.8" fill="#3f6b32" opacity="0.7"/><circle cx="299.0" cy="243.8" r="3.4" fill="#ffffff" opacity="0.7"/><circle cx="371.9" cy="318.2" r="1.8" fill="#3f6b32" opacity="0.7"/><circle cx="351.2" cy="218.8" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="368.1" cy="336.9" r="2.3" fill="#ffffff" opacity="0.7"/><circle cx="495.4" cy="293.4" r="1.7" fill="#ffffff" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="140" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="110" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">KOREAN</text>
+    </g>
+</svg>

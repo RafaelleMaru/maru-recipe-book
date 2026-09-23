@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Cochinita Pibil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="617.1" cy="48.9" r="10.7" fill="#ffffff" opacity="0.43"/><circle cx="159.9" cy="301.9" r="5.6" fill="#ffffff" opacity="0.28"/><circle cx="716.4" cy="264.3" r="9.3" fill="#ffffff" opacity="0.31"/><circle cx="252.7" cy="534.5" r="8.3" fill="#ffffff" opacity="0.34"/><circle cx="193.1" cy="21.1" r="6.0" fill="#ffffff" opacity="0.29"/><circle cx="742.8" cy="23.4" r="3.2" fill="#ffffff" opacity="0.35"/><circle cx="116.1" cy="232.8" r="10.7" fill="#ffffff" opacity="0.38"/><circle cx="711.9" cy="320.1" r="9.5" fill="#ffffff" opacity="0.47"/><circle cx="757.1" cy="99.3" r="7.4" fill="#ffffff" opacity="0.44"/><circle cx="742.7" cy="38.7" r="6.1" fill="#ffffff" opacity="0.32"/><circle cx="536.7" cy="50.7" r="10.1" fill="#ffffff" opacity="0.46"/><circle cx="44.5" cy="200.8" r="6.7" fill="#ffffff" opacity="0.32"/><circle cx="165.0" cy="271.3" r="8.8" fill="#ffffff" opacity="0.21"/><circle cx="92.7" cy="374.0" r="11.3" fill="#ffffff" opacity="0.31"/><circle cx="727.8" cy="272.5" r="11.8" fill="#ffffff" opacity="0.32"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="461.4" cy="293.6" rx="40.6" ry="33.3" fill="#c97a73" opacity="0.94" transform="rotate(158 461.4 293.6)"/><ellipse cx="453.8" cy="372.1" rx="40.8" ry="35.3" fill="#e0948e" opacity="0.94" transform="rotate(170 453.8 372.1)"/><ellipse cx="350.0" cy="384.2" rx="32.7" ry="27.5" fill="#5f9e49" opacity="0.94" transform="rotate(17 350.0 384.2)"/><ellipse cx="312.8" cy="357.5" rx="39.2" ry="27.8" fill="#c97a73" opacity="0.94" transform="rotate(79 312.8 357.5)"/><ellipse cx="311.1" cy="288.1" rx="27.4" ry="17.8" fill="#c97a73" opacity="0.94" transform="rotate(25 311.1 288.1)"/><ellipse cx="331.2" cy="219.0" rx="36.6" ry="30.1" fill="#5f9e49" opacity="0.94" transform="rotate(153 331.2 219.0)"/><ellipse cx="428.7" cy="198.1" rx="30.1" ry="27.5" fill="#e0948e" opacity="0.94" transform="rotate(85 428.7 198.1)"/><ellipse cx="474.4" cy="242.9" rx="24.9" ry="19.8" fill="#f0b9b3" opacity="0.94" transform="rotate(63 474.4 242.9)"/>
+  <circle cx="491.3" cy="293.7" r="2.0" fill="#3f6b32" opacity="0.7"/><circle cx="400.1" cy="356.9" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="360.9" cy="276.9" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="307.0" cy="279.8" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="423.2" cy="326.2" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="341.2" cy="281.2" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="382.4" cy="297.8" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="293.6" cy="324.0" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="522.5" cy="294.2" r="2.2" fill="#3f6b32" opacity="0.7"/><circle cx="341.0" cy="243.6" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="376.0" cy="293.7" r="2.2" fill="#3f6b32" opacity="0.7"/><circle cx="348.6" cy="211.1" r="2.2" fill="#3f6b32" opacity="0.7"/><circle cx="410.7" cy="305.2" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="356.7" cy="208.1" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="412.7" cy="252.1" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="381.3" cy="295.6" r="3.1" fill="#3f6b32" opacity="0.7"/>
+  
+    <g>
+      <rect x="40" y="36" rx="19" ry="19" width="151" height="38" fill="#ffffff" opacity="0.82"/>
+      <text x="115.5" y="61" text-anchor="middle"
+        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
+        letter-spacing="0.6">MEXICAN</text>
+    </g>
+</svg>
