@@ -1,6 +1,6 @@
 # Maru Recipe Book
 
-A weekly menu planner for the family, built on 72 researched home recipes from six cuisines —
+A weekly menu planner for the family, built on 132 researched home recipes from six cuisines —
 Filipino, Japanese, Korean, Chinese, Mexican and Indian. Press one button and it builds a
 balanced ten-dish week, then turns that week into a market list.
 
@@ -35,7 +35,7 @@ on Vercel.
   dietitian's balance note, and a link to the source the method was checked against.
 - **English or Filipino**, switched from the top bar like light/dark mode. The Filipino
   version is conversational Taglish — the way a Manila teenager actually talks, not textbook
-  Tagalog — and it covers the whole app *and* all 72 recipes: descriptions, ingredients,
+  Tagalog — and it covers the whole app *and* all 132 recipes: descriptions, ingredients,
   steps, tips and the kid notes. Dish names, measurements and techniques stay in the words
   people really use. Search works across both languages at once, so *manok* finds the chicken
   dishes even in English mode.

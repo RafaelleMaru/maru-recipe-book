@@ -1,0 +1,456 @@
+[
+  {
+    "id": "jpn-chicken-katsu",
+    "title": "Chicken Katsu",
+    "localTitle": "チキンカツ",
+    "cuisine": "Japanese",
+    "categories": ["chicken"],
+    "tags": ["party"],
+    "description": "Butterflied chicken breast pounded thin, breaded in panko and deep-fried until shatter-crisp, sliced and drizzled with a tangy ketchup-Worcestershire sauce — the everyday cutlet on every teishoku menu.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 4, "unit": "pc", "item": "boneless, skinless chicken breast (about 160g each), butterflied and pounded to 1cm thickness", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "kosher salt", "group": "Main" },
+      { "qty": 1, "unit": "pinch", "item": "black pepper", "group": "Main" },
+      { "qty": 6, "unit": "tbsp", "item": "all-purpose flour", "group": "Main" },
+      { "qty": 2, "unit": "pc", "item": "egg, beaten", "group": "Main" },
+      { "qty": 2, "unit": "cup", "item": "panko breadcrumbs", "group": "Main" },
+      { "qty": 3, "unit": "cup", "item": "neutral oil, for deep-frying", "group": "Main" },
+      { "qty": 3, "unit": "tbsp", "item": "ketchup", "group": "Sauce" },
+      { "qty": 3, "unit": "tbsp", "item": "Worcestershire sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "tbsp", "item": "oyster sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "sugar", "group": "Sauce" },
+      { "qty": null, "unit": "", "item": "shredded cabbage, for serving", "note": "optional", "group": "Garnish" }
+    ],
+    "steps": [
+      "Butterfly each chicken breast (kannon-biraki) and pound to an even 1cm thickness; season both sides with salt and pepper.",
+      "Whisk together ketchup, Worcestershire sauce, oyster sauce and sugar in a small bowl to make a quick tonkatsu sauce; set aside.",
+      "Set up three shallow trays: flour, beaten egg, and panko.",
+      "Dredge each cutlet in flour, dip in egg, then press firmly into the panko to coat evenly on both sides.",
+      "Heat oil in a heavy pot to 170°C (340°F) and fry one or two cutlets at a time, 3-4 minutes, flipping halfway, until deep golden and cooked through.",
+      "Drain on a wire rack and rest 2 minutes before slicing into 1-inch strips.",
+      "Serve over shredded cabbage with the tonkatsu sauce drizzled on top or on the side."
+    ],
+    "tips": [
+      "Pounding the chicken to an even thickness is what keeps it from drying out before the crust browns.",
+      "Store-bought tonkatsu sauce (Bulldog brand) is the everyday shortcut; the ketchup-Worcestershire mix here gets close without a special-order bottle."
+    ],
+    "nutritionNote": "Deep-fried like karaage, so keep it a once-or-twice-a-week treat; serve with the shredded cabbage for fibre and let the vegetables — not extra sauce — fill out the plate.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/chicken-katsu/"
+    }
+  },
+  {
+    "id": "jpn-katsudon",
+    "title": "Katsudon",
+    "localTitle": "かつ丼",
+    "cuisine": "Japanese",
+    "categories": ["pork", "egg", "rice"],
+    "tags": ["budget"],
+    "description": "A freshly fried pork cutlet simmered briefly with onion in a sweet soy-dashi broth, bound with soft-set egg, and slid over hot rice — the heartier, fried-cutlet cousin of oyakodon.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 25,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 4, "unit": "pc", "item": "boneless pork loin cutlets (about 120g each), pounded to 1cm thick", "group": "Main" },
+      { "qty": 0.5, "unit": "tsp", "item": "kosher salt", "group": "Main" },
+      { "qty": 1, "unit": "pinch", "item": "black pepper", "group": "Main" },
+      { "qty": 4, "unit": "tbsp", "item": "all-purpose flour", "group": "Main" },
+      { "qty": 1, "unit": "pc", "item": "egg, beaten, for breading", "group": "Main" },
+      { "qty": 1.5, "unit": "cup", "item": "panko breadcrumbs", "group": "Main" },
+      { "qty": 3, "unit": "cup", "item": "neutral oil, for deep-frying", "group": "Main" },
+      { "qty": 1, "unit": "pc", "item": "onion, thinly sliced", "group": "Main" },
+      { "qty": 4, "unit": "pc", "item": "egg, lightly beaten, for the sauce", "group": "Sauce" },
+      { "qty": 2, "unit": "cup", "item": "dashi", "note": "or 2 cups hot water plus 2 tsp instant dashi powder", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "soy sauce", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "mirin", "group": "Sauce" },
+      { "qty": 4, "unit": "tsp", "item": "sugar", "group": "Sauce" },
+      { "qty": 4, "unit": "cup", "item": "cooked Japanese short-grain rice", "group": "Main" },
+      { "qty": null, "unit": "", "item": "scallion, chopped, for garnish", "note": "optional", "group": "Garnish" }
+    ],
+    "steps": [
+      "Season the pork cutlets with salt and pepper; dredge each in flour, dip in beaten egg, then coat in panko, pressing to adhere.",
+      "Heat oil in a heavy pot to 170°C (340°F) and fry the cutlets 3-4 minutes per side until golden and cooked through; drain and slice into strips.",
+      "Combine dashi, soy sauce, mirin and sugar in a small frying pan and bring to a simmer.",
+      "Add a quarter of the sliced onion per portion and simmer 2 minutes until softened.",
+      "Lay a sliced cutlet on top of the onion, pour a quarter of the beaten egg around and over it, cover, and cook 30 seconds.",
+      "Drizzle the remaining egg over the top, cover, and cook 1 minute more until just set but still a little runny in the centre.",
+      "Slide the cutlet-and-egg mixture over a bowl of hot rice, spooning any extra sauce on top; repeat for the remaining portions.",
+      "Scatter with scallion and serve immediately."
+    ],
+    "tips": [
+      "Cook one portion at a time in a small pan — it's how the egg sets neatly around the cutlet instead of scrambling."
+    ],
+    "nutritionNote": "A fried cutlet plus egg plus rice is heavy on fat and sodium all at once; serve a side of raw or pickled vegetables and treat it as a once-a-week bowl rather than a Tuesday default like oyakodon.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/katsudon/"
+    }
+  },
+  {
+    "id": "jpn-saba-misoni",
+    "title": "Saba Misoni",
+    "localTitle": "鯖の味噌煮",
+    "cuisine": "Japanese",
+    "categories": ["fish"],
+    "tags": ["make-ahead"],
+    "description": "Mackerel fillets blanched to remove their strong smell, then simmered slowly in a ginger-miso sauce until glossy and tender — a classic izakaya and home-dinner-table fish dish, best made a day ahead.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 4, "unit": "pc", "item": "mackerel fillets (about 150g each)", "group": "Main" },
+      { "qty": 1, "unit": "pc", "item": "knob of ginger (about 8cm), half sliced and half julienned for garnish", "group": "Main" },
+      { "qty": 8, "unit": "tbsp", "item": "water", "group": "Sauce" },
+      { "qty": 8, "unit": "tbsp", "item": "sake", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "mirin", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "sugar", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "miso paste, red or dark", "note": "avoid sweet white miso here, it's too mild for this dish", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "miso paste, red or dark, for finishing", "group": "Sauce" },
+      { "qty": 2, "unit": "tsp", "item": "soy sauce", "group": "Sauce" }
+    ],
+    "steps": [
+      "Score a shallow cross in the skin side of each mackerel fillet to help it cook evenly and absorb the sauce.",
+      "Bring a pot of water to a boil and blanch the fillets one at a time for 10-15 seconds, then shock in ice water; this removes the strong fishy smell. Drain well.",
+      "Combine the water, sake, mirin, sugar, sliced ginger and half the miso in a wide skillet and bring to a boil, stirring to dissolve the miso.",
+      "Lay the mackerel skin-side up in the simmering sauce, cover with a drop lid, and simmer over medium-low heat 12-13 minutes.",
+      "Dissolve the remaining miso into the sauce and drizzle in the soy sauce, tilting the pan to baste the fish.",
+      "Remove from heat, cover, and let the fish rest in the sauce 20-30 minutes off the heat to absorb the flavour.",
+      "Reheat gently over medium heat without boiling hard, plate, and top with the julienned ginger."
+    ],
+    "tips": [
+      "Blanching the fish first is the step that keeps this from tasting overly 'fishy' — don't skip it.",
+      "Like most nimono, it tastes even better the next day; make it a day ahead and reheat gently."
+    ],
+    "kidNote": "Mackerel is an oily, strongly flavoured fish that some kids need to grow into; flake each piece carefully off the bone before serving and start the kids with a smaller portion alongside plain rice.",
+    "nutritionNote": "Mackerel is rich in omega-3s but the miso sauce is salty and the fish itself is fatty; serve with extra rice and a plain vegetable side rather than a second salty dish in the same meal.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/saba-misoni-simmered-mackerel-in-miso-sauce/"
+    }
+  },
+  {
+    "id": "jpn-chawanmushi",
+    "title": "Chawanmushi",
+    "localTitle": "茶碗蒸し",
+    "cuisine": "Japanese",
+    "categories": ["egg"],
+    "tags": ["no-oven"],
+    "description": "A silky savoury egg custard steamed with chicken, shrimp, shiitake and fish cake tucked inside — a restaurant-course dish that's actually simple to make at home with a steamer and a fine sieve.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 3, "unit": "pc", "item": "egg", "group": "Main" },
+      { "qty": 2.5, "unit": "cup", "item": "dashi, cooled to room temperature", "note": "or 2.5 cups hot water plus 2.5 tsp instant dashi powder, cooled", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "usukuchi soy sauce (light-coloured soy sauce)", "note": "or regular soy sauce, using slightly less", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "mirin", "group": "Main" },
+      { "qty": 0.25, "unit": "tsp", "item": "salt", "group": "Main" },
+      { "qty": 150, "unit": "g", "item": "boneless, skinless chicken thigh, diced small", "note": "marinate briefly in a splash of soy sauce and sake", "group": "Filling" },
+      { "qty": 8, "unit": "pc", "item": "medium shrimp, peeled, deveined and tails removed", "group": "Filling" },
+      { "qty": 4, "unit": "pc", "item": "shiitake mushroom, thinly sliced", "group": "Filling" },
+      { "qty": 8, "unit": "slice", "item": "kamaboko (fish cake), thinly sliced", "note": "optional, or omit", "group": "Filling" },
+      { "qty": null, "unit": "", "item": "mitsuba or baby spinach leaves, for garnish", "note": "optional", "group": "Garnish" }
+    ],
+    "steps": [
+      "Toss the diced chicken with a splash of soy sauce and sake and set aside to marinate briefly.",
+      "Whisk the eggs gently in a bowl without incorporating air, then stir in the cooled dashi, soy sauce, mirin and salt.",
+      "Strain the egg mixture through a fine sieve into a jug for a silky, bubble-free custard.",
+      "Divide the chicken, shrimp, shiitake and kamaboko evenly among 4 heatproof cups or chawanmushi bowls.",
+      "Pour the strained egg mixture over the fillings, filling each cup about three-quarters full, and skim off any surface bubbles with a spoon.",
+      "Cover each cup loosely with foil and set in a steamer or a wide pot with 2cm of simmering water; steam over low heat with the lid slightly ajar for 15-18 minutes.",
+      "Check doneness by inserting a skewer into the centre — it should come out with clear liquid, not raw egg.",
+      "Garnish with mitsuba or a small spinach leaf and serve hot, straight from the cup."
+    ],
+    "tips": [
+      "Steam gently, never at a rolling boil, or the custard turns pocked and rubbery instead of silky — keep the lid cracked to let excess steam escape."
+    ],
+    "kidNote": "Dice the shrimp and chicken small before steaming and check each cup for stray shell bits — the mild custard itself is an easy sell for all three kids.",
+    "nutritionNote": "A gentle, low-sodium way to serve egg and protein together (just 1 tbsp soy sauce across the whole pot); good to balance a saltier main like tonjiru or saba misoni in the same meal.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/chawanmushi-savory-steamed-egg-custard/"
+    }
+  },
+  {
+    "id": "jpn-agedashi-tofu",
+    "title": "Agedashi Tofu",
+    "localTitle": "揚げ出し豆腐",
+    "cuisine": "Japanese",
+    "categories": ["tofu"],
+    "tags": ["30-minutes", "no-oven"],
+    "description": "Starch-dusted tofu deep-fried until the outside is crisp and the inside stays custardy, served in a warm dashi-soy-mirin sauce with grated daikon and ginger — an izakaya starter that's simple enough for a weeknight.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 2, "unit": "pack", "item": "medium-firm tofu (about 400g each)", "note": "pressed 15 minutes to remove excess water", "group": "Main" },
+      { "qty": 8, "unit": "tbsp", "item": "potato starch or cornstarch", "group": "Main" },
+      { "qty": 3, "unit": "cup", "item": "neutral oil, for deep-frying", "group": "Main" },
+      { "qty": 2, "unit": "cup", "item": "dashi", "note": "or 2 cups hot water plus 2 tsp instant dashi powder", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "soy sauce", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "mirin", "group": "Sauce" },
+      { "qty": 2, "unit": "pc", "item": "scallion, thinly sliced", "group": "Garnish" },
+      { "qty": 1, "unit": "pc", "item": "daikon radish (about 8cm piece), grated and squeezed", "group": "Garnish" },
+      { "qty": 2, "unit": "tsp", "item": "ginger, grated", "group": "Garnish" },
+      { "qty": null, "unit": "", "item": "katsuobushi (dried bonito flakes), for topping", "note": "optional", "group": "Garnish" }
+    ],
+    "steps": [
+      "Wrap the tofu blocks in paper towels, set a light weight on top, and press 15 minutes to remove excess water.",
+      "Combine dashi, soy sauce and mirin in a small saucepan, bring to a gentle simmer, then remove from heat and keep warm.",
+      "Grate the daikon and ginger, squeezing excess liquid from the daikon; slice the scallion.",
+      "Cut each pressed tofu block into 4 pieces and dust thoroughly on all sides with potato starch, shaking off the excess.",
+      "Heat oil in a heavy pot to 170°C (340°F) and fry the tofu in batches 2-3 minutes, turning once, until the coating is crisp and pale golden.",
+      "Drain briefly on a rack, then arrange in bowls.",
+      "Pour the warm sauce around, not over, the tofu so the crust stays crisp, and top with grated daikon, ginger, scallion and katsuobushi.",
+      "Serve immediately, mixing the tofu into the sauce bite by bite."
+    ],
+    "tips": [
+      "Pour the sauce around the tofu rather than over it, and serve right away — the starch coating softens fast once it sits in liquid."
+    ],
+    "nutritionNote": "A lighter, plant-protein alternative to a fried meat dish; the sauce is only moderately salty, so it works well as a side without needing extra vegetables to balance it.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/agedashi-tofu-2/"
+    }
+  },
+  {
+    "id": "jpn-kinpira-gobo",
+    "title": "Kinpira Gobo",
+    "localTitle": "きんぴらごぼう",
+    "cuisine": "Japanese",
+    "categories": ["vegetable"],
+    "tags": ["30-minutes", "make-ahead", "packed-lunch"],
+    "description": "Julienned burdock root and carrot stir-fried in sesame oil, then glazed in a quick soy-mirin-sugar sauce until glossy and tender-crisp — the everyday bento side found in nearly every Japanese fridge.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 10,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 270, "unit": "g", "item": "gobo (burdock root), scraped and julienned", "group": "Main" },
+      { "qty": 70, "unit": "g", "item": "carrot, julienned", "group": "Main" },
+      { "qty": 1.5, "unit": "tbsp", "item": "toasted sesame oil", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "sake", "group": "Sauce" },
+      { "qty": 1, "unit": "tbsp", "item": "mirin", "group": "Sauce" },
+      { "qty": 1.5, "unit": "tbsp", "item": "soy sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "tbsp", "item": "sugar", "group": "Sauce" },
+      { "qty": 1, "unit": "pc", "item": "dried red chili pepper, seeded and sliced into rounds", "note": "optional; leave out for the kids' portion, it's easy to fish out whole", "group": "Sauce" },
+      { "qty": 2, "unit": "tsp", "item": "toasted white sesame seeds", "group": "Garnish" }
+    ],
+    "steps": [
+      "Scrape the gobo skin with the back of a knife, slice diagonally into thin ovals, then cut into fine matchsticks; soak in water 10 minutes, changing the water once, to remove bitterness.",
+      "Drain the gobo well and julienne the carrot into matchsticks of a similar size.",
+      "Heat the sesame oil in a large pan over medium heat and stir-fry the gobo 2-3 minutes until it starts to soften.",
+      "Add the carrot and continue stir-frying 2-3 minutes until both vegetables are tender-crisp.",
+      "Add the sugar, sake, mirin and soy sauce; toss to coat evenly.",
+      "Stir in the chili pepper, if using, and cook until the liquid has mostly evaporated and the vegetables look glossy.",
+      "Sprinkle with sesame seeds, toss once more, and serve warm or at room temperature."
+    ],
+    "tips": [
+      "Kinpira keeps 3-4 days refrigerated and is a classic bento box filler — make a double batch on a Sunday for lunchboxes through the week."
+    ],
+    "nutritionNote": "One of the few fibre-forward, low-fat sides in a washoku spread; good to pair with a fattier fried main like katsu or karaage to balance the plate.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/kinpira-gobo-braised-burdock-root/"
+    }
+  },
+  {
+    "id": "jpn-sunomono",
+    "title": "Cucumber Sunomono",
+    "localTitle": "きゅうりとわかめの酢の物",
+    "cuisine": "Japanese",
+    "categories": ["vegetable"],
+    "tags": ["30-minutes", "no-oven", "packed-lunch"],
+    "description": "Thinly sliced cucumber and rehydrated wakame tossed in a sweet-tangy rice vinegar dressing — a refreshing, crunchy palate cleanser that cuts through the richness of a fried or braised main.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 5,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 4, "unit": "tbsp", "item": "rice vinegar, unseasoned", "group": "Dressing" },
+      { "qty": 2, "unit": "tbsp", "item": "sugar", "group": "Dressing" },
+      { "qty": 0.5, "unit": "tsp", "item": "kosher salt", "group": "Dressing" },
+      { "qty": 0.5, "unit": "tsp", "item": "soy sauce", "group": "Dressing" },
+      { "qty": 300, "unit": "g", "item": "Japanese or Persian cucumbers, thinly sliced", "note": "or English cucumber with the seeds scooped out", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "kosher salt, for salting the cucumbers", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "dried wakame seaweed", "group": "Main" },
+      { "qty": 0.5, "unit": "tbsp", "item": "toasted white sesame seeds", "group": "Garnish" }
+    ],
+    "steps": [
+      "Combine the vinegar, sugar, salt and soy sauce in a small saucepan; warm over medium heat, whisking until the sugar fully dissolves, then let cool.",
+      "Soak the dried wakame in a bowl of water 5 minutes until fully rehydrated, then drain and squeeze out excess water.",
+      "Peel the cucumber skin in alternating stripes for a decorative edge, then slice into very thin rounds.",
+      "Toss the cucumber slices with the 1 tsp salt and let sit 5 minutes to draw out excess moisture.",
+      "Squeeze the cucumber firmly by the handful to remove the released liquid.",
+      "Combine the cucumber, wakame, sesame seeds and cooled dressing in a bowl and toss well.",
+      "Serve immediately for the crunchiest texture, chilled or at room temperature."
+    ],
+    "tips": [
+      "Squeeze the cucumber hard after salting, or the dressing turns watery by the time it reaches the table."
+    ],
+    "nutritionNote": "A genuinely low-sodium, no-oil side (just 0.5 tsp soy sauce for the whole batch); use it to offset a saltier main like tonjiru or saba misoni in the same meal.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/sunomono-with-cucumber-and-wakame/"
+    }
+  },
+  {
+    "id": "jpn-onigiri",
+    "title": "Onigiri",
+    "localTitle": "おにぎり",
+    "cuisine": "Japanese",
+    "categories": ["rice"],
+    "tags": ["30-minutes", "no-oven", "packed-lunch"],
+    "description": "Warm rice hand-shaped into triangles around a savoury filling and wrapped in nori — the portable, no-recipe-needed staple of Japanese lunchboxes, made here with salted salmon and soy-bonito okaka.",
+    "servings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 10,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 3, "unit": "cup", "item": "cooked Japanese short-grain rice, warm", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "kosher salt, for shaping", "group": "Main" },
+      { "qty": 3, "unit": "pc", "item": "nori seaweed sheets, cut into strips", "group": "Main" },
+      { "qty": 1, "unit": "pc", "item": "salmon fillet (about 150g)", "note": "for the salted salmon filling", "group": "Filling" },
+      { "qty": 0.5, "unit": "tsp", "item": "kosher salt, for the salmon", "group": "Filling" },
+      { "qty": 1, "unit": "pack", "item": "katsuobushi (dried bonito flakes), about 5g", "note": "for the okaka filling", "group": "Filling" },
+      { "qty": 1, "unit": "tbsp", "item": "soy sauce, for the okaka filling", "group": "Filling" }
+    ],
+    "steps": [
+      "Season the salmon fillet with the 0.5 tsp salt and pan-sear over medium heat until just cooked through, about 4-5 minutes per side; cool and flake into large pieces, discarding skin and bones.",
+      "For the okaka filling, mix the katsuobushi with the soy sauce in a small bowl until evenly moistened.",
+      "Keep the cooked rice warm; wet your hands and rub a pinch of salt evenly over both palms.",
+      "Scoop about 1/2 cup of rice into one palm, press a shallow indent in the centre, and add a spoonful of one filling.",
+      "Cover the filling with a little more rice, then cup your hands and gently press the rice into a triangle, rotating and pressing firmly on each of the three edges — do not squeeze hard or the rice turns dense.",
+      "Wrap a strip of nori around the base of each onigiri just before serving so it stays crisp.",
+      "Repeat with the remaining rice and fillings, making about 8 onigiri total."
+    ],
+    "tips": [
+      "Keep the rice warm while shaping — cold rice won't hold together — and always salt your palms rather than the rice itself, so each bite isn't oversalted."
+    ],
+    "nutritionNote": "A plain, low-sodium way to serve rice on its own; the okaka and salted salmon fillings add just enough seasoning without needing extra soy sauce at the table.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/onigiri-rice-balls/"
+    }
+  },
+  {
+    "id": "jpn-tonjiru",
+    "title": "Tonjiru",
+    "localTitle": "豚汁",
+    "cuisine": "Japanese",
+    "categories": ["pork", "vegetable", "soup"],
+    "tags": ["one-pot", "make-ahead"],
+    "description": "Pork belly and a full pot of root vegetables, konnyaku and tofu simmered in dashi and finished with miso — a heartier, meal-in-a-bowl cousin of miso soup that's substantial enough to be the main dish.",
+    "servings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 25,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 150, "unit": "g", "item": "thinly sliced pork belly, cut into bite-sized pieces", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "toasted sesame oil", "group": "Main" },
+      { "qty": 1, "unit": "pc", "item": "onion, cut into wedges", "group": "Main" },
+      { "qty": 120, "unit": "g", "item": "daikon radish, quartered and sliced", "group": "Main" },
+      { "qty": 80, "unit": "g", "item": "carrot, quartered and sliced", "group": "Main" },
+      { "qty": 60, "unit": "g", "item": "gobo (burdock root), scraped and sliced diagonally, soaked in water 10 minutes", "note": "or omit if unavailable", "group": "Main" },
+      { "qty": 0.25, "unit": "pc", "item": "konnyaku block, torn into bite-sized pieces, blanched 2 minutes", "note": "or omit if unavailable", "group": "Main" },
+      { "qty": 1, "unit": "pc", "item": "aburaage (fried tofu pouch), sliced", "group": "Main" },
+      { "qty": 150, "unit": "g", "item": "soft or medium tofu, torn into large pieces", "group": "Main" },
+      { "qty": 4, "unit": "cup", "item": "dashi", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "miso paste", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "grated ginger, with juice", "group": "Sauce" },
+      { "qty": 1, "unit": "pc", "item": "scallion, thinly sliced, for garnish", "group": "Garnish" },
+      { "qty": null, "unit": "", "item": "shichimi togarashi, for serving", "note": "optional", "group": "Garnish" }
+    ],
+    "steps": [
+      "Cut the pork belly, onion, daikon, carrot and gobo into similar bite-sized pieces; soak the gobo in water 10 minutes to remove bitterness, then drain.",
+      "Heat the sesame oil in a large pot over medium heat and stir-fry the pork until no longer pink.",
+      "Add the onion, daikon, carrot and gobo; stir-fry 2-3 minutes until the vegetables are coated in the rendered fat.",
+      "Add the konnyaku and aburaage, then pour in the dashi; bring to a boil, skimming off any foam.",
+      "Cover and simmer over medium-low heat 12-15 minutes until the vegetables are tender.",
+      "Add the tofu and simmer 2 more minutes to warm through.",
+      "Ladle a little hot broth into a bowl, dissolve the miso into it, then stir it back into the pot; do not let the soup boil again once the miso is in.",
+      "Stir in the grated ginger, ladle into bowls, and garnish with scallion and a shake of shichimi togarashi."
+    ],
+    "tips": [
+      "Like nikujaga, tonjiru tastes even better the next day once the root vegetables have fully absorbed the broth."
+    ],
+    "nutritionNote": "A hearty, vegetable-heavy soup, but the miso and aburaage both add sodium; serve it as the main dish of the meal rather than alongside another salty main like teriyaki or curry.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/tonjiru/"
+    }
+  },
+  {
+    "id": "jpn-zaru-soba",
+    "title": "Zaru Soba",
+    "localTitle": "ざるそば",
+    "cuisine": "Japanese",
+    "categories": ["noodle"],
+    "tags": ["30-minutes", "no-oven"],
+    "description": "Chewy buckwheat noodles boiled, rinsed and chilled, piled on a bamboo mat and dipped bite by bite into a cold kombu-bonito mentsuyu — the noodle dish Japanese households reach for on the hottest days.",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 15,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 350, "unit": "g", "item": "dried soba noodles", "group": "Main" },
+      { "qty": 2, "unit": "tbsp", "item": "sake", "group": "Sauce" },
+      { "qty": 4, "unit": "tbsp", "item": "mirin", "group": "Sauce" },
+      { "qty": 8, "unit": "tbsp", "item": "soy sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "pc", "item": "kombu (dried kelp), about 5cm square", "group": "Sauce" },
+      { "qty": 0.5, "unit": "cup", "item": "katsuobushi (dried bonito flakes), packed", "group": "Sauce" },
+      { "qty": 1.5, "unit": "cup", "item": "iced water, for diluting the sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "pc", "item": "nori seaweed sheet, shredded", "group": "Garnish" },
+      { "qty": 2, "unit": "pc", "item": "scallion, thinly sliced", "group": "Garnish" },
+      { "qty": null, "unit": "", "item": "wasabi, for serving", "note": "optional; keep off the kids' dipping cups", "group": "Garnish" }
+    ],
+    "steps": [
+      "Bring the sake and mirin to a boil in a small saucepan and simmer 30 seconds to cook off the alcohol.",
+      "Add the soy sauce, kombu and katsuobushi; simmer 5 minutes, then remove from heat and let cool completely.",
+      "Strain the sauce through a fine sieve, discarding the solids — this is the concentrated mentsuyu; refrigerate until cold.",
+      "Bring a large pot of unsalted water to a boil, fan the soba noodles in, and cook per package directions, about 4-5 minutes, stirring occasionally to keep them from clumping.",
+      "Drain the noodles and rinse under cold running water, rubbing them gently with your hands to wash off the surface starch.",
+      "Shock the noodles in a bowl of ice water 30 seconds, then drain thoroughly and pile onto a bamboo mat or plate.",
+      "Dilute the concentrated mentsuyu with the iced water in individual dipping cups.",
+      "Scatter the noodles with shredded nori and serve with the dipping sauce, scallion and wasabi on the side."
+    ],
+    "tips": [
+      "Rinsing and rubbing the boiled noodles under cold water is what gives zaru soba its signature chewy bite — skipping it leaves the noodles starchy and soft."
+    ],
+    "kidNote": "Keep the wasabi off the kids' dipping cups — the plain mentsuyu and noodles are already a mild, familiar flavour for them.",
+    "nutritionNote": "A cool, light noodle dish for hot weather, but the mentsuyu is soy-sauce concentrated; dip rather than pour the sauce over the noodles to control how much sodium each bite gets.",
+    "source": {
+      "name": "Just One Cookbook",
+      "url": "https://www.justonecookbook.com/zaru-soba-cold-soba-noodles/"
+    }
+  }
+]

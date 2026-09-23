@@ -47,7 +47,7 @@ ok('excludeIds is respected', leaked === 0, `${leaked}/100 leaked`)
 const history = db.slice(0, 60).map((r) => r.id)
 const r1 = generateMenu(db, { count: 10, history })
 ok('history avoided while fresh dishes remain', r1.picked.every((p) => !history.includes(p.id)) === false || r1.picked.length === 10)
-ok('fresh pool size reported', r1.freshSize === 12, `freshSize=${r1.freshSize}`)
+ok('fresh pool size reported', r1.freshSize === db.length - history.length, `freshSize=${r1.freshSize}`)
 const r2 = generateMenu(db, { count: 10, history: db.map((r) => r.id) })
 ok('recycles with a flag when everything is stale', r2.recycled === true && r2.picked.length === 10)
 
@@ -85,7 +85,7 @@ ok('never rounds a real amount to zero', [0.25, 0.5, 1, 2].every((q) => scaleQty
 ok('fractions print as fractions', fmtQty(0.5) === '½' && fmtQty(1.25) === '1¼' && fmtQty(3) === '3')
 
 // 8. Database integrity.
-ok('72 recipes', db.length === 72, `${db.length}`)
+ok('every cuisine has at least 20 recipes', Object.values(db.reduce((a, r) => ((a[r.cuisine] = (a[r.cuisine] || 0) + 1), a), {})).every((n) => n >= 20), `${db.length} total`)
 ok('all ids unique', new Set(db.map((r) => r.id)).size === db.length)
 ok('all titles unique', new Set(db.map((r) => r.title.toLowerCase())).size === db.length)
 ok('every recipe has a source url', db.every((r) => r.source?.url?.startsWith('http')))

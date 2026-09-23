@@ -62,13 +62,19 @@ export function Stat({ icon, value, label, tone = 'brand' }) {
     plain: 'bg-surface-2 text-ink-2',
   }
   return (
-    <div className="card flex items-center gap-3 p-3.5">
-      <span className={cx('flex h-11 w-11 shrink-0 items-center justify-center rounded-2xl text-lg', tones[tone])}>
+    // The 2-up grid on a 360px phone leaves ~160px per tile, so the icon shrinks
+    // and the value steps down a size rather than wrapping mid-phrase.
+    <div className="card flex items-center gap-2.5 p-3 sm:gap-3 sm:p-3.5">
+      <span
+        className={cx(
+          'flex h-9 w-9 shrink-0 items-center justify-center rounded-xl text-base sm:h-11 sm:w-11 sm:rounded-2xl sm:text-lg',
+          tones[tone],
+        )}
+      >
         <i className={`fa-solid ${icon}`} aria-hidden />
       </span>
       <span className="min-w-0">
-        <span className="block text-lg leading-tight font-extrabold">{value}</span>
-        {/* Labels wrap rather than truncate — they get tight in the mobile 2-up grid. */}
+        <span className="block text-base leading-tight font-extrabold whitespace-nowrap sm:text-lg">{value}</span>
         <span className="meta mt-0.5 block leading-snug">{label}</span>
       </span>
     </div>

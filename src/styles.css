@@ -6,6 +6,10 @@
 @theme {
   --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, -apple-system, sans-serif;
 
+  /* Extra breakpoint below Tailwind's `sm`: 368px splits the narrow Android
+     phones (Galaxy S/A at 360) from the iPhones (390-440). */
+  --breakpoint-xs: 23rem;
+
   /* Brand green — lifted from the reference mock-up. */
   --color-brand-50: #eff9f3;
   --color-brand-100: #d8f2e4;

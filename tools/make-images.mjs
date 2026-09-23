@@ -163,17 +163,9 @@ function drawSvg(recipe) {
     </g>`)
   }
 
-  // Only a cuisine pill. The dish name is deliberately NOT drawn: the app always
-  // shows it as real text beside the image, and thumbnails crop the artwork, which
-  // would slice any baked-in wordmark in half.
-  const pillW = 74 + recipe.cuisine.length * 11
-  parts.push(`
-    <g>
-      <rect x="40" y="36" rx="19" ry="19" width="${pillW}" height="38" fill="#ffffff" opacity="0.82"/>
-      <text x="${40 + pillW / 2}" y="61" text-anchor="middle"
-        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
-        letter-spacing="0.6">${esc(recipe.cuisine.toUpperCase())}</text>
-    </g>`)
+  // No text at all in the artwork. The app draws its own cuisine badge and title
+  // over this image, and anything baked into the corners collided with the card
+  // badge and the back button on phones.
 
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="${esc(recipe.title)}">
   <defs>

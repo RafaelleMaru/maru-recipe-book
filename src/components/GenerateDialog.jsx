@@ -186,21 +186,21 @@ export default function GenerateDialog({ open, onClose, db, menuIds, history, on
         {/* Picks */}
         <ul className="flex flex-col gap-2">
           {picks.map((r, i) => (
-            <li key={r.id} className="border-line flex items-center gap-3 rounded-2xl border p-2">
+            <li key={r.id} className="border-line flex items-center gap-2 rounded-2xl border p-2 sm:gap-3">
               <span className="bg-brand-50 text-brand-700 dark:text-brand-300 flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-xs font-bold">
                 {i + 1}
               </span>
-              <RecipeImage recipe={r} className="h-12 w-16 shrink-0 rounded-xl" />
+              <RecipeImage recipe={r} className="hidden h-12 w-16 shrink-0 rounded-xl xs:block" />
               <div className="min-w-0 flex-1">
-                <p className="line-clamp-1 text-sm font-bold">{r.title}</p>
-                <p className="meta mt-0.5 flex items-center gap-1.5">
+                <p className="line-clamp-2 text-sm leading-snug font-bold">{r.title}</p>
+                <p className="meta mt-0.5 flex flex-wrap items-center gap-x-1.5">
                   <CuisineDot cuisine={r.cuisine} /> {r.cuisine} · {fmtTime(totalTime(r))}
                   {r.kidFriendly ? ` · ${t('kid-ok')}` : ''}
                 </p>
               </div>
               <button
                 onClick={() => rerollOne(r)}
-                className="btn-icon border-line text-muted hover:bg-surface-2 border"
+                className="btn-icon border-line text-muted hover:bg-surface-2 h-9 w-9 shrink-0 border sm:h-10 sm:w-10"
                 title={t('Swap this one')}
                 aria-label={t('Swap {title}', { title: r.title })}
               >
@@ -208,7 +208,7 @@ export default function GenerateDialog({ open, onClose, db, menuIds, history, on
               </button>
               <button
                 onClick={() => drop(r)}
-                className="btn-icon border-line text-muted hover:bg-surface-2 hover:text-red-500 border"
+                className="btn-icon border-line text-muted hover:bg-surface-2 hover:text-red-500 h-9 w-9 shrink-0 border sm:h-10 sm:w-10"
                 title={t('Drop this one')}
                 aria-label={t('Remove {title}', { title: r.title })}
               >

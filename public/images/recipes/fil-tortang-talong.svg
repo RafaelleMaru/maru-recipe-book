@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Eggplant Omelet">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff2d9"/>
+      <stop offset="100%" stop-color="#ffdcc4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="114.7" cy="406.2" r="5.2" fill="#ffffff" opacity="0.20"/><circle cx="556.1" cy="465.5" r="4.3" fill="#ffffff" opacity="0.43"/><circle cx="606.4" cy="454.6" r="3.8" fill="#ffffff" opacity="0.36"/><circle cx="47.4" cy="20.6" r="4.1" fill="#ffffff" opacity="0.37"/><circle cx="516.0" cy="26.9" r="11.8" fill="#ffffff" opacity="0.20"/><circle cx="107.8" cy="307.4" r="3.5" fill="#ffffff" opacity="0.41"/><circle cx="199.7" cy="511.8" r="8.1" fill="#ffffff" opacity="0.46"/><circle cx="595.0" cy="419.3" r="7.5" fill="#ffffff" opacity="0.21"/><circle cx="734.5" cy="66.4" r="6.8" fill="#ffffff" opacity="0.29"/><circle cx="51.7" cy="411.0" r="3.0" fill="#ffffff" opacity="0.20"/><circle cx="153.2" cy="284.1" r="4.2" fill="#ffffff" opacity="0.39"/><circle cx="94.0" cy="424.2" r="3.6" fill="#ffffff" opacity="0.34"/><circle cx="52.3" cy="521.2" r="8.9" fill="#ffffff" opacity="0.40"/><circle cx="313.1" cy="526.6" r="4.2" fill="#ffffff" opacity="0.28"/><circle cx="170.8" cy="369.3" r="3.6" fill="#ffffff" opacity="0.26"/><circle cx="312.8" cy="53.8" r="10.1" fill="#ffffff" opacity="0.31"/><circle cx="69.9" cy="140.5" r="3.5" fill="#ffffff" opacity="0.22"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="505.3" cy="307.7" rx="29.7" ry="22.2" fill="#6fae57" opacity="0.94" transform="rotate(7 505.3 307.7)"/><ellipse cx="434.6" cy="331.3" rx="44.8" ry="40.0" fill="#6fae57" opacity="0.94" transform="rotate(176 434.6 331.3)"/><ellipse cx="371.5" cy="378.5" rx="45.1" ry="39.3" fill="#74b45c" opacity="0.94" transform="rotate(96 371.5 378.5)"/><ellipse cx="366.7" cy="305.1" rx="25.1" ry="21.1" fill="#9ccd85" opacity="0.94" transform="rotate(9 366.7 305.1)"/><ellipse cx="285.1" cy="256.3" rx="36.7" ry="27.9" fill="#9ccd85" opacity="0.94" transform="rotate(169 285.1 256.3)"/><ellipse cx="344.9" cy="212.6" rx="42.4" ry="30.5" fill="#87c46f" opacity="0.94" transform="rotate(35 344.9 212.6)"/><ellipse cx="405.6" cy="227.3" rx="45.0" ry="39.5" fill="#568c43" opacity="0.94" transform="rotate(154 405.6 227.3)"/><ellipse cx="503.6" cy="262.6" rx="45.6" ry="38.1" fill="#9ccd85" opacity="0.94" transform="rotate(99 503.6 262.6)"/>
+  <circle cx="393.3" cy="302.2" r="1.9" fill="#ffffff" opacity="0.7"/><circle cx="357.7" cy="360.7" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="414.7" cy="317.3" r="2.9" fill="#ffffff" opacity="0.7"/><circle cx="391.6" cy="258.5" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="462.4" cy="249.5" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="419.4" cy="277.9" r="1.6" fill="#ffffff" opacity="0.7"/><circle cx="470.8" cy="308.5" r="3.9" fill="#3f6b32" opacity="0.7"/><circle cx="413.2" cy="269.1" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="361.5" cy="271.1" r="3.3" fill="#ffffff" opacity="0.7"/><circle cx="374.4" cy="247.6" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="395.4" cy="333.7" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="311.3" cy="312.1" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="350.3" cy="308.3" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="447.3" cy="352.3" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="336.3" cy="240.4" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="350.9" cy="350.6" r="2.7" fill="#ffffff" opacity="0.7"/>
+</svg>

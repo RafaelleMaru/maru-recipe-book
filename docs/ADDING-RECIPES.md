@@ -1,8 +1,12 @@
 # Adding more recipes
 
-The database is six plain JSON files — one per cuisine — in `data/cuisines/`. Nothing else
-needs to change to add a dish: the build merges the files, rejects duplicates, draws a
-placeholder image and the site picks it up.
+The database is plain JSON files in `data/cuisines/` — **every** `.json` file in that folder
+is merged, so a cuisine can be split across several. That's the safe way to add a batch:
+write the new dishes to their own file (`filipino-more.json`, `filipino-2024.json`, whatever)
+and the researched files you already trust are never touched.
+
+Nothing else needs to change to add a dish: the build merges the files, rejects duplicates,
+draws a placeholder image and the site picks it up.
 
 ## The loop
 
@@ -18,13 +22,15 @@ run `node tools/build-db.mjs --force` to build with only the valid recipes.
 
 ## Asking Claude to research the next batch
 
-Paste this into Claude Code in this folder. It is the same brief the first 72 recipes were
+Paste this into Claude Code in this folder. It is the same brief every recipe in the book was
 written from, so the results stay consistent.
 
-> Research and add 10 more authentic **&lt;cuisine&gt;** recipes to `data/cuisines/&lt;cuisine&gt;.json`.
+> Research 10 more authentic **&lt;cuisine&gt;** recipes and write them to a NEW file,
+> `data/cuisines/&lt;cuisine&gt;-more.json`. Do not modify the existing cuisine files.
 >
 > - Read `docs/RECIPE_SCHEMA.md` first and follow it exactly.
-> - Read the existing file and **do not repeat any dish already in it** — check ids and titles.
+> - Read the existing cuisine file and **do not repeat any dish already in it** — check ids
+>   and titles, and avoid dishes that are essentially the same thing under another name.
 > - Verify every method against a real, authoritative source (use web search; prefer that
 >   country's own home cooks) and record it in the `source` field. No ratios from memory.
 > - We cook for 2 adults plus three kids (girls aged 8 and 8, boy aged 6). Set `spicy` and

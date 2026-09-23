@@ -18,11 +18,4 @@
     <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
   <ellipse cx="478.5" cy="305.8" rx="27.6" ry="17.3" fill="#dca85e" opacity="0.94" transform="rotate(149 478.5 305.8)"/><ellipse cx="449.3" cy="352.6" rx="35.5" ry="24.8" fill="#f8dcae" opacity="0.94" transform="rotate(30 449.3 352.6)"/><ellipse cx="331.8" cy="363.5" rx="36.4" ry="26.5" fill="#f0c07a" opacity="0.94" transform="rotate(160 331.8 363.5)"/><ellipse cx="317.8" cy="295.9" rx="26.1" ry="22.1" fill="#dca85e" opacity="0.94" transform="rotate(39 317.8 295.9)"/><ellipse cx="371.5" cy="258.0" rx="37.5" ry="29.4" fill="#f0c07a" opacity="0.94" transform="rotate(155 371.5 258.0)"/><ellipse cx="395.4" cy="250.3" rx="44.4" ry="38.5" fill="#dca85e" opacity="0.94" transform="rotate(60 395.4 250.3)"/><ellipse cx="445.4" cy="271.9" rx="25.2" ry="19.1" fill="#f8dcae" opacity="0.94" transform="rotate(38 445.4 271.9)"/>
   <circle cx="479.4" cy="212.0" r="3.9" fill="#3f6b32" opacity="0.7"/><circle cx="400.6" cy="338.1" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="390.8" cy="204.6" r="2.1" fill="#3f6b32" opacity="0.7"/><circle cx="339.5" cy="288.4" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="405.5" cy="365.1" r="2.0" fill="#3f6b32" opacity="0.7"/><circle cx="423.2" cy="274.7" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="413.0" cy="350.8" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="398.2" cy="303.6" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="462.7" cy="268.7" r="2.9" fill="#ffffff" opacity="0.7"/><circle cx="387.2" cy="236.0" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="442.0" cy="290.5" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="364.8" cy="218.1" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="372.1" cy="258.8" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="321.3" cy="241.3" r="2.1" fill="#3f6b32" opacity="0.7"/><circle cx="406.2" cy="251.4" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="404.5" cy="295.8" r="2.6" fill="#3f6b32" opacity="0.7"/>
-  
-    <g>
-      <rect x="40" y="36" rx="19" ry="19" width="140" height="38" fill="#ffffff" opacity="0.82"/>
-      <text x="110" y="61" text-anchor="middle"
-        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
-        letter-spacing="0.6">INDIAN</text>
-    </g>
 </svg>

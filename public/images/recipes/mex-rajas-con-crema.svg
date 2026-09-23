@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Roasted Poblano Strips in Cream">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="602.8" cy="101.8" r="3.5" fill="#ffffff" opacity="0.27"/><circle cx="676.7" cy="100.5" r="10.9" fill="#ffffff" opacity="0.31"/><circle cx="729.4" cy="474.6" r="8.9" fill="#ffffff" opacity="0.48"/><circle cx="158.0" cy="437.7" r="5.6" fill="#ffffff" opacity="0.46"/><circle cx="142.4" cy="128.9" r="3.1" fill="#ffffff" opacity="0.37"/><circle cx="630.3" cy="101.4" r="4.1" fill="#ffffff" opacity="0.43"/><circle cx="73.6" cy="123.5" r="5.7" fill="#ffffff" opacity="0.44"/><circle cx="159.2" cy="518.9" r="11.4" fill="#ffffff" opacity="0.27"/><circle cx="269.2" cy="86.0" r="5.4" fill="#ffffff" opacity="0.40"/><circle cx="754.3" cy="84.6" r="7.6" fill="#ffffff" opacity="0.20"/><circle cx="166.9" cy="23.1" r="11.4" fill="#ffffff" opacity="0.30"/><circle cx="655.2" cy="487.3" r="9.2" fill="#ffffff" opacity="0.47"/><circle cx="550.3" cy="478.8" r="11.9" fill="#ffffff" opacity="0.34"/><circle cx="217.7" cy="88.1" r="6.6" fill="#ffffff" opacity="0.24"/><circle cx="622.4" cy="155.6" r="6.6" fill="#ffffff" opacity="0.43"/><circle cx="89.3" cy="32.5" r="6.6" fill="#ffffff" opacity="0.38"/><circle cx="187.7" cy="126.6" r="10.7" fill="#ffffff" opacity="0.39"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="497.1" cy="329.7" rx="30.2" ry="22.0" fill="#6fae57" opacity="0.94" transform="rotate(48 497.1 329.7)"/><ellipse cx="432.9" cy="378.9" rx="39.3" ry="27.4" fill="#9ccd85" opacity="0.94" transform="rotate(49 432.9 378.9)"/><ellipse cx="339.3" cy="363.2" rx="38.4" ry="28.2" fill="#87c46f" opacity="0.94" transform="rotate(21 339.3 363.2)"/><ellipse cx="338.4" cy="290.5" rx="23.3" ry="20.5" fill="#6fae57" opacity="0.94" transform="rotate(163 338.4 290.5)"/><ellipse cx="343.9" cy="255.3" rx="24.3" ry="20.8" fill="#9ccd85" opacity="0.94" transform="rotate(1 343.9 255.3)"/><ellipse cx="419.6" cy="230.0" rx="42.7" ry="28.6" fill="#87c46f" opacity="0.94" transform="rotate(151 419.6 230.0)"/><ellipse cx="480.5" cy="261.9" rx="40.9" ry="32.2" fill="#9ccd85" opacity="0.94" transform="rotate(36 480.5 261.9)"/>
+  <circle cx="387.5" cy="227.2" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="430.0" cy="249.1" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="398.7" cy="285.4" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="284.9" cy="257.2" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="422.1" cy="262.7" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="395.2" cy="294.2" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="344.5" cy="266.5" r="1.8" fill="#3f6b32" opacity="0.7"/><circle cx="399.7" cy="289.8" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="476.3" cy="224.6" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="450.1" cy="268.0" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="460.0" cy="302.6" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="400.0" cy="291.1" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="369.2" cy="231.4" r="1.8" fill="#3f6b32" opacity="0.7"/><circle cx="429.2" cy="341.5" r="3.7" fill="#ffffff" opacity="0.7"/><circle cx="455.6" cy="250.7" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="419.4" cy="288.8" r="3.7" fill="#3f6b32" opacity="0.7"/>
+</svg>

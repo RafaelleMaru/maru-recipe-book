@@ -165,11 +165,11 @@ export default function RecipeDetail({ recipe, servings, inMenu, saved, onToggle
       <div className="flex flex-col gap-4">
         {/* Ingredients with live scaling */}
         <section className="card p-5">
-          <div className="mb-3 flex items-center justify-between gap-2">
+          <div className="mb-3 flex flex-wrap items-center justify-between gap-2">
             <h2 className="panel-title flex items-center gap-2">
               <i className="fa-solid fa-basket-shopping" aria-hidden /> {t('Ingredients')}
             </h2>
-            <div className="no-print bg-surface-2 flex items-center gap-1 rounded-xl p-1">
+            <div className="no-print bg-surface-2 ml-auto flex items-center gap-1 rounded-xl p-1">
               <button
                 onClick={() => setPortions((p) => Math.max(1, p - 1))}
                 className="hover:bg-surface flex h-7 w-7 cursor-pointer items-center justify-center rounded-lg text-xs"

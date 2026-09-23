@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Baingan Bharta">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff4dd"/>
+      <stop offset="100%" stop-color="#ffe1bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="350.4" cy="23.7" r="3.6" fill="#ffffff" opacity="0.39"/><circle cx="691.2" cy="526.9" r="4.5" fill="#ffffff" opacity="0.32"/><circle cx="367.2" cy="56.5" r="4.8" fill="#ffffff" opacity="0.21"/><circle cx="48.4" cy="322.6" r="4.4" fill="#ffffff" opacity="0.34"/><circle cx="50.3" cy="467.1" r="4.1" fill="#ffffff" opacity="0.44"/><circle cx="689.1" cy="479.3" r="7.5" fill="#ffffff" opacity="0.40"/><circle cx="28.4" cy="421.1" r="8.4" fill="#ffffff" opacity="0.20"/><circle cx="153.9" cy="242.4" r="3.3" fill="#ffffff" opacity="0.40"/><circle cx="307.8" cy="36.0" r="4.5" fill="#ffffff" opacity="0.44"/><circle cx="667.7" cy="531.3" r="5.7" fill="#ffffff" opacity="0.46"/><circle cx="505.5" cy="56.8" r="7.5" fill="#ffffff" opacity="0.24"/><circle cx="713.2" cy="497.7" r="10.9" fill="#ffffff" opacity="0.39"/><circle cx="134.2" cy="111.6" r="6.3" fill="#ffffff" opacity="0.45"/><circle cx="550.2" cy="72.1" r="3.7" fill="#ffffff" opacity="0.47"/><circle cx="143.9" cy="239.0" r="5.3" fill="#ffffff" opacity="0.39"/><circle cx="102.4" cy="320.0" r="9.8" fill="#ffffff" opacity="0.25"/><circle cx="736.1" cy="107.5" r="10.3" fill="#ffffff" opacity="0.19"/><circle cx="92.7" cy="408.4" r="4.8" fill="#ffffff" opacity="0.19"/><circle cx="713.9" cy="190.4" r="7.8" fill="#ffffff" opacity="0.33"/><circle cx="504.1" cy="67.2" r="6.3" fill="#ffffff" opacity="0.25"/><circle cx="499.7" cy="71.7" r="8.0" fill="#ffffff" opacity="0.23"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="483.9" cy="290.3" rx="25.6" ry="16.5" fill="#9ccd85" opacity="0.94" transform="rotate(161 483.9 290.3)"/><ellipse cx="440.8" cy="353.3" rx="23.5" ry="18.2" fill="#9ccd85" opacity="0.94" transform="rotate(177 440.8 353.3)"/><ellipse cx="349.9" cy="369.9" rx="22.1" ry="19.3" fill="#5f9e49" opacity="0.94" transform="rotate(174 349.9 369.9)"/><ellipse cx="355.2" cy="301.0" rx="37.7" ry="28.1" fill="#9ccd85" opacity="0.94" transform="rotate(115 355.2 301.0)"/><ellipse cx="286.1" cy="276.1" rx="44.0" ry="32.2" fill="#6fae57" opacity="0.94" transform="rotate(117 286.1 276.1)"/><ellipse cx="338.4" cy="204.7" rx="42.6" ry="32.8" fill="#87c46f" opacity="0.94" transform="rotate(31 338.4 204.7)"/><ellipse cx="415.3" cy="261.8" rx="43.8" ry="36.6" fill="#6fae57" opacity="0.94" transform="rotate(98 415.3 261.8)"/><ellipse cx="481.6" cy="247.7" rx="35.1" ry="25.5" fill="#9ccd85" opacity="0.94" transform="rotate(107 481.6 247.7)"/>
+  <circle cx="500.4" cy="345.4" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="401.6" cy="314.4" r="2.8" fill="#ffffff" opacity="0.7"/><circle cx="390.8" cy="264.9" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="426.5" cy="204.0" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="442.1" cy="371.9" r="1.6" fill="#ffffff" opacity="0.7"/><circle cx="392.1" cy="303.0" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="317.5" cy="303.4" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="476.4" cy="330.6" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="411.8" cy="258.7" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="448.6" cy="294.6" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="434.9" cy="284.0" r="3.9" fill="#3f6b32" opacity="0.7"/><circle cx="351.9" cy="210.9" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="447.8" cy="300.8" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="411.6" cy="312.0" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="499.7" cy="234.9" r="2.1" fill="#3f6b32" opacity="0.7"/><circle cx="417.5" cy="228.3" r="2.0" fill="#3f6b32" opacity="0.7"/>
+</svg>

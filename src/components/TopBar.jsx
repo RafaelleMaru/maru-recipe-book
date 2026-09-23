@@ -72,21 +72,24 @@ export default function TopBar({
   }
 
   return (
-    <header className="no-print mb-4 flex items-center gap-2 sm:gap-3">
-      <button
-        onClick={onBack}
-        disabled={!canGoBack}
-        className={cx(
-          'btn-icon hidden shrink-0 sm:inline-flex',
-          canGoBack ? 'bg-surface border-line border text-ink-2 hover:bg-surface-2' : 'text-muted/40',
-        )}
-        aria-label={t('Back')}
-        title={t('Back')}
-      >
-        <i className="fa-solid fa-chevron-left" aria-hidden />
-      </button>
+    // Phones get two rows: a full-width search box, then the controls beneath it.
+    // From `sm` up it collapses back to a single row.
+    <header className="no-print mb-4 flex flex-col gap-2 sm:flex-row sm:items-center sm:gap-3">
+      <div className="flex min-w-0 items-center gap-2 sm:flex-1 sm:gap-3">
+        <button
+          onClick={onBack}
+          disabled={!canGoBack}
+          className={cx(
+            'btn-icon hidden shrink-0 sm:inline-flex',
+            canGoBack ? 'bg-surface border-line border text-ink-2 hover:bg-surface-2' : 'text-muted/40',
+          )}
+          aria-label={t('Back')}
+          title={t('Back')}
+        >
+          <i className="fa-solid fa-chevron-left" aria-hidden />
+        </button>
 
-      <div ref={boxRef} className="relative min-w-0 flex-1">
+        <div ref={boxRef} className="relative min-w-0 flex-1">
         <div className="bg-surface border-line flex items-center gap-2 rounded-2xl border px-3 py-2 shadow-sm focus-within:border-brand-300 sm:px-4">
           <input
             type="search"
@@ -162,8 +165,10 @@ export default function TopBar({
             </button>
           </div>
         )}
+        </div>
       </div>
 
+      <div className="flex items-center justify-end gap-2 sm:gap-3">
       {/* Serving-size switch: the whole app scales to this. Icons only on phones. */}
       <div className="bg-surface border-line flex shrink-0 items-center gap-0.5 rounded-2xl border p-1 shadow-sm">
         {Object.values(SERVING_MODES).map((m) => (
@@ -209,6 +214,7 @@ export default function TopBar({
       >
         <i className={`fa-solid ${theme === 'dark' ? 'fa-sun' : 'fa-moon'}`} aria-hidden />
       </button>
+      </div>
     </header>
   )
 }

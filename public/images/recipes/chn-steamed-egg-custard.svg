@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Chinese Steamed Egg Custard">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fdeaea"/>
+      <stop offset="100%" stop-color="#fdf3da"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="646.0" cy="379.9" r="6.2" fill="#ffffff" opacity="0.18"/><circle cx="261.8" cy="23.9" r="8.5" fill="#ffffff" opacity="0.30"/><circle cx="100.6" cy="77.7" r="11.0" fill="#ffffff" opacity="0.37"/><circle cx="126.1" cy="402.0" r="11.4" fill="#ffffff" opacity="0.43"/><circle cx="778.8" cy="82.5" r="3.9" fill="#ffffff" opacity="0.36"/><circle cx="61.6" cy="444.7" r="7.9" fill="#ffffff" opacity="0.19"/><circle cx="103.7" cy="59.8" r="3.5" fill="#ffffff" opacity="0.20"/><circle cx="36.2" cy="162.6" r="4.6" fill="#ffffff" opacity="0.39"/><circle cx="690.0" cy="120.2" r="10.2" fill="#ffffff" opacity="0.21"/><circle cx="42.2" cy="186.9" r="5.1" fill="#ffffff" opacity="0.40"/><circle cx="115.5" cy="349.3" r="10.9" fill="#ffffff" opacity="0.46"/><circle cx="610.2" cy="500.8" r="7.2" fill="#ffffff" opacity="0.39"/><circle cx="736.8" cy="433.8" r="5.9" fill="#ffffff" opacity="0.27"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="513.1" cy="304.8" rx="33.1" ry="30.2" fill="#fde49a" opacity="0.94" transform="rotate(22 513.1 304.8)"/><ellipse cx="427.8" cy="307.4" rx="29.0" ry="21.4" fill="#f6c93f" opacity="0.94" transform="rotate(87 427.8 307.4)"/><ellipse cx="426.1" cy="367.3" rx="28.9" ry="21.8" fill="#87c46f" opacity="0.94" transform="rotate(92 426.1 367.3)"/><ellipse cx="357.8" cy="343.4" rx="44.5" ry="31.1" fill="#f6c93f" opacity="0.94" transform="rotate(13 357.8 343.4)"/><ellipse cx="309.9" cy="311.9" rx="40.2" ry="27.9" fill="#fde49a" opacity="0.94" transform="rotate(85 309.9 311.9)"/><ellipse cx="318.3" cy="272.0" rx="35.9" ry="28.2" fill="#74b45c" opacity="0.94" transform="rotate(136 318.3 272.0)"/><ellipse cx="341.6" cy="212.5" rx="30.8" ry="24.6" fill="#e2b224" opacity="0.94" transform="rotate(58 341.6 212.5)"/><ellipse cx="373.9" cy="213.2" rx="45.0" ry="29.3" fill="#fde49a" opacity="0.94" transform="rotate(139 373.9 213.2)"/><ellipse cx="426.0" cy="268.7" rx="26.5" ry="19.4" fill="#87c46f" opacity="0.94" transform="rotate(127 426.0 268.7)"/><ellipse cx="472.4" cy="258.7" rx="29.7" ry="20.9" fill="#fde49a" opacity="0.94" transform="rotate(168 472.4 258.7)"/>
+  <circle cx="379.2" cy="228.4" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="439.9" cy="302.8" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="430.1" cy="282.0" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="404.0" cy="250.4" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="407.4" cy="299.8" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="334.5" cy="269.0" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="427.7" cy="262.3" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="401.0" cy="307.5" r="2.0" fill="#3f6b32" opacity="0.7"/><circle cx="376.9" cy="298.2" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="382.3" cy="261.7" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="464.7" cy="205.7" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="418.9" cy="273.1" r="3.4" fill="#ffffff" opacity="0.7"/><circle cx="363.7" cy="233.1" r="4.0" fill="#ffffff" opacity="0.7"/><circle cx="402.5" cy="330.8" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="442.9" cy="356.8" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="308.9" cy="307.8" r="3.8" fill="#3f6b32" opacity="0.7"/>
+</svg>

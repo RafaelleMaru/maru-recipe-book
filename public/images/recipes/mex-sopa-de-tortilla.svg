@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Tortilla Soup">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="112.1" cy="67.4" r="10.7" fill="#ffffff" opacity="0.41"/><circle cx="75.0" cy="385.8" r="4.7" fill="#ffffff" opacity="0.20"/><circle cx="707.0" cy="381.4" r="5.4" fill="#ffffff" opacity="0.39"/><circle cx="778.4" cy="167.9" r="9.8" fill="#ffffff" opacity="0.40"/><circle cx="651.0" cy="245.0" r="11.2" fill="#ffffff" opacity="0.44"/><circle cx="601.3" cy="409.9" r="6.9" fill="#ffffff" opacity="0.29"/><circle cx="41.1" cy="539.1" r="7.0" fill="#ffffff" opacity="0.42"/><circle cx="82.2" cy="113.7" r="9.1" fill="#ffffff" opacity="0.45"/><circle cx="766.9" cy="530.3" r="11.1" fill="#ffffff" opacity="0.44"/><circle cx="27.6" cy="255.1" r="3.8" fill="#ffffff" opacity="0.34"/><circle cx="71.3" cy="231.6" r="9.2" fill="#ffffff" opacity="0.27"/><circle cx="485.1" cy="55.1" r="7.4" fill="#ffffff" opacity="0.37"/><circle cx="147.9" cy="444.0" r="10.5" fill="#ffffff" opacity="0.26"/><circle cx="70.6" cy="303.2" r="4.4" fill="#ffffff" opacity="0.26"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="180" fill="#cf9450" opacity="0.82"/>
+    <circle cx="400" cy="290" r="180" fill="none" stroke="#000000" stroke-opacity="0.06" stroke-width="3"/>
+  <ellipse cx="400" cy="296" rx="74" ry="56" fill="#e3b581" opacity="0.95"/><ellipse cx="481.7" cy="306.5" rx="27.4" ry="18.2" fill="#b67c3c" opacity="0.94" transform="rotate(40 481.7 306.5)"/><ellipse cx="455.8" cy="349.8" rx="21.8" ry="15.6" fill="#cf9450" opacity="0.94" transform="rotate(170 455.8 349.8)"/><ellipse cx="357.6" cy="369.0" rx="20.6" ry="14.6" fill="#87c46f" opacity="0.94" transform="rotate(158 357.6 369.0)"/><ellipse cx="289.8" cy="308.5" rx="39.5" ry="25.2" fill="#cf9450" opacity="0.94" transform="rotate(27 289.8 308.5)"/><ellipse cx="319.8" cy="233.6" rx="38.1" ry="29.5" fill="#cf9450" opacity="0.94" transform="rotate(135 319.8 233.6)"/><ellipse cx="393.9" cy="243.4" rx="21.2" ry="19.0" fill="#87c46f" opacity="0.94" transform="rotate(87 393.9 243.4)"/><ellipse cx="454.6" cy="253.3" rx="26.6" ry="17.0" fill="#b67c3c" opacity="0.94" transform="rotate(69 454.6 253.3)"/>
+  <circle cx="403.1" cy="238.3" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="475.2" cy="335.1" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="428.9" cy="251.8" r="1.7" fill="#3f6b32" opacity="0.7"/><circle cx="498.5" cy="300.2" r="1.9" fill="#ffffff" opacity="0.7"/><circle cx="401.4" cy="279.3" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="369.3" cy="326.6" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="377.9" cy="321.2" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="422.8" cy="230.2" r="2.2" fill="#3f6b32" opacity="0.7"/><circle cx="312.0" cy="316.7" r="2.9" fill="#ffffff" opacity="0.7"/><circle cx="440.4" cy="320.1" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="320.2" cy="235.6" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="333.7" cy="308.0" r="3.2" fill="#3f6b32" opacity="0.7"/><circle cx="290.6" cy="275.2" r="1.8" fill="#3f6b32" opacity="0.7"/><circle cx="297.7" cy="281.3" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="412.1" cy="297.6" r="2.3" fill="#ffffff" opacity="0.7"/><circle cx="421.8" cy="317.3" r="2.8" fill="#3f6b32" opacity="0.7"/>
+  
+    <g stroke="#ffffff" stroke-opacity="0.65" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M354 98 c -14 -26 14 -42 0 -62"/>
+      <path d="M400 86 c -16 -30 16 -48 0 -70"/>
+      <path d="M446 98 c -14 -26 14 -42 0 -62"/>
+    </g>
+</svg>

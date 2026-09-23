@@ -1,0 +1,341 @@
+{
+  "ind-chicken-chettinad": {
+    "description": "Manok na ni-simmer sa coarse at freshly roasted masala ng coriander, fennel, star anise at dried red chillies — talagang spicy-hot mula sa Chettinad region ng Tamil Nadu, hindi lang heavily spiced, na may malalim na roasted aroma.",
+    "ingredients": [
+      "coriander seeds",
+      "dried red chillies",
+      "cumin seeds",
+      "fennel seeds",
+      "black peppercorns",
+      "cinnamon stick (1-inch)",
+      "cloves",
+      "star anise",
+      "grated na fresh coconut",
+      "oil",
+      "curry leaves",
+      "onion, hiwain nang manipis",
+      "ginger-garlic paste",
+      "manok, may buto",
+      "turmeric powder",
+      "tinadtad na kamatis",
+      "asin",
+      "tinadtad na coriander leaves"
+    ],
+    "steps": [
+      "I-dry roast ang coriander seeds, dried red chillies, cumin, fennel, peppercorns, cinnamon, cloves at star anise sa pan sa low heat for 2-3 minutes hanggang bumango at medyo dumilim.",
+      "Idagdag ang grated coconut sa parehong pan at i-roast pa for 1-2 minutes hanggang mag-light golden, tapos palamigin at gilingin lahat into coarse paste with splash of water.",
+      "Painitin ang oil sa heavy pan, idagdag ang curry leaves at onion, at lutuin sa medium heat hanggang mag-golden ang onion.",
+      "Idagdag ang ginger-garlic paste at igisa for a minute hanggang mawala ang raw smell.",
+      "Idagdag ang manok at i-sear sa medium-high heat for 4-5 minutes hanggang magbago ng kulay all sides.",
+      "Hinaan ang apoy, idagdag ang ground masala paste at turmeric, at lutuin, haluin nang madalas, for 5-6 minutes hanggang magsimulang humiwalay ang oil — mabilis masunog itong roasted masala, kaya panatilihing mahinay ang apoy.",
+      "Idagdag ang kamatis at asin, takpan at i-simmer for 15-18 minutes hanggang lumambot ang manok.",
+      "Buksan at i-simmer pa ng ilang minuto para lumapot ang gravy to coating consistency, tapos finish with coriander leaves."
+    ],
+    "tips": [
+      "I-roast ang whole spices at coconut nang mahinay — kapag sobrang tinulak, mapapait ito instead na maging nutty.",
+      "Lutuin ang ground masala sa low heat hanggang halatang humiwalay ang oil; yun ang sign na wala nang raw spice taste."
+    ],
+    "kidNote": "Bawasan ng kalahati ang dried red chillies (o dalawa na lang) sa batch para sa mga bata at wag nang magdagdag ng extra pepper, tapos lagyan ang mangkok nila ng kutsarang coconut milk o yogurt na hinalo — nandiyan pa rin ang roasted coriander, fennel at cinnamon para dalhin ang Chettinad flavor without the heat.",
+    "nutritionNote": "Magandang source ng lean protein ang manok; mas kaunti ang added fat ng roasted-spice masala kumpara sa cream-based curry, kaya bagay ito sa plain rice without tipping the meal too rich."
+  },
+  "ind-rogan-josh": {
+    "description": "Mutton o beef na may buto, ni-braise nang mahinay sa whisked yogurt na may fennel, dry ginger powder at Kashmiri chilli para sa signature deep red na kulay nito — walang onion o bawang, warmly spiced kesa fiery, may rich at clingy na gravy.",
+    "ingredients": [
+      "mutton o beef stew pieces, may buto",
+      "mustard oil",
+      "bay leaf",
+      "black cardamom pod",
+      "green cardamom pods",
+      "cloves",
+      "cinnamon stick (2-inch)",
+      "asafoetida (hing)",
+      "Kashmiri red chilli powder",
+      "plain yogurt, hinalo hanggang smooth",
+      "fennel powder",
+      "dry ginger powder (saunth)",
+      "asin",
+      "tubig"
+    ],
+    "steps": [
+      "Painitin ang mustard oil sa heavy pot hanggang magsimulang mag-usok, tapos palamigin for a minute para mawala ang raw sharpness.",
+      "Idagdag ang bay leaf, black cardamom, green cardamom, cloves at cinnamon, at hayaang mag-sizzle for 30 seconds hanggang bumango.",
+      "Idagdag ang karne at i-sear sa high heat, i-turn paminsan-minsan, for 8-10 minutes hanggang mag-brown all sides.",
+      "Hinaan ang apoy at ihalo ang asafoetida at Kashmiri chilli powder with splash of water para mag-bloom ang powder without masunog.",
+      "Idagdag ang whisked yogurt isang spoonful at a time, haluin nang patuloy sa low heat para hindi mag-split, hanggang ma-incorporate nang lahat.",
+      "Ihalo ang fennel powder, dry ginger powder at asin.",
+      "Idagdag ang tubig, pakuluin, tapos takpan at i-simmer sa low heat for 45-60 minutes, haluin paminsan-minsan, hanggang fork-tender ang karne at lumapot ang gravy.",
+      "Buksan at i-simmer pa ng ilang minuto kung kailangan pang ma-reduce ang gravy, tapos ihain mainit."
+    ],
+    "tips": [
+      "Idagdag ang yogurt off direct high heat at haluin nang patuloy — ito ang step na pumipigil sa gravy na mag-curdle.",
+      "Ang pagpapalamig nang kaunti sa smoking mustard oil bago ilagay ang spices ay pumipigil sa pungency nito na maging bitter."
+    ],
+    "kidNote": "Gamitin ang mas kaunting Kashmiri chilli powder (o kalahatiin) sa share na ipapakain sa mga bata — mild variety naman ito na mostly para sa kulay, pero mas maganda kung konti lang para talagang gentle ang share nila — at haluin ang extra spoonful ng yogurt sa gravy nila. Nandiyan pa rin ang whole spices for aroma without any real heat.",
+    "nutritionNote": "Protein- at iron-rich na meat braise; umaasa ang gravy sa yogurt kesa cream for body, kaya mas mababa ang saturated fat kumpara sa butter-based curry — i-pair with rice o roti at side ng green vegetable."
+  },
+  "ind-rava-dosa": {
+    "description": "Manipis, lacy, instant semolina crepe na walang fermentation kailangan — crisp sa gilid, may cumin at curry leaves, ang mabilis na fix-breakfast dosa ng South India na iniihain with coconut chutney at sambar.",
+    "ingredients": [
+      "fine semolina (rava/sooji)",
+      "rice flour",
+      "all-purpose flour (maida)",
+      "asin",
+      "tubig, o kung gaano kailangan",
+      "cumin seeds",
+      "dinurog na black pepper",
+      "tinadtad nang pino na luya",
+      "green chilli, tinadtad nang pino",
+      "curry leaves, tinadtad nang pino",
+      "tinadtad na coriander leaves",
+      "onion, tinadtad nang pino",
+      "oil, pang-drizzle"
+    ],
+    "steps": [
+      "Ihalo ang semolina, rice flour, maida at asin sa large bowl.",
+      "Idagdag ang tubig nang paunti-unti, alisin ang lumps, hanggang manipis at watery ang batter — mas runny pa kaysa regular na dosa batter.",
+      "Patahimikin ang batter for 20-30 minutes para ma-absorb nang tuluyan ng semolina ang tubig, tapos haluin ulit nang maigi bago lutuin.",
+      "Ihalo ang cumin seeds, crushed pepper, luya, green chilli, curry leaves, coriander leaves at onion kung gagamitin.",
+      "Painitin ang flat dosa tawa o nonstick pan sa medium-high heat hanggang mag-sizzle ang isang patak ng batter kapag nahulog.",
+      "Haluin ulit ang batter, tapos ibuhos mula sa taas in a circular motion mula sa outer edge papunta sa gitna, iwanan ang natural lacy gaps — wag i-spread gamit ang ladle tulad ng regular na dosa.",
+      "I-drizzle ng kaunting oil sa gilid at lutuin hanggang mag-golden at crisp ang dosa at maalis nang madali sa pan, 2-3 minutes.",
+      "I-fold into half-moon o quarter at ihain agad with coconut chutney at sambar; ulitin with natitirang batter, haluin ito bawat time kasi nagse-settle ang flours."
+    ],
+    "tips": [
+      "Ang thin at watery na batter ang nagbibigay sa rava dosa ng lacy holes nito — pag makapal ang batter, magiging pancake na lang ito.",
+      "Lutuin ito isa-isa straight from the heat; hindi tulad ng regular na dosa, hindi maganda i-hold ang rava dosa once naluto na."
+    ],
+    "nutritionNote": "Mas light kaysa rice-and-lentil dosa kasi walang fermentation, pero refined-carbohydrate pa rin ang breakfast na ito — kumpletuhin with vegetable-forward na sambar o coconut chutney kesa dagdag pang fried side."
+  },
+  "ind-upma": {
+    "description": "Roasted semolina na ni-temper sa mustard seeds, lentils, cashews at curry leaves, tapos niluto nang soft at fluffy sa mainit na tubig — mild at mabilis na South Indian breakfast na matatapos sa loob ng 20 minutes ng actual cooking.",
+    "ingredients": [
+      "fine semolina (rava/sooji)",
+      "ghee o oil",
+      "mustard seeds",
+      "urad dal",
+      "chana dal",
+      "cashews",
+      "curry leaves",
+      "green chilli, tinadtad nang pino",
+      "tinadtad nang pino na luya",
+      "onion, tinadtad nang pino",
+      "tubig",
+      "asin",
+      "lemon juice",
+      "tinadtad na coriander leaves"
+    ],
+    "steps": [
+      "I-dry roast ang semolina sa wide pan sa low-medium heat for 4-5 minutes, haluin nang patuloy, hanggang bumango pero manatiling pale ang kulay; itabi.",
+      "Sa parehong pan, painitin ang ghee at idagdag ang mustard seeds; once mag-splutter, idagdag ang urad dal, chana dal at cashews at i-fry hanggang golden.",
+      "Idagdag ang curry leaves, green chilli at luya, at igisa for 30 seconds.",
+      "Idagdag ang onion at lutuin hanggang translucent.",
+      "Idagdag ang tubig at asin, at pakuluin nang malakas.",
+      "Hinaan ang apoy at dahan-dahang isalin ang roasted semolina gamit ang isang kamay habang haluin nang patuloy ng kabilang kamay para hindi mag-lumps.",
+      "Takpan at lutuin sa low heat for 2-3 minutes hanggang ma-absorb lahat ng tubig at maging soft at fluffy ang semolina.",
+      "I-fluff gamit ang fork, i-drizzle ang lemon juice, at garnishan ng coriander leaves bago ihain."
+    ],
+    "tips": [
+      "Ang dahan-dahang pagsalin ng rava habang haluin lang ang only way para maiwasan ang lumps — pag binuhos lahat nang sabay, sigurado magkaka-lumps.",
+      "I-roast ang semolina hanggang lang bumango; pag over-roasted, magiging dry at grainy ang finished upma."
+    ],
+    "nutritionNote": "Light at mabilis ma-digest na breakfast; nagdadagdag ang lentils at cashews ng kaunting protein at ang onion ng fibre, pero mababa sa gulay overall, kaya i-pair with fruit o side ng yogurt para kumpleto ang meal."
+  },
+  "ind-matar-paneer": {
+    "description": "Paneer cubes at green peas na ni-simmer sa dhaba-style onion-tomato gravy mula sa hiwalay na pinrito na onions at pinakuluang tomatoes — mildly warm at mabilis na weeknight comfort food na walang cream o cashews.",
+    "ingredients": [
+      "tinadtad na kamatis",
+      "onion, hiwain nang manipis",
+      "oil",
+      "cumin seeds",
+      "bay leaf",
+      "ginger-garlic paste",
+      "turmeric powder",
+      "Kashmiri red chilli powder",
+      "coriander powder",
+      "green peas, fresh o frozen",
+      "paneer, dinice",
+      "garam masala",
+      "kasuri methi, dinurog",
+      "asin",
+      "tinadtad na coriander leaves"
+    ],
+    "steps": [
+      "Pakuluin ang kamatis sa kaunting tubig for 5-6 minutes hanggang lumambot, tapos palamigin at i-blend into smooth puree.",
+      "I-shallow-fry ang onion sa tablespoon ng oil hanggang deep golden, tapos palamigin at gilingin into smooth paste.",
+      "Painitin ang natitirang oil sa pan at idagdag ang cumin seeds at bay leaf; hayaang mag-sizzle hanggang bumango.",
+      "Idagdag ang onion paste at lutuin sa medium heat, haluin, for 3-4 minutes hanggang humiwalay ang oil.",
+      "Idagdag ang ginger-garlic paste at igisa for a minute hanggang mawala ang raw smell.",
+      "Hinaan ang apoy at ihalo ang turmeric, chilli powder at coriander powder with splash of water para mag-bloom ang powders without masunog.",
+      "Idagdag ang tomato puree at lutuin, haluin nang madalas, for 7-8 minutes hanggang lumapot at humiwalay ulit ang oil.",
+      "Magdagdag ng sapat na tubig para lumusaw ang gravy, tapos idagdag ang peas at i-simmer for 6-8 minutes hanggang lumambot.",
+      "Idagdag ang paneer, garam masala, kasuri methi at asin; i-simmer for 2-3 minutes lang para uminit ang paneer, tapos finish with coriander leaves."
+    ],
+    "tips": [
+      "Ang paggiling ng fried onion at boiled tomato nang hiwalay, kesa lutuin sabay nang raw, ang nagbibigay dito ng dhaba-style depth.",
+      "Idagdag ang paneer right at the end at wag hayaang pakuluan nang malakas, kundi magiging rubbery ito."
+    ],
+    "nutritionNote": "Nagdadala ang paneer at peas ng protein, calcium at fibre nang magkasama, at nilaktawan ng version na ito ang cream, kaya nanatili ang taba mostly sa tempering oil lang — magandang vegetarian main to pair with lighter dal-and-rice night."
+  },
+  "ind-baingan-bharta": {
+    "description": "Isang buong eggplant na ni-char sa open flame hanggang mag-blister ang balat at maging smoky-soft ang laman, tapos dinikdik at niluto with onion, kamatis at luya — talagang spicy-hot, hinahayaang lumabas ang char kesa itago sa cream.",
+    "ingredients": [
+      "malaking eggplant (mga 500g)",
+      "oil, pangpahid sa eggplant",
+      "oil",
+      "cumin seeds",
+      "onion, tinadtad nang pino",
+      "ginger-garlic paste",
+      "green chilli, tinadtad nang pino",
+      "kamatis, tinadtad nang pino",
+      "turmeric powder",
+      "red chilli powder",
+      "garam masala",
+      "asin",
+      "tinadtad na coriander leaves"
+    ],
+    "steps": [
+      "Butasan ang eggplant ng ilang beses gamit ang kutsilyo, pahiran nang bahagya ng oil, at i-roast directly over open gas flame (o under hot grill), i-turn paminsan-minsan, for 12-15 minutes hanggang mag-itim at mag-blister ang balat all over at madaling makapasok ang kutsilyo sa laman.",
+      "Palamigin ang eggplant, tapos alisin ang charred skin under running water at itapon ang tangkay; dikdikin nang bahagya ang smoky flesh gamit ang fork.",
+      "Painitin ang oil sa pan at idagdag ang cumin seeds; hayaang mag-sizzle hanggang bumango.",
+      "Idagdag ang onion at lutuin sa medium heat hanggang golden brown.",
+      "Idagdag ang ginger-garlic paste at green chilli, at igisa for a minute.",
+      "Idagdag ang kamatis at lutuin, haluin nang madalas, hanggang lumambot at maging pulpy.",
+      "Hinaan ang apoy at ihalo ang turmeric at chilli powder with splash of water para mag-bloom without masunog.",
+      "Idagdag ang mashed eggplant at asin, at lutuin nang bukas sa medium heat for 8-10 minutes, haluin nang madalas, hanggang matuyo ang mixture at wala nang lasang raw.",
+      "Budburan ng garam masala, haluin, at finish with coriander leaves."
+    ],
+    "tips": [
+      "Ang pag-char sa eggplant directly over flame ang nagbibigay sa bharta ng smoky taste — kapag oven-roasted lang, maluluto pero mawawala ang flavor na iyon, kaya i-finish nang bahagya under the broiler kung wala talagang open flame.",
+      "Lutuin ang mashed eggplant nang bukas hanggang halatang matuyo at lumapot; parang hindi tapos ang lasa ng basang bharta."
+    ],
+    "kidNote": "Laktawan ang green chilli at gumamit ng kalahati lang ng red chilli powder sa batch para sa mga bata, at ihalo ang share nila nang isang minuto earlier para mas kaunti ang oras nito sa direct heat — nandiyan pa rin ang smoky char at cumin-onion base para dalhin ang dish without the sharp heat.",
+    "nutritionNote": "Naturally low in calories ang eggplant at decent source ng fibre; walang cream ang version na ito, kaya isa ito sa mas light na vegetable sides dito — magandang i-pair with protein-rich na dal o rajma."
+  },
+  "ind-beans-poriyal": {
+    "description": "Green beans na tinadtad nang pino at ginisa sa mustard-seed at urad dal tempering, tapos hinalo sa fresh grated coconut — dry at mild na South Indian vegetable side na hindi nawawalan ng crunch at bright na kulay.",
+    "ingredients": [
+      "coconut oil",
+      "mustard seeds",
+      "urad dal",
+      "dried red chillies, dinurog",
+      "curry leaves",
+      "green beans, tinadtad nang pino",
+      "turmeric powder",
+      "asin",
+      "grated na fresh coconut"
+    ],
+    "steps": [
+      "Painitin ang coconut oil sa wide pan at idagdag ang mustard seeds; hayaang mag-splutter.",
+      "Idagdag ang urad dal, dried red chillies at curry leaves, at i-fry hanggang golden ang dal.",
+      "Idagdag ang chopped beans, turmeric at asin, at i-toss nang maigi para mabalutan sa tempering.",
+      "Magdagdag ng splash ng tubig, takpan, at lutuin sa low-medium heat for 8-10 minutes, haluin paminsan-minsan, hanggang lumambot lang ang beans pero manatiling bright green pa rin.",
+      "Buksan at lutuin pa ng isang minuto sa mas mataas na apoy para mag-evaporate ang natitirang moisture, para manatiling dry ang poriyal kesa steamed.",
+      "Ihalo ang grated coconut, i-toss for a minute para uminit, at ihain."
+    ],
+    "tips": [
+      "Tadtarin ang beans nang maliit at pantay para maluto sabay without maging mushy.",
+      "Idagdag ang coconut right at the end, off the heat, kung ihahain later — mas fresh ito nang ganon."
+    ],
+    "nutritionNote": "Fiber- at vitamin-rich na vegetable side na naturally low in fat; sparingly lang ginamit ang coconut as finish kesa sauce, kaya bagay ito kahit may mas richer curry ka nang iho-hain."
+  },
+  "ind-lemon-rice": {
+    "description": "Lutong rice na pinalamig, hinalo sa crackling mustard-seed, peanut at curry-leaf tempering na may generous squeeze ng lemon — mildly tangy na South Indian rice dish na okay dalhin sa lunchbox.",
+    "ingredients": [
+      "lutong rice, pinalamig at fluffed",
+      "oil",
+      "peanuts",
+      "mustard seeds",
+      "urad dal",
+      "chana dal",
+      "dried red chilli, dinurog",
+      "green chilli, tinadtad",
+      "curry leaves",
+      "asafoetida (hing)",
+      "turmeric powder",
+      "lemon juice",
+      "asin",
+      "tinadtad na coriander leaves"
+    ],
+    "steps": [
+      "Lutuin ang rice ahead of time at ikalat para lumamig nang tuluyan, i-fluff ang mga butil para hindi magdikit-dikit.",
+      "Painitin ang oil sa pan at i-fry ang peanuts hanggang crunchy; alisin at itabi.",
+      "Sa parehong oil, idagdag ang mustard seeds; once mag-splutter, idagdag ang urad dal at chana dal at i-fry hanggang golden.",
+      "Idagdag ang dried red chilli, green chilli, curry leaves at asafoetida, at i-fry for a few seconds.",
+      "Idagdag ang turmeric powder at ihalo.",
+      "Idagdag ang cooled rice at asin, at i-toss nang bahagya gamit ang wide spatula para mabalutan evenly without madurog ang mga butil.",
+      "Alisin ang pan sa apoy, pigain ang lemon juice, at i-toss ulit, tikman at ayusin ang asin o lemon kung kailangan.",
+      "Garnishan ng roasted peanuts at coriander leaves bago ihain."
+    ],
+    "tips": [
+      "Mas maganda ang day-old, fully cooled rice — magiging gummy ang warm rice the moment tamaan ito ng lemon juice.",
+      "Idagdag ang lemon juice off the heat; nawawala ang fresh tang nito sa direct heat."
+    ],
+    "nutritionNote": "Light na carbohydrate base with modest na boost ng protein at healthy fat mula sa peanuts; plain rice dish lang ito, kaya ihain kasama ng dal, poriyal o curry kesa buong meal na mag-isa."
+  },
+  "ind-prawn-masala": {
+    "description": "Prawns na ni-simmer sa ground coconut-and-whole-spice masala na may onion at kamatis — coastal Konkan-style curry, tangy at talagang spicy-hot, iba sa coconut-milk fish curry kasi dito, ginigiling ang coconut papunta sa base, hindi lang binubuhos.",
+    "ingredients": [
+      "prawns, binalatan at inalisan ng ugat",
+      "turmeric powder",
+      "asin",
+      "lemon juice",
+      "grated na fresh coconut",
+      "dried red chillies",
+      "coriander seeds",
+      "cumin seeds",
+      "fennel seeds",
+      "cinnamon stick (1-inch)",
+      "cloves",
+      "oil",
+      "curry leaves",
+      "onion, tinadtad nang pino",
+      "ginger-garlic paste",
+      "tinadtad na kamatis",
+      "garam masala",
+      "tinadtad na coriander leaves"
+    ],
+    "steps": [
+      "Ihalo ang prawns sa turmeric, asin at lemon juice, at itabi para mag-marinate for 15 minutes.",
+      "I-dry roast ang coriander seeds, dried red chillies, cumin, fennel, cinnamon at cloves sa pan for 1-2 minutes hanggang bumango, tapos palamigin at gilingin with grated coconut at kaunting tubig into smooth paste.",
+      "Painitin ang oil sa pan at idagdag ang curry leaves at onion; lutuin sa medium heat hanggang golden.",
+      "Idagdag ang ginger-garlic paste at igisa for a minute hanggang mawala ang raw smell.",
+      "Idagdag ang ground coconut masala paste at lutuin, haluin nang madalas, sa low heat for 5-6 minutes hanggang magsimulang humiwalay ang oil.",
+      "Idagdag ang kamatis at lutuin hanggang lumambot at mag-breakdown.",
+      "Magdagdag ng sapat na tubig para maging curry consistency ang gravy, pakuluin nang mahinay, at lutuin for 5 minutes para maghalo ang flavors.",
+      "Ilagay ang marinated prawns at lutuin for 4-5 minutes, hanggang mag-pink at mag-curl lang — wag i-overcook kundi magiging rubbery ito.",
+      "Budburan ng garam masala at finish with coriander leaves."
+    ],
+    "tips": [
+      "Mabilis maluto ang prawns — alisin agad sa apoy the moment mag-curl sila into tight 'C' shape, kundi magiging tough ito.",
+      "Ang pag-roast ng whole spices bago gilingin ang siyang nagpapaiba nito sa plain coconut-milk curry; wag laktawan ito."
+    ],
+    "kidNote": "Dahil sa ground dried-chilli masala, talagang maanghang ang curry na ito kaysa mild lang, kaya hindi ito safe ipakain nang diretso sa mga bata. Maglaan ng ilang plain-poached prawns (i-simmer nang hiwalay sa kaunting tomato-onion base na may turmeric at asin lang) at ibuhos na lang ang mas mildong gravy sa rice nila instead.",
+    "nutritionNote": "Lean, high-protein seafood option ang prawns; nagdadagdag ng kaunting saturated fat ang ground coconut pero mas kaunti pa rin kaysa coconut-milk-based curry, kaya bagay ito sa plain rice at side ng gulay."
+  },
+  "ind-sooji-halwa": {
+    "description": "Semolina na ni-roast sa ghee hanggang bumango, tapos hinalo sa warm sugar syrup at cardamom hanggang glossy at soft — mabilis at saffron-tinted na festival sweet na may fried cashews at raisins.",
+    "ingredients": [
+      "fine semolina (rava/sooji)",
+      "ghee",
+      "cashews",
+      "raisins",
+      "tubig",
+      "sugar",
+      "saffron strands",
+      "cardamom powder"
+    ],
+    "steps": [
+      "Painitin ang 2 tablespoons ng ghee sa pan at i-fry ang cashews at raisins hanggang mag-golden ang cashews at mag-plump ang raisins; alisin at itabi.",
+      "Idagdag ang natitirang ghee sa parehong pan at idagdag ang semolina; i-roast sa low-medium heat, haluin nang patuloy, for 8-10 minutes hanggang bumango at mag-light golden — wag hayaang mag-brown.",
+      "Samantala, painitin ang tubig with sugar at saffron sa ibang pot, haluin hanggang matunaw ang sugar.",
+      "Dahan-dahang ibuhos ang warm sugar water sa roasted semolina habang haluin nang patuloy gamit ang kabilang kamay — mag-bubble at mag-splutter ito, kaya ibuhos nang maingat in a thin stream.",
+      "Ihalo ang cardamom powder, tapos takpan at lutuin sa low heat for 2-3 minutes hanggang ma-absorb lahat ng liquid at maging soft at glossy ang semolina.",
+      "Ihalo ang fried cashews at raisins, at finish with extra drizzle ng ghee bago ihain mainit."
+    ],
+    "tips": [
+      "Ibuhos ang liquid nang dahan-dahan at panatilihing haluin — kapag binuhos nang bigla, magkakaroon ng hard lumps na hindi na lalambot.",
+      "I-roast ang semolina hanggang lang bumango at mag-pale gold; kapag over-roasted, magiging dry at dense ang lasa ng finished halwa."
+    ],
+    "nutritionNote": "Ghee- at sugar-rich na sweet na mas mainam ilaan for occasional treat lang kesa daily dessert; nagdadagdag ang cashews ng kaunting protein at healthy fat, pero i-portion nang maliit kasama ng mas light na main meal."
+  }
+}

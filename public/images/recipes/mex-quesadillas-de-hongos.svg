@@ -18,11 +18,4 @@
     <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
   <ellipse cx="497.9" cy="324.9" rx="27.1" ry="23.5" fill="#6fae57" opacity="0.94" transform="rotate(62 497.9 324.9)"/><ellipse cx="431.2" cy="386.6" rx="28.7" ry="23.9" fill="#9ccd85" opacity="0.94" transform="rotate(69 431.2 386.6)"/><ellipse cx="375.2" cy="378.7" rx="39.7" ry="31.0" fill="#74b45c" opacity="0.94" transform="rotate(3 375.2 378.7)"/><ellipse cx="341.8" cy="312.0" rx="34.0" ry="28.3" fill="#9ccd85" opacity="0.94" transform="rotate(43 341.8 312.0)"/><ellipse cx="342.9" cy="235.9" rx="27.5" ry="17.3" fill="#568c43" opacity="0.94" transform="rotate(128 342.9 235.9)"/><ellipse cx="405.1" cy="205.7" rx="30.1" ry="27.4" fill="#74b45c" opacity="0.94" transform="rotate(13 405.1 205.7)"/><ellipse cx="476.7" cy="250.8" rx="41.6" ry="27.6" fill="#568c43" opacity="0.94" transform="rotate(96 476.7 250.8)"/>
   <circle cx="338.0" cy="222.4" r="2.3" fill="#ffffff" opacity="0.7"/><circle cx="387.4" cy="304.1" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="324.9" cy="311.6" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="482.5" cy="223.6" r="3.0" fill="#3f6b32" opacity="0.7"/><circle cx="302.4" cy="247.7" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="336.1" cy="341.0" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="339.0" cy="331.1" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="305.7" cy="284.9" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="345.8" cy="241.8" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="390.3" cy="333.8" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="502.9" cy="239.0" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="387.0" cy="313.1" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="494.0" cy="300.5" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="393.5" cy="306.2" r="2.3" fill="#ffffff" opacity="0.7"/><circle cx="418.7" cy="229.5" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="512.9" cy="263.4" r="3.4" fill="#ffffff" opacity="0.7"/>
-  
-    <g>
-      <rect x="40" y="36" rx="19" ry="19" width="151" height="38" fill="#ffffff" opacity="0.82"/>
-      <text x="115.5" y="61" text-anchor="middle"
-        font-family="Segoe UI, system-ui, sans-serif" font-size="19" font-weight="700" fill="#2b5a41"
-        letter-spacing="0.6">MEXICAN</text>
-    </g>
 </svg>

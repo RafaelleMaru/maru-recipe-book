@@ -46,39 +46,44 @@ export default function WeekPlan({
     )
   }
 
+  // Phones stack this: dish on top, controls on their own full-width row.
+  // Everything sits on one line from `sm` up.
   const row = (recipe, day) => (
-    <div className="flex min-w-0 flex-1 items-center gap-3">
-      <button
-        onClick={() => onOpen(recipe)}
-        className="shrink-0 cursor-pointer"
-        aria-label={t('Open {title}', { title: recipe.title })}
-      >
-        <RecipeImage recipe={recipe} className="h-14 w-20 rounded-xl" />
-      </button>
-      <div className="min-w-0 flex-1">
-        <button onClick={() => onOpen(recipe)} className="cursor-pointer text-left">
-          <span className="line-clamp-1 text-sm font-bold hover:text-brand-600">{recipe.title}</span>
+    <div className="flex min-w-0 flex-1 flex-col gap-2.5 sm:flex-row sm:items-center sm:gap-3">
+      <div className="flex min-w-0 flex-1 items-center gap-3">
+        <button
+          onClick={() => onOpen(recipe)}
+          className="shrink-0 cursor-pointer"
+          aria-label={t('Open {title}', { title: recipe.title })}
+        >
+          <RecipeImage recipe={recipe} className="h-14 w-20 rounded-xl" />
         </button>
-        <div className="meta mt-1 flex flex-wrap items-center gap-x-3 gap-y-1">
-          <span className="inline-flex items-center gap-1.5">
-            <CuisineDot cuisine={recipe.cuisine} /> {recipe.cuisine}
-          </span>
-          <span className="inline-flex items-center gap-1.5">
-            <i className="fa-solid fa-clock text-brand-500" aria-hidden /> {fmtTime(totalTime(recipe))}
-          </span>
-          <SpiceMeter level={recipe.spicy} showLabel={false} />
-          {recipe.kidFriendly && (
-            <span className="inline-flex items-center gap-1.5 text-amber-ink">
-              <i className="fa-solid fa-child-reaching" aria-hidden /> {t('kid-ok')}
+        <div className="min-w-0 flex-1">
+          <button onClick={() => onOpen(recipe)} className="w-full cursor-pointer text-left">
+            <span className="line-clamp-2 text-sm leading-snug font-bold hover:text-brand-600">{recipe.title}</span>
+          </button>
+          <div className="meta mt-1 flex flex-wrap items-center gap-x-3 gap-y-1">
+            <span className="inline-flex items-center gap-1.5">
+              <CuisineDot cuisine={recipe.cuisine} /> {recipe.cuisine}
             </span>
-          )}
+            <span className="inline-flex items-center gap-1.5">
+              <i className="fa-solid fa-clock text-brand-500" aria-hidden /> {fmtTime(totalTime(recipe))}
+            </span>
+            <SpiceMeter level={recipe.spicy} showLabel={false} />
+            {recipe.kidFriendly && (
+              <span className="inline-flex items-center gap-1.5 whitespace-nowrap text-amber-ink">
+                <i className="fa-solid fa-child-reaching" aria-hidden /> {t('kid-ok')}
+              </span>
+            )}
+          </div>
         </div>
       </div>
-      <div className="no-print flex shrink-0 items-center gap-1">
+
+      <div className="no-print flex shrink-0 items-center gap-1.5">
         <select
           value={day ?? ''}
           onChange={(e) => onAssign(recipe.id, e.target.value || null)}
-          className="field w-auto max-w-[8.5rem] py-1.5 text-xs font-bold"
+          className="field min-w-0 flex-1 py-2 text-xs font-bold sm:w-auto sm:max-w-[8.5rem] sm:flex-none sm:py-1.5"
           aria-label={t('Day for {title}', { title: recipe.title })}
         >
           <option value="">{t('Any day')}</option>
@@ -90,7 +95,7 @@ export default function WeekPlan({
         </select>
         <button
           onClick={() => onSwap(recipe)}
-          className="btn-icon border-line text-muted hover:bg-surface-2 border"
+          className="btn-icon border-line text-muted hover:bg-surface-2 shrink-0 border"
           title={t('Swap for a different dish')}
           aria-label={t('Swap {title}', { title: recipe.title })}
         >
@@ -98,7 +103,7 @@ export default function WeekPlan({
         </button>
         <button
           onClick={() => onRemove(recipe)}
-          className="btn-icon border-line text-muted hover:bg-surface-2 hover:text-red-500 border"
+          className="btn-icon border-line text-muted hover:bg-surface-2 hover:text-red-500 shrink-0 border"
           title={t('Remove from the week')}
           aria-label={t('Remove {title}', { title: recipe.title })}
         >
@@ -149,20 +154,24 @@ export default function WeekPlan({
           {DAYS.map((day) => {
             const recipe = menu.find((r) => r.id === plan[day])
             return (
-              <div key={day} className={cx('card flex items-center gap-3 p-3', !recipe && 'border-dashed')}>
-                <span className="bg-brand-50 text-brand-700 dark:text-brand-300 flex h-14 w-14 shrink-0 flex-col items-center justify-center rounded-2xl">
-                  <span className="text-[10px] font-bold tracking-wide uppercase">{t(day).slice(0, 3)}</span>
-                  <i className="fa-solid fa-utensils mt-0.5 text-xs opacity-60" aria-hidden />
+              <div
+                key={day}
+                className={cx('card flex flex-col gap-2.5 p-3 sm:flex-row sm:items-center sm:gap-3', !recipe && 'border-dashed')}
+              >
+                {/* A compact pill on phones, the square day tile from sm up. */}
+                <span className="bg-brand-50 text-brand-700 dark:text-brand-300 flex shrink-0 items-center gap-2 self-start rounded-xl px-2.5 py-1 sm:h-14 sm:w-14 sm:flex-col sm:justify-center sm:gap-0 sm:self-auto sm:rounded-2xl sm:px-0 sm:py-0">
+                  <span className="text-[10px] font-bold tracking-wide uppercase">{t(day)}</span>
+                  <i className="fa-solid fa-utensils text-xs opacity-60 sm:mt-0.5" aria-hidden />
                 </span>
                 {recipe ? (
                   row(recipe, day)
                 ) : (
-                  <div className="flex min-w-0 flex-1 items-center justify-between gap-3">
+                  <div className="flex min-w-0 flex-1 flex-col gap-2 sm:flex-row sm:items-center sm:justify-between sm:gap-3">
                     <p className="meta">{t('Nothing planned')}</p>
                     <select
                       value=""
                       onChange={(e) => e.target.value && onAssign(e.target.value, day)}
-                      className="field no-print w-auto max-w-[12rem] py-1.5 text-xs font-bold"
+                      className="field no-print w-full py-2 text-xs font-bold sm:w-auto sm:max-w-[12rem] sm:py-1.5"
                       aria-label={t('Choose a dish for {day}', { day: t(day) })}
                     >
                       <option value="">{t('Choose a dish…')}</option>

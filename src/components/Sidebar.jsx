@@ -75,15 +75,19 @@ export default function Sidebar({ view, onView, menuCount, cookbookCount, onGene
         </div>
       </nav>
 
-      {/* Mobile: five tabs in the bar, generate as a floating button above it */}
-      <button
-        onClick={onGenerate}
-        className="bg-brand-500 no-print fixed right-4 bottom-24 z-40 flex h-14 w-14 cursor-pointer items-center justify-center rounded-2xl text-xl text-white shadow-lg shadow-brand-500/40 active:scale-95 md:hidden"
-        title={t('Generate 10 recipes for the week')}
-        aria-label={t('Generate 10 recipes for the week')}
-      >
-        <i className="fa-solid fa-wand-magic-sparkles" aria-hidden />
-      </button>
+      {/* Mobile: five tabs in the bar, generate as a floating button above it.
+          Hidden on the dashboard and the week plan — both already show a Generate
+          button in the content, and there the FAB just sits on top of the cards. */}
+      {!['dashboard', 'plan'].includes(view) && (
+        <button
+          onClick={onGenerate}
+          className="bg-brand-500 no-print fixed right-4 bottom-24 z-40 flex h-14 w-14 cursor-pointer items-center justify-center rounded-2xl text-xl text-white shadow-lg shadow-brand-500/40 active:scale-95 md:hidden"
+          title={t('Generate 10 recipes for the week')}
+          aria-label={t('Generate 10 recipes for the week')}
+        >
+          <i className="fa-solid fa-wand-magic-sparkles" aria-hidden />
+        </button>
+      )}
 
       <nav className="card no-print fixed inset-x-0 bottom-0 z-40 flex items-stretch gap-0.5 rounded-b-none border-b-0 px-1.5 pt-1.5 pb-[max(0.375rem,env(safe-area-inset-bottom))] md:hidden">
         {NAV.map((n) => item(n, 'bar'))}
