@@ -1,7 +1,11 @@
+import { useEffect, useState } from 'react'
 import { CATEGORY_META, categoryIcon, categoryLabel, cx, CUISINES } from '../lib/util.js'
 import { useLang } from '../lib/i18n.js'
 import { CuisineDot, EmptyState } from './common.jsx'
 import RecipeCard from './RecipeCard.jsx'
+
+// With 250+ recipes, rendering every card at once makes a phone crawl.
+const PAGE = 36
 
 const TOGGLES = [
   { key: 'kidOnly', label: 'Kid-approved', icon: 'fa-child-reaching' },
@@ -34,6 +38,10 @@ export default function Browse({
   hint,
 }) {
   const { t } = useLang()
+  const [shown, setShown] = useState(PAGE)
+
+  // Any change to the result set starts the list over at the top.
+  useEffect(() => setShown(PAGE), [recipes.length, query, title])
 
   const toggleIn = (key, value) =>
     setFilters((f) => {
@@ -148,19 +156,31 @@ export default function Browse({
           {t('or drop one of the filters above.')}
         </EmptyState>
       ) : (
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
-          {recipes.map((r) => (
-            <RecipeCard
-              key={r.id}
-              recipe={r}
-              onOpen={onOpen}
-              onToggleMenu={onToggleMenu}
-              onToggleSave={onToggleSave}
-              inMenu={menuIds.includes(r.id)}
-              saved={cookbookIds.includes(r.id)}
-            />
-          ))}
-        </div>
+        <>
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
+            {recipes.slice(0, shown).map((r) => (
+              <RecipeCard
+                key={r.id}
+                recipe={r}
+                onOpen={onOpen}
+                onToggleMenu={onToggleMenu}
+                onToggleSave={onToggleSave}
+                inMenu={menuIds.includes(r.id)}
+                saved={cookbookIds.includes(r.id)}
+              />
+            ))}
+          </div>
+          {recipes.length > shown && (
+            <button onClick={() => setShown((n) => n + PAGE)} className="btn-soft mx-auto">
+              <i className="fa-solid fa-plus" aria-hidden />
+              {/* Both wrapped so the button's flex gap applies between them. */}
+              <span>{t('Show {n} more', { n: Math.min(PAGE, recipes.length - shown) })}</span>
+              <span className="text-brand-700/60 dark:text-brand-300/60 font-normal">
+                {shown}/{recipes.length}
+              </span>
+            </button>
+          )}
+        </>
       )}
     </div>
   )

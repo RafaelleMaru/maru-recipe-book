@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Beef Tapa">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff2d9"/>
+      <stop offset="100%" stop-color="#ffdcc4"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="758.9" cy="25.8" r="4.8" fill="#ffffff" opacity="0.36"/><circle cx="771.7" cy="304.8" r="3.2" fill="#ffffff" opacity="0.38"/><circle cx="165.0" cy="257.8" r="4.1" fill="#ffffff" opacity="0.33"/><circle cx="481.4" cy="33.5" r="3.9" fill="#ffffff" opacity="0.19"/><circle cx="666.0" cy="415.8" r="5.1" fill="#ffffff" opacity="0.48"/><circle cx="463.3" cy="50.7" r="9.0" fill="#ffffff" opacity="0.23"/><circle cx="251.8" cy="527.8" r="7.9" fill="#ffffff" opacity="0.24"/><circle cx="697.9" cy="401.3" r="10.8" fill="#ffffff" opacity="0.42"/><circle cx="358.2" cy="37.5" r="4.3" fill="#ffffff" opacity="0.24"/><circle cx="28.8" cy="53.2" r="11.7" fill="#ffffff" opacity="0.45"/><circle cx="745.9" cy="410.8" r="6.7" fill="#ffffff" opacity="0.20"/><circle cx="775.8" cy="262.3" r="5.7" fill="#ffffff" opacity="0.30"/><circle cx="97.0" cy="450.2" r="6.9" fill="#ffffff" opacity="0.21"/><circle cx="191.4" cy="86.0" r="11.6" fill="#ffffff" opacity="0.46"/><circle cx="572.8" cy="141.8" r="6.7" fill="#ffffff" opacity="0.40"/><circle cx="249.4" cy="75.7" r="4.1" fill="#ffffff" opacity="0.30"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="507.3" cy="307.8" rx="37.0" ry="24.3" fill="#a8503f" opacity="0.94" transform="rotate(7 507.3 307.8)"/><ellipse cx="485.6" cy="363.1" rx="33.2" ry="27.0" fill="#a8503f" opacity="0.94" transform="rotate(118 485.6 363.1)"/><ellipse cx="422.3" cy="377.4" rx="31.9" ry="28.0" fill="#a8503f" opacity="0.94" transform="rotate(82 422.3 377.4)"/><ellipse cx="373.1" cy="326.2" rx="45.2" ry="31.8" fill="#a8503f" opacity="0.94" transform="rotate(3 373.1 326.2)"/><ellipse cx="335.9" cy="308.8" rx="26.0" ry="22.9" fill="#8d3f31" opacity="0.94" transform="rotate(11 335.9 308.8)"/><ellipse cx="307.9" cy="266.3" rx="26.1" ry="16.5" fill="#c9705c" opacity="0.94" transform="rotate(151 307.9 266.3)"/><ellipse cx="345.8" cy="204.0" rx="36.6" ry="32.0" fill="#8d3f31" opacity="0.94" transform="rotate(53 345.8 204.0)"/><ellipse cx="413.0" cy="193.2" rx="23.9" ry="17.0" fill="#8d3f31" opacity="0.94" transform="rotate(90 413.0 193.2)"/><ellipse cx="478.6" cy="213.7" rx="25.5" ry="23.2" fill="#a8503f" opacity="0.94" transform="rotate(150 478.6 213.7)"/><ellipse cx="439.3" cy="279.5" rx="40.3" ry="33.1" fill="#8d3f31" opacity="0.94" transform="rotate(173 439.3 279.5)"/>
+  <circle cx="311.9" cy="292.5" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="322.3" cy="354.2" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="406.3" cy="275.1" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="372.5" cy="267.7" r="2.2" fill="#3f6b32" opacity="0.7"/><circle cx="407.8" cy="291.5" r="1.6" fill="#3f6b32" opacity="0.7"/><circle cx="354.3" cy="295.6" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="387.3" cy="284.9" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="421.4" cy="324.9" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="436.7" cy="290.3" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="405.8" cy="301.3" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="418.5" cy="338.0" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="470.4" cy="301.1" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="288.1" cy="319.1" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="345.8" cy="311.1" r="1.6" fill="#ffffff" opacity="0.7"/><circle cx="354.7" cy="235.5" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="422.2" cy="350.8" r="2.2" fill="#ffffff" opacity="0.7"/>
+</svg>

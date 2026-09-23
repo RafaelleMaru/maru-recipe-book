@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Sukiyaki">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef4fc"/>
+      <stop offset="100%" stop-color="#fce7ef"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="27.0" cy="151.2" r="9.7" fill="#ffffff" opacity="0.46"/><circle cx="489.4" cy="27.5" r="8.8" fill="#ffffff" opacity="0.20"/><circle cx="757.8" cy="102.1" r="4.4" fill="#ffffff" opacity="0.29"/><circle cx="205.6" cy="451.5" r="6.0" fill="#ffffff" opacity="0.38"/><circle cx="628.5" cy="339.9" r="4.2" fill="#ffffff" opacity="0.33"/><circle cx="516.1" cy="504.1" r="8.5" fill="#ffffff" opacity="0.18"/><circle cx="478.3" cy="28.2" r="8.4" fill="#ffffff" opacity="0.20"/><circle cx="138.5" cy="509.7" r="4.8" fill="#ffffff" opacity="0.48"/><circle cx="152.0" cy="259.5" r="3.3" fill="#ffffff" opacity="0.29"/><circle cx="479.7" cy="519.5" r="3.7" fill="#ffffff" opacity="0.37"/><circle cx="74.0" cy="488.6" r="10.5" fill="#ffffff" opacity="0.22"/><circle cx="588.9" cy="61.0" r="6.1" fill="#ffffff" opacity="0.33"/><circle cx="600.1" cy="125.3" r="11.2" fill="#ffffff" opacity="0.36"/><circle cx="183.6" cy="414.2" r="9.0" fill="#ffffff" opacity="0.44"/><circle cx="621.3" cy="346.8" r="4.9" fill="#ffffff" opacity="0.20"/><circle cx="724.1" cy="442.6" r="6.8" fill="#ffffff" opacity="0.24"/><circle cx="712.7" cy="313.6" r="6.0" fill="#ffffff" opacity="0.27"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="444.1" cy="296.6" rx="31.1" ry="24.1" fill="#8d3f31" opacity="0.94" transform="rotate(15 444.1 296.6)"/><ellipse cx="417.0" cy="354.4" rx="39.2" ry="24.6" fill="#c9705c" opacity="0.94" transform="rotate(18 417.0 354.4)"/><ellipse cx="385.9" cy="315.5" rx="31.5" ry="20.1" fill="#87c46f" opacity="0.94" transform="rotate(144 385.9 315.5)"/><ellipse cx="363.4" cy="292.4" rx="31.6" ry="24.0" fill="#a8503f" opacity="0.94" transform="rotate(41 363.4 292.4)"/><ellipse cx="342.0" cy="263.8" rx="37.7" ry="30.8" fill="#8d3f31" opacity="0.94" transform="rotate(61 342.0 263.8)"/><ellipse cx="419.6" cy="188.2" rx="21.9" ry="15.2" fill="#74b45c" opacity="0.94" transform="rotate(73 419.6 188.2)"/><ellipse cx="443.9" cy="254.4" rx="31.1" ry="27.9" fill="#c9705c" opacity="0.94" transform="rotate(112 443.9 254.4)"/>
+  <circle cx="380.4" cy="295.4" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="407.2" cy="261.0" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="436.9" cy="262.1" r="3.1" fill="#3f6b32" opacity="0.7"/><circle cx="473.4" cy="230.7" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="374.1" cy="300.8" r="3.1" fill="#3f6b32" opacity="0.7"/><circle cx="480.3" cy="255.2" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="378.1" cy="366.9" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="384.4" cy="258.5" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="306.1" cy="271.5" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="413.0" cy="251.1" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="349.4" cy="237.9" r="1.9" fill="#ffffff" opacity="0.7"/><circle cx="436.1" cy="302.3" r="2.6" fill="#ffffff" opacity="0.7"/><circle cx="443.8" cy="250.2" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="388.0" cy="271.4" r="3.4" fill="#ffffff" opacity="0.7"/><circle cx="388.4" cy="296.3" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="448.7" cy="260.5" r="2.7" fill="#3f6b32" opacity="0.7"/>
+</svg>

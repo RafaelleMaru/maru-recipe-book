@@ -67,7 +67,37 @@ new recipes must be unique across the whole database.
 | `tips` | no | 0–3 strings. Real technique notes, not filler. |
 | `kidNote` | conditional | Required when `spicy >= 2` or `kidFriendly` is `false`. How to serve it to the three kids (2 girls aged 8, 1 boy aged 6). |
 | `nutritionNote` | yes | One sentence a dietitian would sign off on: what it's heavy in, what to pair for balance. No calorie numbers. |
-| `source` | yes | `{ "name": ..., "url": ... }` — the most authoritative source you actually verified the method against. |
+| `source` | yes | `{ "name", "url", "rating"?, "ratingCount"? }` — the source you actually verified the method against. See below. |
+
+## Choosing a source
+
+The `source.url` is shown in the app as a link, so it has to be a real page a cook can open.
+Prefer, in this order:
+
+1. **A well-reviewed post on a recognised site for that cuisine** — a recipe with a high
+   rating from a large number of ratings (say 4.5★ from 100+) has been cooked and corrected
+   by thousands of people, which is the best authenticity signal available.
+2. A cookbook author's or publication's own page (Kikkoman, Maangchi, Woks of Life, Mely
+   Martinez, Dassana Amit) even when it carries no rating widget.
+3. A cultural institution or food historian.
+
+Never cite a content-farm aggregator, an AI-written listicle, a Pinterest pin, or a page that
+is mostly ads. If the only source you can find is weak, pick a different dish.
+
+When the page shows a rating, record it:
+
+```json
+"source": {
+  "name": "Panlasang Pinoy",
+  "url": "https://panlasangpinoy.com/...",
+  "rating": 4.9,
+  "ratingCount": 1240
+}
+```
+
+`rating` is a number out of 5 and `ratingCount` an integer. Omit both when the page has no
+rating widget — never invent them. These describe the *source page*, not this app: the app
+itself has no ratings or reviews of its own.
 
 ## Do not include
 

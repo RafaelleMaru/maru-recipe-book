@@ -20,7 +20,7 @@ import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
-const DB = path.join(ROOT, 'src', 'data', 'recipes.json')
+const DB = path.join(ROOT, 'public', 'data', 'recipes.json')
 const OUT = path.join(ROOT, 'public', 'images', 'recipes')
 const FORCE = process.argv.includes('--force')
 
@@ -196,7 +196,7 @@ const APP_ICON = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" wi
 
 const main = async () => {
   if (!existsSync(DB)) {
-    console.error('src/data/recipes.json is missing — run `npm run db` first.')
+    console.error('public/data/recipes.json is missing — run `npm run db` first.')
     process.exit(1)
   }
   const { recipes } = JSON.parse(await readFile(DB, 'utf8'))

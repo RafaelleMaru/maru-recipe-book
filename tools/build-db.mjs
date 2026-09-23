@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Merges every data/cuisines/*.json file into src/data/recipes.json.
+ * Merges every data/cuisines/*.json file into public/data/recipes.json.
  *
  * This is the gate that keeps the database clean: it validates each recipe
  * against docs/RECIPE_SCHEMA.md and refuses duplicate ids or titles, which is
@@ -18,7 +18,7 @@ import { fileURLToPath } from 'node:url'
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const SRC_DIR = path.join(ROOT, 'data', 'cuisines')
 const FIL_DIR = path.join(ROOT, 'data', 'translations')
-const OUT_FILE = path.join(ROOT, 'src', 'data', 'recipes.json')
+const OUT_FILE = path.join(ROOT, 'public', 'data', 'recipes.json')
 const FORCE = process.argv.includes('--force')
 
 const CUISINES = ['Filipino', 'Japanese', 'Korean', 'Chinese', 'Mexican', 'Indian']
@@ -125,7 +125,16 @@ function normalize(recipe) {
     tips: (recipe.tips || []).map((t) => t.trim()).filter(Boolean),
     ...(recipe.kidNote ? { kidNote: recipe.kidNote.trim() } : {}),
     nutritionNote: recipe.nutritionNote.trim(),
-    source: recipe.source?.url ? { name: recipe.source.name, url: recipe.source.url } : null,
+    source: recipe.source?.url
+      ? {
+          name: recipe.source.name,
+          url: recipe.source.url,
+          // Provenance of the source page itself — a well-reviewed post is the best
+          // authenticity signal we have. Not a rating of this app's recipe.
+          ...(Number.isFinite(recipe.source.rating) ? { rating: recipe.source.rating } : {}),
+          ...(Number.isFinite(recipe.source.ratingCount) ? { ratingCount: Math.round(recipe.source.ratingCount) } : {}),
+        }
+      : null,
   }
 }
 
@@ -273,7 +282,7 @@ const main = async () => {
   )
 
   const spread = Object.entries(counts).map(([c, n]) => `${c} ${n}`).join(' · ')
-  console.log(`\n✓  ${kept.length} recipes → src/data/recipes.json`)
+  console.log(`\n✓  ${kept.length} recipes → public/data/recipes.json`)
   console.log(`   ${spread}\n`)
 }
 

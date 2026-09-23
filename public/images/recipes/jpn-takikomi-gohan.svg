@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Takikomi Gohan">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef4fc"/>
+      <stop offset="100%" stop-color="#fce7ef"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="529.9" cy="86.6" r="6.6" fill="#ffffff" opacity="0.18"/><circle cx="146.4" cy="222.4" r="8.7" fill="#ffffff" opacity="0.40"/><circle cx="625.5" cy="319.3" r="11.7" fill="#ffffff" opacity="0.36"/><circle cx="677.0" cy="172.7" r="9.7" fill="#ffffff" opacity="0.38"/><circle cx="25.9" cy="357.3" r="9.7" fill="#ffffff" opacity="0.44"/><circle cx="96.6" cy="195.4" r="9.0" fill="#ffffff" opacity="0.29"/><circle cx="634.6" cy="84.2" r="3.7" fill="#ffffff" opacity="0.47"/><circle cx="238.7" cy="520.9" r="8.5" fill="#ffffff" opacity="0.26"/><circle cx="478.9" cy="39.9" r="7.8" fill="#ffffff" opacity="0.28"/><circle cx="224.0" cy="60.2" r="4.3" fill="#ffffff" opacity="0.32"/><circle cx="673.8" cy="71.9" r="5.4" fill="#ffffff" opacity="0.37"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="180" fill="#e3b581" opacity="0.82"/>
+    <circle cx="400" cy="290" r="180" fill="none" stroke="#000000" stroke-opacity="0.06" stroke-width="3"/>
+  <ellipse cx="400" cy="296" rx="74" ry="56" fill="#fbfaf3" opacity="0.95"/><ellipse cx="482.7" cy="303.6" rx="38.1" ry="27.7" fill="#e6e1cf" opacity="0.94" transform="rotate(76 482.7 303.6)"/><ellipse cx="446.9" cy="375.5" rx="31.1" ry="24.8" fill="#f4f1e6" opacity="0.94" transform="rotate(175 446.9 375.5)"/><ellipse cx="357.8" cy="345.2" rx="44.1" ry="38.0" fill="#5f9e49" opacity="0.94" transform="rotate(62 357.8 345.2)"/><ellipse cx="333.8" cy="307.0" rx="22.6" ry="19.1" fill="#fbfaf4" opacity="0.94" transform="rotate(151 333.8 307.0)"/><ellipse cx="301.0" cy="242.5" rx="24.0" ry="15.1" fill="#f4f1e6" opacity="0.94" transform="rotate(157 301.0 242.5)"/><ellipse cx="380.8" cy="217.0" rx="43.4" ry="34.3" fill="#5f9e49" opacity="0.94" transform="rotate(17 380.8 217.0)"/><ellipse cx="437.3" cy="266.7" rx="23.3" ry="20.5" fill="#f4f1e6" opacity="0.94" transform="rotate(95 437.3 266.7)"/>
+  <circle cx="364.8" cy="315.2" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="354.8" cy="206.8" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="472.8" cy="273.7" r="1.6" fill="#ffffff" opacity="0.7"/><circle cx="351.0" cy="338.1" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="352.5" cy="294.0" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="437.3" cy="273.2" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="346.7" cy="216.6" r="3.1" fill="#3f6b32" opacity="0.7"/><circle cx="438.5" cy="322.4" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="431.1" cy="294.4" r="2.0" fill="#ffffff" opacity="0.7"/><circle cx="409.8" cy="344.1" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="347.7" cy="324.3" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="340.5" cy="256.6" r="2.1" fill="#3f6b32" opacity="0.7"/><circle cx="408.1" cy="298.0" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="350.7" cy="245.1" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="450.4" cy="237.0" r="1.9" fill="#ffffff" opacity="0.7"/><circle cx="395.2" cy="328.6" r="2.7" fill="#ffffff" opacity="0.7"/>
+  
+    <g stroke="#ffffff" stroke-opacity="0.65" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M354 98 c -14 -26 14 -42 0 -62"/>
+      <path d="M400 86 c -16 -30 16 -48 0 -70"/>
+      <path d="M446 98 c -14 -26 14 -42 0 -62"/>
+    </g>
+</svg>

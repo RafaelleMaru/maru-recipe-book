@@ -11,7 +11,8 @@
     "db": "node tools/build-db.mjs",
     "images": "node tools/make-images.mjs",
     "test": "node tools/check.mjs",
-    "check": "node tools/build-db.mjs && node tools/check.mjs"
+    "check": "node tools/build-db.mjs && node tools/check.mjs",
+    "links": "node tools/check-links.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",

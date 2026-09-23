@@ -1,0 +1,423 @@
+[
+  {
+    "id": "chn-twice-cooked-pork",
+    "title": "Twice-Cooked Pork",
+    "localTitle": "Hui Guo Rou (回锅肉)",
+    "cuisine": "Chinese",
+    "categories": ["pork", "vegetable"],
+    "tags": ["wok", "budget", "30-minutes"],
+    "description": "Pork belly is boiled whole, sliced thin, then seared and stir-fried with doubanjiang, leeks and chillies until the edges crisp — Sichuan's classic use for a slab of pork belly.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 30,
+    "difficulty": "Medium",
+    "kidFriendly": false,
+    "spicy": 2,
+    "ingredients": [
+      { "qty": 450, "unit": "g", "item": "pork belly, whole piece", "group": "Main" },
+      { "qty": 3, "unit": "slice", "item": "ginger", "group": "Main" },
+      { "qty": 2, "unit": "tbsp", "item": "vegetable oil", "group": "Main" },
+      { "qty": 1.5, "unit": "tbsp", "item": "spicy doubanjiang (fermented broad bean paste)", "note": "Pixian doubanjiang if available", "group": "Main" },
+      { "qty": 2, "unit": "clove", "item": "garlic, sliced", "group": "Main" },
+      { "qty": 2, "unit": "pc", "item": "long green chillies, sliced diagonally", "note": "deseed for less heat", "group": "Main" },
+      { "qty": 1, "unit": "pc", "item": "leek, white and light green parts, sliced diagonally", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "Shaoxing wine", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "light soy sauce", "group": "Sauce" },
+      { "qty": 0.5, "unit": "tsp", "item": "dark soy sauce", "note": "for colour", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "sugar", "group": "Sauce" }
+    ],
+    "steps": [
+      "Place the pork belly in a pot with the ginger and enough cold water to cover; bring to a boil, then simmer 25 minutes until a chopstick pierces it easily.",
+      "Drain and cool the pork until firm enough to slice, then slice very thinly, about 3mm thick, against the grain.",
+      "Heat a dry wok over medium heat and sear the pork slices with no oil for 3-4 minutes until the fat renders and the edges curl and turn golden.",
+      "Push the pork to one side, add the oil and doubanjiang to the cleared space, and fry 30 seconds until the oil turns red and fragrant.",
+      "Add the garlic, stir-fry 20 seconds, then toss everything together in the wok.",
+      "Add the chillies and leek, stir-fry over high heat for 1-2 minutes until the leek is just wilted but still bright green.",
+      "Splash in the Shaoxing wine, both soy sauces and sugar; toss for 30 seconds to coat evenly, then serve hot with steamed rice."
+    ],
+    "tips": [
+      "Boil the pork whole and slice it only after it cools — this two-step cooking is what gives the dish its name and its texture.",
+      "Real Pixian doubanjiang gives the authentic malty heat; other chilli bean sauces taste flatter."
+    ],
+    "kidNote": "This is genuinely spicy from the doubanjiang and green chillies. Cook the kids' portion before adding the chillies, use half the doubanjiang for their share, and finish it with just the soy sauces and sugar.",
+    "nutritionNote": "Pork belly is rich in saturated fat, so keep portions modest and balance the plate with extra steamed greens or a cucumber salad.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/twice-cooked-pork/", "rating": 4.83, "ratingCount": 35 }
+  },
+  {
+    "id": "chn-steamed-pork-ribs-black-bean",
+    "title": "Steamed Pork Ribs with Black Bean Sauce",
+    "localTitle": "Chi Zhi Zheng Pai Gu (豉汁蒸排骨)",
+    "cuisine": "Chinese",
+    "categories": ["pork"],
+    "tags": ["steamer", "30-minutes", "party"],
+    "description": "Small pork rib pieces are marinated with fermented black beans, garlic and a touch of cornstarch, then steamed until juicy — the dish everyone reaches for first off the dim sum cart.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 500, "unit": "g", "item": "pork ribs, cut into 1-inch pieces", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "fermented black beans, rinsed and roughly chopped", "group": "Marinade" },
+      { "qty": 2, "unit": "clove", "item": "garlic, minced", "group": "Marinade" },
+      { "qty": 1, "unit": "tsp", "item": "sugar", "group": "Marinade" },
+      { "qty": 0.5, "unit": "tsp", "item": "salt", "group": "Marinade" },
+      { "qty": 1, "unit": "tbsp", "item": "Shaoxing wine", "group": "Marinade" },
+      { "qty": 1, "unit": "tsp", "item": "sesame oil", "group": "Marinade" },
+      { "qty": 0.25, "unit": "tsp", "item": "white pepper", "group": "Marinade" },
+      { "qty": 1.5, "unit": "tsp", "item": "cornstarch", "group": "Marinade" },
+      { "qty": 1, "unit": "tbsp", "item": "water", "group": "Marinade" },
+      { "qty": 1, "unit": "pc", "item": "red chilli, sliced", "note": "for garnish, optional", "group": "Garnish" }
+    ],
+    "steps": [
+      "Soak the rib pieces in cold water for 10 minutes to draw out bone fragments and blood, then drain and pat dry.",
+      "Combine the black beans, garlic, sugar, salt, Shaoxing wine, sesame oil and white pepper in a bowl and mix into the ribs.",
+      "Cover and marinate in the fridge for at least 30 minutes, or overnight for deeper flavor.",
+      "Stir the cornstarch and water into the marinated ribs just before steaming so the sauce clings and thickens.",
+      "Spread the ribs in a single layer on a heatproof plate with a lip to catch the juices.",
+      "Set the plate into a steamer over boiling water and steam for 18-20 minutes until the ribs are fully cooked and tender.",
+      "Scatter with sliced red chilli and serve straight from the steaming plate with rice."
+    ],
+    "tips": [
+      "Ask the butcher to chop the ribs small, or use kitchen shears — smaller pieces steam through faster and evenly."
+    ],
+    "nutritionNote": "Ribs carry more fat than lean pork cuts, so serve with plenty of steamed vegetables or a light soup to round out the meal.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/dim-sum-spare-ribs-w-black-beans/", "rating": 4.99, "ratingCount": 56 }
+  },
+  {
+    "id": "chn-salt-pepper-squid",
+    "title": "Salt and Pepper Squid",
+    "localTitle": "Jiao Yan You Yu (椒盐鱿鱼)",
+    "cuisine": "Chinese",
+    "categories": ["seafood"],
+    "tags": ["wok", "party"],
+    "description": "Squid is marinated, dredged in a light flour coating and fried until crisp, then flash-tossed with garlic, ginger and chilli — a Cantonese restaurant favorite that is quick to make at home.",
+    "servings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 15,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 1,
+    "ingredients": [
+      { "qty": 650, "unit": "g", "item": "squid tubes, cleaned and scored", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "Shaoxing wine", "group": "Marinade" },
+      { "qty": 1, "unit": "tsp", "item": "sesame oil", "group": "Marinade" },
+      { "qty": 0.5, "unit": "cup", "item": "all-purpose flour", "group": "Coating" },
+      { "qty": 0.25, "unit": "cup", "item": "cornstarch", "group": "Coating" },
+      { "qty": 500, "unit": "ml", "item": "vegetable oil, for frying", "group": "Coating" },
+      { "qty": 3, "unit": "clove", "item": "garlic, minced", "group": "Aromatics" },
+      { "qty": 1, "unit": "tbsp", "item": "ginger, minced", "group": "Aromatics" },
+      { "qty": 1, "unit": "pc", "item": "long green chilli, sliced", "group": "Aromatics" },
+      { "qty": 1, "unit": "tsp", "item": "salt", "group": "Seasoning" },
+      { "qty": 0.5, "unit": "tsp", "item": "white pepper", "group": "Seasoning" }
+    ],
+    "steps": [
+      "Cut the squid into bite-sized pieces, score a light crosshatch on one side, and pat completely dry.",
+      "Toss the squid with Shaoxing wine and sesame oil and let it sit for 10 minutes.",
+      "Heat the oil in a wok to 175°C (350°F).",
+      "Mix the flour and cornstarch on a plate, dredge the squid pieces to coat lightly, and shake off the excess.",
+      "Fry the squid in batches for 60-90 seconds until pale golden and just cooked through, then drain on a rack.",
+      "Pour off all but 1 tablespoon of oil from the wok, then stir-fry the garlic, ginger and chilli over high heat for 20 seconds until fragrant.",
+      "Return the squid to the wok, sprinkle with salt and white pepper, and toss for 30 seconds over high heat.",
+      "Serve immediately over rice while the coating is still crisp."
+    ],
+    "tips": [
+      "Fry hot and fast — squid turns rubbery within a minute over heat, so pull it the moment the coating sets and turns pale gold.",
+      "Pat the squid bone-dry before dredging or the coating will slide off in the oil."
+    ],
+    "kidNote": "The heat here is mild and mostly from black pepper, not chilli. Set aside the kids' portion before adding the sliced green chilli to the wok.",
+    "nutritionNote": "This is a fried dish, so drain it well on a rack and pair it with a simple stir-fried green vegetable to balance the meal.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/salt-pepper-squid/", "rating": 5, "ratingCount": 19 }
+  },
+  {
+    "id": "chn-black-pepper-beef",
+    "title": "Beef with Black Pepper Sauce",
+    "localTitle": "Hei Jiao Niu Liu (黑椒牛柳)",
+    "cuisine": "Chinese",
+    "categories": ["beef", "vegetable"],
+    "tags": ["wok", "30-minutes", "budget"],
+    "description": "Velveted beef strips are seared hot and fast with bell pepper and onion in a glossy black pepper sauce — a Cantonese-style stir-fry that tastes like restaurant food on a weeknight budget.",
+    "servings": 4,
+    "prepMinutes": 20,
+    "cookMinutes": 10,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 1,
+    "ingredients": [
+      { "qty": 350, "unit": "g", "item": "beef flank or sirloin, thinly sliced against the grain", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "light soy sauce", "group": "Marinade" },
+      { "qty": 1, "unit": "tsp", "item": "cornstarch", "group": "Marinade" },
+      { "qty": 1, "unit": "tbsp", "item": "water", "group": "Marinade" },
+      { "qty": 1, "unit": "tsp", "item": "vegetable oil", "group": "Marinade" },
+      { "qty": 1, "unit": "pc", "item": "bell pepper, sliced", "group": "Main" },
+      { "qty": 0.5, "unit": "pc", "item": "onion, sliced", "group": "Main" },
+      { "qty": 2, "unit": "clove", "item": "garlic, minced", "group": "Main" },
+      { "qty": 2, "unit": "tbsp", "item": "vegetable oil, for stir-frying", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "freshly cracked black pepper", "group": "Sauce" },
+      { "qty": 1, "unit": "tbsp", "item": "oyster sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "dark soy sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "sugar", "group": "Sauce" },
+      { "qty": 2, "unit": "tbsp", "item": "water", "group": "Sauce" }
+    ],
+    "steps": [
+      "Combine the beef with light soy sauce, cornstarch, water and oil, mixing until the liquid is absorbed; this velveting step keeps the beef tender through the sear.",
+      "Let the beef marinate for 15 minutes at room temperature.",
+      "Mix the black pepper, oyster sauce, dark soy sauce, sugar and water in a small bowl to make the sauce.",
+      "Heat a wok until smoking, add oil, and sear the beef in a single layer for 30-45 seconds per side until browned but not fully cooked through, then remove.",
+      "Add a little more oil, stir-fry the onion and bell pepper for 1-2 minutes until just softened, then add the garlic for 15 seconds.",
+      "Return the beef to the wok, pour in the sauce, and toss over high heat for 30-45 seconds until everything is glossy and coated.",
+      "Serve immediately over steamed rice while the beef is still juicy."
+    ],
+    "tips": [
+      "Don't skip the cornstarch marinade — it is what keeps restaurant-style beef stir-fries tender instead of chewy.",
+      "Sear the beef in one layer and don't crowd the wok, or it will steam instead of browning."
+    ],
+    "kidNote": "The pepper here is aromatic, not chilli-hot, so most kids handle it fine; for younger palates, spoon a portion aside before adding the full teaspoon of cracked pepper.",
+    "nutritionNote": "Lean beef and peppers make this a good source of iron and vitamin C; keep the added oil to the amount listed and serve with a plain vegetable side.",
+    "source": { "name": "Made With Lau", "url": "https://www.madewithlau.com/recipes/black-pepper-beef-stir-fry" }
+  },
+  {
+    "id": "chn-gai-lan-oyster-sauce",
+    "title": "Chinese Broccoli with Oyster Sauce",
+    "localTitle": "Gai Lan (蠔油芥蘭)",
+    "cuisine": "Chinese",
+    "categories": ["vegetable"],
+    "tags": ["30-minutes", "budget", "one-pot"],
+    "description": "Chinese broccoli is blanched until just tender-crisp, then finished with a glossy oyster sauce drizzle — the simple green vegetable dish found on every dim sum cart and home table.",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 10,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 450, "unit": "g", "item": "Chinese broccoli (gai lan), trimmed", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "salt", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "vegetable oil", "group": "Main" },
+      { "qty": 2, "unit": "tbsp", "item": "oyster sauce", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "sugar", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "sesame oil", "group": "Sauce" },
+      { "qty": 1, "unit": "tbsp", "item": "water", "group": "Sauce" }
+    ],
+    "steps": [
+      "Bring a large pot of water to a rolling boil and stir in the salt and oil.",
+      "Add the Chinese broccoli, pushing it under the water with tongs or chopsticks, and blanch for 1-2 minutes until the stems are tender-crisp.",
+      "Lift the broccoli out, drain well, and arrange it neatly on a serving plate with the stems facing one direction.",
+      "Warm the oyster sauce, sugar, sesame oil and water in a small pan for 1 minute until the sugar dissolves and the sauce is glossy.",
+      "Pour the warm sauce evenly over the broccoli and serve immediately while hot."
+    ],
+    "tips": [
+      "Salt and oil in the blanching water keep the leaves bright green and season the stems from the inside.",
+      "Trim any tough outer stem skin with a peeler before cooking so every bite is tender."
+    ],
+    "nutritionNote": "This is a fibre- and calcium-rich vegetable side; keep the oyster sauce to the amount listed to manage sodium, and it pairs well with any of the richer braises in this book.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/chinese-broccoli-with-oyster-sauce/", "rating": 5, "ratingCount": 4 }
+  },
+  {
+    "id": "chn-pea-shoots-garlic",
+    "title": "Stir-Fried Pea Shoots with Garlic",
+    "localTitle": "Suan Rong Chao Dou Miao (蒜蓉炒豆苗)",
+    "cuisine": "Chinese",
+    "categories": ["vegetable"],
+    "tags": ["30-minutes", "budget", "one-pot"],
+    "description": "Tender pea shoot leaves are flash stir-fried with plenty of garlic over high heat for barely a minute — a delicate, quick vegetable dish prized at Chinese banquets and home tables alike.",
+    "servings": 4,
+    "prepMinutes": 10,
+    "cookMinutes": 5,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 450, "unit": "g", "item": "pea shoots, tough stems removed", "group": "Main" },
+      { "qty": 3, "unit": "tbsp", "item": "vegetable oil", "group": "Main" },
+      { "qty": 4, "unit": "clove", "item": "garlic, finely chopped", "group": "Main" },
+      { "qty": 0.5, "unit": "tsp", "item": "salt", "group": "Main" },
+      { "qty": 0.25, "unit": "tsp", "item": "white pepper", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "sesame oil", "group": "Main" }
+    ],
+    "steps": [
+      "Rinse the pea shoots and spin or pat them completely dry — any water left on the leaves will make the stir-fry steam instead of sear.",
+      "Heat the oil in a wok over high heat until it just starts to shimmer.",
+      "Add the garlic and stir for a few seconds until fragrant but not browned.",
+      "Add the pea shoots all at once and stir-fry constantly for about 20 seconds, keeping the leaves moving.",
+      "Add salt and white pepper and continue tossing for another 30-40 seconds until the leaves are wilted but still bright green.",
+      "Drizzle in the sesame oil, toss once more, and serve immediately."
+    ],
+    "tips": [
+      "Have every ingredient measured and next to the wok before you start — this dish is done in under a minute of actual cooking.",
+      "Use a wide wok and high heat so the leaves wilt rather than stew in their own liquid."
+    ],
+    "nutritionNote": "Pea shoots are high in vitamins A and C and cook in minimal oil; this pairs naturally with any of the braised pork or beef dishes for a balanced plate.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/pea-tips-stir-fry/", "rating": 5, "ratingCount": 14 }
+  },
+  {
+    "id": "chn-hakka-stuffed-tofu",
+    "title": "Hakka Stuffed Tofu",
+    "localTitle": "Niang Doufu (客家酿豆腐)",
+    "cuisine": "Chinese",
+    "categories": ["tofu", "pork"],
+    "tags": ["steamer", "make-ahead"],
+    "description": "Firm tofu squares are hollowed out and packed with a seasoned pork filling, then steamed and finished with a savory sauce — a Hakka classic built to stretch a little meat over a lot of tofu.",
+    "servings": 4,
+    "prepMinutes": 25,
+    "cookMinutes": 15,
+    "difficulty": "Medium",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 450, "unit": "g", "item": "firm tofu, cut into eight 5cm squares", "group": "Main" },
+      { "qty": 100, "unit": "g", "item": "ground pork", "group": "Filling" },
+      { "qty": 1, "unit": "tbsp", "item": "ginger, minced", "group": "Filling" },
+      { "qty": 2, "unit": "stalk", "item": "scallion, finely chopped, white and green separated", "group": "Filling" },
+      { "qty": 1, "unit": "tsp", "item": "Shaoxing wine", "group": "Filling" },
+      { "qty": 0.5, "unit": "tsp", "item": "white pepper", "group": "Filling" },
+      { "qty": 0.5, "unit": "tsp", "item": "salt", "group": "Filling" },
+      { "qty": 1, "unit": "tsp", "item": "cornstarch", "group": "Filling" },
+      { "qty": 1, "unit": "tbsp", "item": "oyster sauce", "group": "Sauce" },
+      { "qty": 0.5, "unit": "tsp", "item": "dark soy sauce", "group": "Sauce" },
+      { "qty": 100, "unit": "ml", "item": "water or reserved steaming liquid", "group": "Sauce" },
+      { "qty": 1, "unit": "tsp", "item": "cornstarch, mixed with 1 tbsp water", "group": "Sauce" }
+    ],
+    "steps": [
+      "Pat the tofu squares dry, then use a small spoon to scoop a shallow pocket from the center of each, reserving the scooped tofu.",
+      "Mash the reserved tofu and mix it with the ground pork, ginger, scallion whites, Shaoxing wine, white pepper, salt and cornstarch until well combined and slightly sticky.",
+      "Pack a heaping spoonful of the pork mixture firmly into each tofu pocket, mounding it slightly on top.",
+      "Arrange the stuffed tofu on a heatproof plate and steam over boiling water for 12-15 minutes until the filling is firm and cooked through.",
+      "Pour off and reserve any liquid on the plate, then heat it in a small pan with the oyster sauce, dark soy sauce and extra water; simmer 1 minute.",
+      "Stir in the cornstarch slurry and cook until the sauce lightly thickens and turns glossy.",
+      "Spoon the sauce over the stuffed tofu, scatter with scallion greens, and serve with rice."
+    ],
+    "tips": [
+      "Choose firm or extra-firm tofu — soft tofu falls apart when you scoop and stuff it.",
+      "Wetting the spoon before scooping the tofu pockets keeps the tofu from sticking and crumbling."
+    ],
+    "nutritionNote": "This dish balances lean protein from pork with plant protein from tofu in a light steamed sauce; pair it with a simple stir-fried green vegetable for a full meal.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/stuffed-tofu-hakka-style/", "rating": 4.89, "ratingCount": 9 }
+  },
+  {
+    "id": "chn-winter-melon-pork-soup",
+    "title": "Winter Melon and Pork Rib Soup",
+    "localTitle": "Dong Gua Pai Gu Tang (冬瓜排骨汤)",
+    "cuisine": "Chinese",
+    "categories": ["soup", "pork"],
+    "tags": ["one-pot", "make-ahead"],
+    "description": "Pork ribs are simmered slow with ginger until the broth turns clean and savory, then winter melon is added at the end to soften into a light, translucent, comforting soup.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 105,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 700, "unit": "g", "item": "pork ribs, cut into 3-4cm pieces", "group": "Main" },
+      { "qty": 5, "unit": "slice", "item": "ginger, smashed", "group": "Main" },
+      { "qty": 2, "unit": "l", "item": "water", "group": "Main" },
+      { "qty": 600, "unit": "g", "item": "winter melon, peeled and cut into chunks", "group": "Main" },
+      { "qty": 1.25, "unit": "tsp", "item": "salt", "group": "Seasoning" },
+      { "qty": 0.25, "unit": "tsp", "item": "white pepper", "group": "Seasoning" },
+      { "qty": 2, "unit": "stalk", "item": "scallion or cilantro, chopped, for garnish", "group": "Garnish" }
+    ],
+    "steps": [
+      "Soak the pork ribs in cold water for 30 minutes to draw out blood, then drain.",
+      "Blanch the ribs in a pot of boiling water for 1-2 minutes, skimming off any scum, then rinse the ribs under cold water.",
+      "Return the ribs to a clean pot with the ginger and the 2 litres of water, bring to a boil, then reduce to a gentle simmer.",
+      "Cover and simmer for 90 minutes, checking occasionally, until the ribs are very tender and the broth tastes rich.",
+      "Add the winter melon chunks and salt, and simmer uncovered for a further 15 minutes until the melon turns translucent.",
+      "Season with white pepper and adjust salt to taste.",
+      "Ladle into bowls, scatter with scallion or cilantro, and serve hot with rice or on its own."
+    ],
+    "tips": [
+      "Blanching the ribs first is what keeps the final broth clear instead of cloudy.",
+      "Leave a thin strip of the dark green skin on some winter melon pieces so they hold their shape through the long simmer."
+    ],
+    "nutritionNote": "This is a light, low-fat broth once the ribs are skimmed of scum; it is naturally low in sodium if you go easy on the added salt, and it makes a gentle, hydrating starter alongside a vegetable stir-fry.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/winter-melon-soup-pork-ribs/", "rating": 5, "ratingCount": 3 }
+  },
+  {
+    "id": "chn-steamed-minced-pork-salted-egg",
+    "title": "Steamed Minced Pork with Salted Egg",
+    "localTitle": "Xian Dan Zheng Rou Bing (咸蛋蒸肉饼)",
+    "cuisine": "Chinese",
+    "categories": ["pork", "egg"],
+    "tags": ["steamer", "30-minutes", "budget"],
+    "description": "Ground pork is whipped with ginger and seasonings into a smooth paste, topped with salted duck egg yolks, and steamed into a savory patty that turns its own juices into a rice-soaking sauce.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 20,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 350, "unit": "g", "item": "ground pork, 70% lean", "group": "Main" },
+      { "qty": 2, "unit": "pc", "item": "raw salted duck eggs, yolks and whites separated", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "ginger, minced", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "cornstarch", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "sugar", "group": "Main" },
+      { "qty": 0.25, "unit": "tsp", "item": "white pepper", "group": "Main" },
+      { "qty": 1, "unit": "tbsp", "item": "oyster sauce", "group": "Main" },
+      { "qty": 2, "unit": "tbsp", "item": "water", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "sesame oil", "group": "Main" },
+      { "qty": 2, "unit": "stalk", "item": "scallion, chopped, for garnish", "group": "Garnish" }
+    ],
+    "steps": [
+      "Combine the ground pork, ginger, cornstarch, sugar, white pepper, oyster sauce, water, sesame oil and the reserved salted egg whites in a shallow heatproof dish.",
+      "Mix vigorously with chopsticks in one direction for 2-3 minutes until the mixture turns pale and smooth, almost like a paste — this emulsifying is what keeps the patty tender.",
+      "Spread the mixture evenly across the dish so it cooks through at the same rate.",
+      "Halve the salted egg yolks and arrange them, cut side up, over the surface of the pork.",
+      "Set the dish into a steamer over boiling water, cover, and steam for 18-20 minutes until the pork is just cooked through and the juices run clear.",
+      "Rest, covered, off the heat for 5 minutes before uncovering.",
+      "Scatter with scallions and serve straight from the dish with plenty of steamed rice to soak up the juices."
+    ],
+    "tips": [
+      "Mixing the pork in one direction until it turns pale and sticky is what makes the finished patty smooth rather than crumbly.",
+      "Covering the dish while it rests off the heat lets the residual steam finish the centre gently without overcooking the edges."
+    ],
+    "nutritionNote": "Salted duck egg adds significant sodium, so no extra salt is needed in the mix; pair this with a plain blanched or stir-fried vegetable to round out the meal.",
+    "source": { "name": "The Woks of Life", "url": "https://thewoksoflife.com/steamed-pork-patty-salted-duck-eggs/", "rating": 4.86, "ratingCount": 7 }
+  },
+  {
+    "id": "chn-west-lake-beef-soup",
+    "title": "West Lake Beef Soup",
+    "localTitle": "Xi Hu Niu Rou Geng (西湖牛肉羹)",
+    "cuisine": "Chinese",
+    "categories": ["soup", "beef"],
+    "tags": ["30-minutes", "budget"],
+    "description": "Minced beef, silken tofu and ribbons of egg white are simmered in a light broth thickened just enough to turn velvety — a gentle Hangzhou soup that comes together in half an hour.",
+    "servings": 4,
+    "prepMinutes": 15,
+    "cookMinutes": 15,
+    "difficulty": "Easy",
+    "kidFriendly": true,
+    "spicy": 0,
+    "ingredients": [
+      { "qty": 200, "unit": "g", "item": "beef, minced fine", "group": "Main" },
+      { "qty": 1, "unit": "tsp", "item": "cornstarch", "group": "Marinade" },
+      { "qty": 1, "unit": "tbsp", "item": "water", "group": "Marinade" },
+      { "qty": 0.5, "unit": "tsp", "item": "light soy sauce", "group": "Marinade" },
+      { "qty": 200, "unit": "g", "item": "soft tofu, cut into small cubes", "group": "Main" },
+      { "qty": 2, "unit": "pc", "item": "egg whites, lightly beaten", "group": "Main" },
+      { "qty": 1, "unit": "l", "item": "chicken broth", "group": "Main" },
+      { "qty": 1, "unit": "bunch", "item": "yellow chives or scallion, cut into short lengths", "group": "Main" },
+      { "qty": 3, "unit": "tbsp", "item": "cornstarch, mixed with 4 tbsp water", "group": "Main" },
+      { "qty": 0.75, "unit": "tsp", "item": "salt", "group": "Seasoning" },
+      { "qty": 0.25, "unit": "tsp", "item": "white pepper", "group": "Seasoning" },
+      { "qty": 1, "unit": "tsp", "item": "sesame oil", "group": "Seasoning" }
+    ],
+    "steps": [
+      "Mix the minced beef with cornstarch, water and light soy sauce and let it sit for 10 minutes to velvet.",
+      "Bring a small pot of water to a boil, drop in the beef in small clumps, and parboil for 20-30 seconds just until it changes color, then drain and set aside.",
+      "Bring the chicken broth to a gentle boil in a clean pot.",
+      "Stir the cornstarch slurry once more and pour it into the broth in a thin stream, stirring constantly, until the broth thickens to a light, velvety consistency.",
+      "Gently add the parboiled beef and tofu cubes to the thickened broth and let it return to a simmer.",
+      "Drizzle in the beaten egg whites in a thin stream while stirring slowly, so they set into soft ribbons.",
+      "Season with salt, white pepper and sesame oil, add the yellow chives, and simmer 1 more minute before serving hot."
+    ],
+    "tips": [
+      "Parboiling the beef separately before it goes into the broth is what keeps the soup clear instead of cloudy.",
+      "Pour the egg whites in slowly while stirring gently — pouring fast or stirring hard breaks them into small flecks instead of silky ribbons."
+    ],
+    "nutritionNote": "This is a light, easily digestible soup with lean protein from beef and tofu; use a low-sodium broth and adjust the added salt to taste to keep sodium in check.",
+    "source": { "name": "Made With Lau", "url": "https://www.madewithlau.com/recipes/west-lake-beef-soup" }
+  }
+]

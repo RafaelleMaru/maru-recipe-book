@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Arroz con Leche">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="764.6" cy="459.0" r="7.5" fill="#ffffff" opacity="0.25"/><circle cx="183.5" cy="218.1" r="5.2" fill="#ffffff" opacity="0.43"/><circle cx="81.2" cy="404.0" r="6.3" fill="#ffffff" opacity="0.31"/><circle cx="294.8" cy="57.2" r="11.1" fill="#ffffff" opacity="0.18"/><circle cx="44.6" cy="179.8" r="9.4" fill="#ffffff" opacity="0.30"/><circle cx="687.1" cy="338.0" r="8.3" fill="#ffffff" opacity="0.36"/><circle cx="731.5" cy="531.5" r="11.4" fill="#ffffff" opacity="0.26"/><circle cx="250.3" cy="44.8" r="11.5" fill="#ffffff" opacity="0.32"/><circle cx="184.9" cy="79.4" r="3.2" fill="#ffffff" opacity="0.41"/><circle cx="737.5" cy="74.5" r="6.6" fill="#ffffff" opacity="0.35"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="451.8" cy="302.5" rx="43.1" ry="34.4" fill="#cb85af" opacity="0.94" transform="rotate(170 451.8 302.5)"/><ellipse cx="423.5" cy="354.5" rx="38.6" ry="24.0" fill="#f2c9df" opacity="0.94" transform="rotate(149 423.5 354.5)"/><ellipse cx="383.5" cy="323.2" rx="30.7" ry="22.8" fill="#74b45c" opacity="0.94" transform="rotate(159 383.5 323.2)"/><ellipse cx="296.9" cy="323.4" rx="41.2" ry="34.6" fill="#cb85af" opacity="0.94" transform="rotate(63 296.9 323.4)"/><ellipse cx="331.1" cy="221.1" rx="35.8" ry="27.4" fill="#cb85af" opacity="0.94" transform="rotate(85 331.1 221.1)"/><ellipse cx="393.2" cy="246.8" rx="45.9" ry="35.9" fill="#87c46f" opacity="0.94" transform="rotate(130 393.2 246.8)"/><ellipse cx="450.2" cy="271.6" rx="31.6" ry="21.5" fill="#e2a3c6" opacity="0.94" transform="rotate(134 450.2 271.6)"/>
+  <circle cx="318.9" cy="253.4" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="431.0" cy="364.9" r="3.0" fill="#ffffff" opacity="0.7"/><circle cx="505.4" cy="275.4" r="3.9" fill="#ffffff" opacity="0.7"/><circle cx="384.6" cy="289.2" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="410.3" cy="342.3" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="399.2" cy="283.6" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="399.3" cy="298.3" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="290.9" cy="320.4" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="467.6" cy="250.8" r="1.8" fill="#3f6b32" opacity="0.7"/><circle cx="402.5" cy="289.6" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="485.8" cy="260.7" r="3.8" fill="#ffffff" opacity="0.7"/><circle cx="388.3" cy="295.7" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="393.4" cy="227.3" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="341.6" cy="310.4" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="301.9" cy="278.4" r="3.5" fill="#ffffff" opacity="0.7"/><circle cx="479.9" cy="265.5" r="2.4" fill="#3f6b32" opacity="0.7"/>
+</svg>

@@ -1,0 +1,302 @@
+{
+  "mex-tacos-al-pastor": {
+    "description": "Manipis na hiwa ng baboy na ni-marinate sa toasted guajillo-achiote adobo may pineapple, sinunog nang mainit hanggang mag-char sa gilid, tapos ipinatong sa warm corn tortillas.",
+    "ingredients": [
+      "guajillo chiles, tinanggalan ng tangkay at buto",
+      "ancho chile, tinanggalan ng tangkay at buto",
+      "achiote (annatto) paste",
+      "pineapple juice",
+      "white vinegar",
+      "bawang",
+      "dried Mexican oregano",
+      "ground cumin",
+      "asin",
+      "pork shoulder, hiwain nang manipis",
+      "tinadtad na fresh pineapple",
+      "corn tortillas",
+      "white onion, tinadtad nang pino",
+      "tinadtad na cilantro",
+      "salsa na gusto mo"
+    ],
+    "steps": [
+      "I-toast ang guajillo at ancho chiles sa dry pan for about 30 seconds per side, tapos ibabad sa hot water for 15 minutes hanggang lumambot.",
+      "I-blend ang nabababad na chiles kasama ang achiote paste, pineapple juice, vinegar, bawang, oregano, cumin, at asin hanggang maging smooth.",
+      "I-coat ang hiniwang baboy sa adobo, takpan, tapos i-marinate sa fridge for at least 2 hours, ideally overnight.",
+      "Painitin ang griddle o heavy skillet hanggang sobrang init, tapos i-sear ang baboy in batches for 2-3 minutes per side hanggang mag-char sa gilid at maluto na.",
+      "Tadtarin ang naiprito na baboy nang maliliit, tapos haluin with tinadtad na pineapple.",
+      "I-warm ang tortillas sa parehong mainit na pan for about 20 seconds per side.",
+      "Lagyan ng baboy at pineapple ang tortillas, tapos budburan ng onion, cilantro, at salsa."
+    ],
+    "tips": [
+      "I-marinate for at least 2 hours, ideally overnight — 'yung oras na 'yon hindi kasama sa cook time sa taas.",
+      "Mas importante ang sobrang init at hindi masikip na pan kaysa spit; kapag masikip ang karne, na-steam lang siya imbes na mag-char."
+    ],
+    "kidNote": "I-blend ang marinade na walang extra chile de árbol at huwag lagyan ng table salsa ang plato ng mga bata — makukuha pa rin nila 'yung smoky achiote at pineapple flavor pero walang anghang. Ilagay na lang sa table ang arbol salsa para sa mga adults na magdagdag mismo.",
+    "nutritionNote": "Mataas sa protein with moderate fat mula sa natural marbling ng baboy; i-balance ang plato with pineapple, shredded cabbage, o simpleng salad."
+  },
+  "mex-tacos-de-carnitas": {
+    "description": "Pork shoulder na ni-simmer nang low and slow sa sarili niyang fat with citrus, bawang, at spices hanggang fork-tender, tapos pinacrisp sa pan for tacos na may soft at crackly bits sa bawat kagat.",
+    "ingredients": [
+      "pork shoulder, hiwain nang malalaking chunks",
+      "asin",
+      "ground black pepper",
+      "dried oregano",
+      "ground cumin",
+      "bawang, dinurog",
+      "white onion, hiwain nang four parts",
+      "orange, hiwain nang half",
+      "bay leaves",
+      "lard o neutral oil",
+      "corn tortillas",
+      "tinadtad na white onion",
+      "tinadtad na cilantro",
+      "salsa verde"
+    ],
+    "steps": [
+      "Timplahan nang generous ang pork chunks ng asin, pepper, oregano, at cumin.",
+      "Ilagay ang baboy sa heavy pot kasama ang bawang, onion, orange halves, bay leaves, at lard, tapos lagyan ng water na halos makatakip sa karne.",
+      "I-simmer nang walang takip sa low heat for about 2 hours, haluin paminsan-minsan, hanggang fork-tender na ang baboy at halos naevaporate na ang liquid.",
+      "Hayaang lumabas ang fat tapos iprito ang baboy dito for the last 15-20 minutes, baliktarin paminsan-minsan, hanggang mag-crisp at golden ang gilid.",
+      "Alisin ang orange halves at bay leaves, tapos i-shred ang baboy gamit ang two forks, iwan buo ang ibang crispy pieces.",
+      "I-warm ang tortillas sa hot dry pan for about 20 seconds per side.",
+      "Lagyan ng baboy ang tortillas tapos budburan ng tinadtad na onion, cilantro, at salsa verde."
+    ],
+    "tips": [
+      "Huwag takpan ang pot — kailangan maevaporate ang liquid para maiprito ang karne sa sarili niyang rendered fat.",
+      "Pwedeng i-refrigerate ang leftover carnitas for 3 days at pag-init ulit sa dry skillet para maging crisp ulit."
+    ],
+    "nutritionNote": "Mataas sa protein at rendered fat; ihain with squeeze of lime at crunchy cabbage o radish salad para gumaan ang plato."
+  },
+  "mex-elote": {
+    "description": "Grilled corn na pinahiran ng butter at lime-mayo crema, tapos binalot sa durog na cotija at chile powder — ang classic corn-on-a-stick na makikita sa bawat palengke at plaza.",
+    "ingredients": [
+      "corn on the cob, tinanggalan ng balat",
+      "mayonnaise",
+      "lime juice",
+      "bawang, kinudkod nang pino",
+      "ground chili powder o cayenne",
+      "butter, tinunaw",
+      "durog na cotija cheese",
+      "tinadtad na cilantro",
+      "lime, hiwain nang wedges"
+    ],
+    "steps": [
+      "I-grill o pakuluan ang corn hanggang lumambot at maging bright yellow, mga 5-8 minutes, tapos hayaang lumamig nang kaunti.",
+      "Haluin ang mayonnaise, lime juice, bawang, at half ng chili powder sa maliit na bowl.",
+      "Pahiran ang bawat corn ng tunaw na butter.",
+      "Pahiran nang generous ang corn ng mayo mixture gamit ang brush o likod ng kutsara.",
+      "Budburan ang bawat corn ng cotija cheese, natitirang chili powder, at cilantro.",
+      "Ihain agad with lime wedges sa gilid."
+    ],
+    "tips": [
+      "Mas smoky ang lasa kapag ni-grill kumpara sa pinakuluan, pero mas mabilis ang boiled corn kung weeknight snack lang.",
+      "Maglagay ng extra chili powder sa table para makapagdagdag ang lahat ng sariling anghang."
+    ],
+    "nutritionNote": "Fibre-rich na vegetable side na nagiging mas rich dahil sa mayo at cheese; konti lang sa dalawa kung kasabay ito ng mas heavy na main."
+  },
+  "mex-esquites": {
+    "description": "Corn kernels na ni-simmer sa butter with epazote at buong serrano chile, isinandok sa cups with mayo, cotija, chile, at lime — 'yung cup version ng elote na tinitinda sa market carts.",
+    "ingredients": [
+      "butter",
+      "white onion, tinadtad nang pino",
+      "corn kernels (mga 6 ears)",
+      "serrano chile, iwan buo",
+      "epazote sprigs",
+      "water",
+      "asin",
+      "mayonnaise",
+      "durog na cotija cheese",
+      "chili powder o ground chile de árbol",
+      "lime, hiwain nang wedges"
+    ],
+    "steps": [
+      "Tunawin ang butter sa large skillet sa medium-high heat tapos lutuin ang onion hanggang translucent, mga 3 minutes.",
+      "Idagdag ang corn kernels, buong serrano chile, epazote, water, at asin.",
+      "Lutuin nang walang takip, haluin paminsan-minsan, for 8-10 minutes hanggang lumambot ang corn at halos naevaporate na ang liquid.",
+      "Alisin ang serrano chile at epazote sprigs.",
+      "Isandok ang corn sa cups o bowls tapos haluan ng isang kutsarang mayonnaise per serving.",
+      "Budburan ang bawat cup ng cotija cheese, konting chili powder, at squeeze of lime."
+    ],
+    "tips": [
+      "Kapag iniwan mong buo ang serrano, magbibigay lang ito ng banayad na anghang hindi talaga maanghang — alisin bago ihain sa mga bata.",
+      "I-char muna ang extra corn kernels sa dry pan para mas smoky ang lasa, parang galing sa market stall."
+    ],
+    "nutritionNote": "Fibre-rich na vegetable dish na nagiging mas rich dahil sa mayo at cheese; konti lang sa dalawa kung kasabay ito ng mas heavy na main."
+  },
+  "mex-sopes-de-chorizo": {
+    "description": "Makapal na hand-pressed masa cakes na may pinched-up edges, ni-griddle tapos pinrito at nilagyan ng refried beans, durog na chorizo, potato, lettuce, at crema — classic mula sa mercado stall.",
+    "ingredients": [
+      "masa harina",
+      "warm water",
+      "asin",
+      "Mexican chorizo, tinanggalan ng casing",
+      "medium potato, pinakuluan at dinice",
+      "refried beans",
+      "vegetable oil, pangprito ng sopes",
+      "shredded lettuce",
+      "durog na queso fresco",
+      "Mexican crema",
+      "salsa roja"
+    ],
+    "steps": [
+      "Haluin ang masa harina with asin at warm water, mashin hanggang maging soft at walang crack ang dough; takpan ng damp cloth.",
+      "Hatiin ang dough into 8 balls tapos i-flatten ang bawat isa into thick disc na mga 8cm wide at 1cm thick.",
+      "Lutuin ang discs sa hot dry griddle for 2-3 minutes per side hanggang medyo speckled pero hindi pa fully browned.",
+      "Habang mainit pa, pisilin ang gilid ng bawat disc gamit ang daliri para makagawa ng maliit na raised wall, tapos itabi muna para lumamig nang kaunti.",
+      "Durugin ang chorizo papunta sa skillet sa medium heat tapos lutuin hanggang mag-render at mag-brown, mga 6-8 minutes, tapos ihalo ang diniced na potato.",
+      "Painitin ang oil sa wide skillet tapos iprito ang bawat sope shell, wall-side up, for about 1 minute hanggang mag-crisp ang base.",
+      "Pahiran ang bawat fried sope ng refried beans, lagyan ng chorizo-potato mixture, lettuce, queso fresco, at drizzle ng crema.",
+      "Ihain agad with salsa roja sa gilid."
+    ],
+    "tips": [
+      "Panatilihing takip ang dough ng damp cloth habang ginagawa mo — mabilis matuyo at mag-crack ang masa.",
+      "Pisilin ang walls habang mainit pa ang disc; kapag lumamig na, hindi na siya magho-hold ng shape."
+    ],
+    "kidNote": "Huwag lagyan ng salsa roja ang sopes ng mga bata, ipasa na lang sa table para bawat isa magdagdag ng sariling anghang — banayad lang naman ang spice ng chorizo mismo.",
+    "nutritionNote": "Heavy combination ng fried masa, baboy, at cheese; i-balance with shredded lettuce at konti lang sa crema."
+  },
+  "mex-tlacoyos": {
+    "description": "Oval na masa cakes na tinapunan ng mashed beans, ni-griddle hanggang crisp ang gilid, tapos nilagyan ng nopales, cheese, at salsa — staple breakfast sa central Mexican market.",
+    "ingredients": [
+      "masa harina",
+      "warm water",
+      "asin",
+      "lutong pinto o black beans, sinala",
+      "vegetable oil",
+      "bawang, tinadtad",
+      "diniced na lutong nopales (cactus paddles)",
+      "durog na queso fresco",
+      "tinadtad na white onion",
+      "tinadtad na cilantro",
+      "salsa verde"
+    ],
+    "steps": [
+      "Painitin ang oil sa small pan, lutuin ang bawang for 30 seconds, tapos idagdag ang beans at durugin into thick, spreadable paste; timplahan ng asin at hayaang lumamig.",
+      "Haluin ang masa harina with asin at warm water, mashin hanggang maging soft ang dough na hindi nagc-crack sa gilid.",
+      "Hatiin ang dough into 8 portions tapos i-flatten ang bawat isa into small disc.",
+      "Ilagay ang isang kutsarang mashed beans sa gitna ng bawat disc, itiklop ang masa sa filling, tapos pisilin para masarhan.",
+      "Dahan-dahang hubugin ang bawat stuffed ball into oval na mga 1.5cm thick, i-pat para masarhan ang mga crack.",
+      "Lutuin sa hot dry griddle for 4-5 minutes per side hanggang medyo mag-char at maluto na.",
+      "Lagyan ang bawat tlacoyo ng nopales, queso fresco, onion, at cilantro.",
+      "Ihain with salsa verde sa gilid."
+    ],
+    "tips": [
+      "Siguraduhing nasarhan nang maayos ang gilid kundi lalabas ang beans sa griddle.",
+      "Maganda i-freeze ang tlacoyos pagkatapos lutuin; pwede i-reheat straight from frozen sa dry pan."
+    ],
+    "nutritionNote": "Fibre- at protein-rich na vegetarian meal mula sa beans at corn masa; konti lang sa cheese kung ihahain as main imbes na snack."
+  },
+  "mex-quesadillas-fritas-flor-de-calabaza": {
+    "description": "Fresh squash blossoms at melting Oaxaca cheese na nakabalot sa raw masa dough, tapos deep-fried to order — market-stall quesadilla, iba sa griddled tortilla version.",
+    "ingredients": [
+      "masa harina",
+      "warm water",
+      "asin",
+      "fresh squash blossoms, tinanggalan ng stems at pistils",
+      "shredded Oaxaca cheese",
+      "epazote sprigs, tinadtad",
+      "vegetable oil, pangprito",
+      "salsa verde"
+    ],
+    "steps": [
+      "Haluin ang masa harina with asin at warm water, mashin into smooth dough na hindi dumidikit sa kamay; takpan ng damp cloth.",
+      "Tadtarin nang bahagya ang squash blossoms tapos haluin with epazote.",
+      "Hatiin ang masa into 8 balls tapos i-flatten ang bawat isa sa pagitan ng two sheets of plastic into thin round na mga 12cm wide.",
+      "Ilagay ang portion ng cheese at squash blossoms sa isang half ng bawat round, itiklop, tapos pisilin nang mahigpit ang gilid para masarhan.",
+      "Painitin ang oil sa deep skillet hanggang mga 175C, o hanggang magsizzle agad ang maliit na piraso ng dough pag nahulog.",
+      "Iprito ang quesadillas in batches for 2-3 minutes per side hanggang deep golden at crisp.",
+      "I-drain sa paper towels tapos ihain mainit with salsa verde sa gilid."
+    ],
+    "tips": [
+      "Isarado nang mahigpit ang gilid — kapag maluwag ang seam, tatagas ang natutunaw na cheese papunta sa oil.",
+      "Panatilihing steady sa medium-high heat ang oil; kapag sobrang init, mabrown agad ang masa bago pa matunaw ang cheese sa loob."
+    ],
+    "nutritionNote": "Fried masa at natunaw na cheese ang gumagawa nito into rich treat imbes na everyday side; i-pair with simpleng tomato o nopales salad."
+  },
+  "mex-churros": {
+    "description": "Piped na choux-style dough na piniprito hanggang crackly-crisp tapos binalot sa cinnamon sugar, inihahain with cup of melted chocolate for dipping — ang classic after-dark cart treat.",
+    "ingredients": [
+      "water",
+      "butter",
+      "asin",
+      "cinnamon stick",
+      "all-purpose flour",
+      "itlog",
+      "vegetable oil, pangprito",
+      "sugar",
+      "ground cinnamon",
+      "tinadtad na dark chocolate, para sa dipping sauce"
+    ],
+    "steps": [
+      "Pagsamahin ang water, butter, asin, at cinnamon stick sa saucepan tapos ipakulo.",
+      "Alisin ang cinnamon stick, alisin ang pan sa heat, tapos ihalo ang flour all at once hanggang maging smooth dough.",
+      "Hayaang lumamig ang dough for 5 minutes, tapos ihalo ang itlog hanggang fully incorporated at glossy.",
+      "Ilagay ang dough sa piping bag na may large star tip.",
+      "Painitin ang oil sa deep pan hanggang mga 175C tapos i-pipe ang 12cm lengths ng dough diretso sa oil, gupitin gamit ang scissors.",
+      "Iprito for 2-3 minutes per side hanggang golden at crisp, tapos i-drain sa paper towels.",
+      "Pagsamahin ang sugar at ground cinnamon sa plato tapos i-roll ang warm churros hanggang mabalutan.",
+      "Tunawin nang dahan-dahan ang chocolate tapos ihain kasabay ng churros for dipping."
+    ],
+    "tips": [
+      "I-pipe diretso sa oil imbes na i-shape muna sa tray — nagpapanatili ito ng crisp ridges imbes na mag-flat.",
+      "Gawin in small batches para hindi bumaba ang temperature ng oil at maging greasy ang churros."
+    ],
+    "nutritionNote": "Fried-dough dessert na mataas sa sugar at fat; ituring itong occasional treat imbes na everyday snack."
+  },
+  "mex-tacos-de-papa": {
+    "description": "Corn tortillas na tinupi sa paligid ng spiced mashed potato tapos piniprito hanggang crackly ang gilid — meatless na paborito sa taco-stand na binuntunan ng cabbage, cotija, at crema.",
+    "ingredients": [
+      "starchy potatoes, binalatan at kinubo",
+      "butter",
+      "bawang, tinadtad",
+      "ground cumin",
+      "chili powder",
+      "asin, plus more to taste",
+      "vegetable oil, pangprito",
+      "corn tortillas",
+      "shredded cabbage o lettuce",
+      "durog na cotija cheese",
+      "Mexican crema o sour cream",
+      "salsa o hot sauce"
+    ],
+    "steps": [
+      "Pakuluan ang potatoes sa large pot of salted water for 20-25 minutes hanggang fork-tender, tapos i-drain.",
+      "Tunawin ang butter sa parehong pot, idagdag ang bawang, tapos lutuin for 30 seconds hanggang mabango.",
+      "Ibalik ang potatoes sa pot with cumin, chili powder, at asin, tapos durugin hanggang smooth; tikman at ayusin ang timpla.",
+      "Ipahid ang mga 60g ng mashed potato sa isang half ng bawat tortilla tapos itiklop para masarhan.",
+      "Painitin ang oil sa large skillet sa medium-high heat tapos iprito ang tacos in batches, mga 2 minutes per side, hanggang golden at crisp.",
+      "I-drain sa paper towels.",
+      "Lagyan ang tacos ng shredded cabbage, cotija cheese, at crema.",
+      "Ihain with salsa o hot sauce, ipasa nang hiwalay sa table."
+    ],
+    "tips": [
+      "I-warm muna nang bahagya ang tortillas bago itiklop para hindi ito mag-crack.",
+      "Pwedeng gawin ang mashed filling up to 3 days ahead tapos i-refrigerate, at iprito na lang fresh pagkatapos."
+    ],
+    "nutritionNote": "Meatless na busog-sa-tiyan na option na heavy sa fried starch; i-balance with shredded cabbage at squeeze of lime imbes na extra crema."
+  },
+  "mex-molletes": {
+    "description": "Hinating bread rolls na pinahiran ng refried beans at natunaw na cheese, ni-broil hanggang bubbling — everyday cafeteria breakfast o afternoon snack sa Mexico.",
+    "ingredients": [
+      "bolillo rolls o iba pang crusty white rolls",
+      "butter, pinalambot",
+      "refried beans",
+      "shredded Oaxaca o quesillo cheese",
+      "pico de gallo",
+      "avocado, hiniwa, para sa serving"
+    ],
+    "steps": [
+      "I-preheat ang broiler tapos hiwain ang rolls in half lengthwise.",
+      "Kunin nang kaunti ang soft crumb sa gitna ng bawat half para may lagyan ng filling.",
+      "Pahiran ng butter ang cut sides tapos i-broil for 3-4 minutes hanggang medyo golden.",
+      "Alisin sa broiler tapos pahiran nang generous ang bawat half ng warm refried beans.",
+      "Lagyan ng shredded cheese tapos ibalik sa broiler for 3-5 minutes hanggang matunaw at bubbling na.",
+      "Lagyan ng pico de gallo tapos ihain with avocado slices sa gilid."
+    ],
+    "tips": [
+      "I-warm muna ang beans bago pahiran para ang broiler na lang ang mag-melt ng cheese, hindi na kailangang painitin lahat.",
+      "Bantayan nang mabuti ang broiler sa last minute — mabilis lang magbago ang cheese from melted to burnt."
+    ],
+    "nutritionNote": "Balanced na breakfast mula sa fibre at protein ng beans at carbohydrates ng bread; nagdadagdag ang avocado ng healthy fat imbes na extra cheese."
+  }
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Mole Poblano">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="21.0" cy="411.1" r="11.7" fill="#ffffff" opacity="0.39"/><circle cx="84.0" cy="156.4" r="6.1" fill="#ffffff" opacity="0.28"/><circle cx="489.2" cy="61.4" r="11.7" fill="#ffffff" opacity="0.42"/><circle cx="736.0" cy="47.5" r="4.1" fill="#ffffff" opacity="0.23"/><circle cx="561.1" cy="21.3" r="10.4" fill="#ffffff" opacity="0.40"/><circle cx="591.4" cy="144.1" r="8.2" fill="#ffffff" opacity="0.43"/><circle cx="60.0" cy="119.6" r="8.2" fill="#ffffff" opacity="0.20"/><circle cx="80.9" cy="74.4" r="3.8" fill="#ffffff" opacity="0.31"/><circle cx="116.1" cy="529.8" r="4.3" fill="#ffffff" opacity="0.21"/><circle cx="568.3" cy="516.0" r="12.0" fill="#ffffff" opacity="0.27"/><circle cx="669.8" cy="299.4" r="9.9" fill="#ffffff" opacity="0.43"/><circle cx="579.2" cy="460.3" r="3.6" fill="#ffffff" opacity="0.43"/><circle cx="254.1" cy="56.3" r="4.2" fill="#ffffff" opacity="0.40"/><circle cx="611.8" cy="184.8" r="7.4" fill="#ffffff" opacity="0.31"/><circle cx="509.3" cy="89.8" r="6.5" fill="#ffffff" opacity="0.33"/><circle cx="680.4" cy="447.8" r="3.7" fill="#ffffff" opacity="0.33"/><circle cx="586.7" cy="72.6" r="6.7" fill="#ffffff" opacity="0.38"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="457.9" cy="304.3" rx="35.1" ry="28.1" fill="#d29b45" opacity="0.94" transform="rotate(8 457.9 304.3)"/><ellipse cx="462.8" cy="336.2" rx="44.6" ry="34.7" fill="#e6b45f" opacity="0.94" transform="rotate(65 462.8 336.2)"/><ellipse cx="404.5" cy="344.7" rx="42.7" ry="32.6" fill="#87c46f" opacity="0.94" transform="rotate(127 404.5 344.7)"/><ellipse cx="354.2" cy="336.2" rx="36.6" ry="31.0" fill="#d29b45" opacity="0.94" transform="rotate(103 354.2 336.2)"/><ellipse cx="335.5" cy="303.4" rx="34.4" ry="25.1" fill="#e6b45f" opacity="0.94" transform="rotate(76 335.5 303.4)"/><ellipse cx="340.8" cy="239.1" rx="45.2" ry="37.7" fill="#5f9e49" opacity="0.94" transform="rotate(103 340.8 239.1)"/><ellipse cx="374.6" cy="206.5" rx="26.2" ry="23.7" fill="#e6b45f" opacity="0.94" transform="rotate(157 374.6 206.5)"/><ellipse cx="434.5" cy="212.6" rx="43.6" ry="38.4" fill="#d29b45" opacity="0.94" transform="rotate(92 434.5 212.6)"/><ellipse cx="442.7" cy="269.8" rx="22.6" ry="17.3" fill="#87c46f" opacity="0.94" transform="rotate(179 442.7 269.8)"/>
+  <circle cx="382.0" cy="303.9" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="385.4" cy="347.0" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="385.5" cy="224.2" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="372.2" cy="283.2" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="442.5" cy="300.0" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="433.4" cy="326.6" r="2.5" fill="#ffffff" opacity="0.7"/><circle cx="416.9" cy="289.8" r="2.1" fill="#ffffff" opacity="0.7"/><circle cx="424.8" cy="236.3" r="3.7" fill="#ffffff" opacity="0.7"/><circle cx="423.3" cy="342.9" r="3.3" fill="#ffffff" opacity="0.7"/><circle cx="389.2" cy="357.7" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="310.0" cy="326.2" r="2.2" fill="#ffffff" opacity="0.7"/><circle cx="394.2" cy="277.1" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="454.9" cy="223.8" r="3.6" fill="#3f6b32" opacity="0.7"/><circle cx="308.8" cy="239.8" r="2.3" fill="#3f6b32" opacity="0.7"/><circle cx="344.8" cy="317.9" r="3.5" fill="#3f6b32" opacity="0.7"/><circle cx="394.9" cy="330.5" r="3.4" fill="#ffffff" opacity="0.7"/>
+</svg>

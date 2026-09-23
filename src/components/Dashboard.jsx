@@ -4,7 +4,6 @@ import { useLang } from '../lib/i18n.js'
 import { CuisineDot, EmptyState, RecipeImage, SectionHeader, Stat } from './common.jsx'
 
 export default function Dashboard({
-  db,
   menu,
   counts,
   servings,

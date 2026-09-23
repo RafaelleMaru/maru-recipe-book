@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Shoyu Ramen">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eef4fc"/>
+      <stop offset="100%" stop-color="#fce7ef"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="598.9" cy="456.8" r="5.8" fill="#ffffff" opacity="0.19"/><circle cx="665.3" cy="211.6" r="8.1" fill="#ffffff" opacity="0.43"/><circle cx="55.2" cy="248.1" r="6.3" fill="#ffffff" opacity="0.37"/><circle cx="760.6" cy="167.4" r="5.1" fill="#ffffff" opacity="0.37"/><circle cx="762.2" cy="335.2" r="4.6" fill="#ffffff" opacity="0.19"/><circle cx="464.5" cy="530.9" r="6.4" fill="#ffffff" opacity="0.35"/><circle cx="491.5" cy="506.4" r="5.6" fill="#ffffff" opacity="0.34"/><circle cx="749.4" cy="85.1" r="10.2" fill="#ffffff" opacity="0.36"/><circle cx="656.1" cy="86.0" r="10.6" fill="#ffffff" opacity="0.42"/><circle cx="702.0" cy="368.4" r="10.5" fill="#ffffff" opacity="0.33"/><circle cx="681.3" cy="149.9" r="5.5" fill="#ffffff" opacity="0.33"/><circle cx="704.7" cy="111.1" r="4.8" fill="#ffffff" opacity="0.38"/><circle cx="410.7" cy="38.8" r="4.9" fill="#ffffff" opacity="0.25"/><circle cx="110.4" cy="47.5" r="11.0" fill="#ffffff" opacity="0.40"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="180" fill="#e9cd7c" opacity="0.82"/>
+    <circle cx="400" cy="290" r="180" fill="none" stroke="#000000" stroke-opacity="0.06" stroke-width="3"/>
+  <ellipse cx="400" cy="296" rx="74" ry="56" fill="#f5e4ae" opacity="0.95"/><ellipse cx="510.1" cy="314.3" rx="44.7" ry="31.5" fill="#d7b85f" opacity="0.94" transform="rotate(37 510.1 314.3)"/><ellipse cx="440.1" cy="318.7" rx="35.5" ry="24.3" fill="#e9cd7c" opacity="0.94" transform="rotate(65 440.1 318.7)"/><ellipse cx="387.0" cy="382.0" rx="43.1" ry="35.0" fill="#87c46f" opacity="0.94" transform="rotate(162 387.0 382.0)"/><ellipse cx="360.8" cy="332.0" rx="25.8" ry="22.6" fill="#e9cd7c" opacity="0.94" transform="rotate(105 360.8 332.0)"/><ellipse cx="296.9" cy="317.6" rx="20.3" ry="17.5" fill="#e9cd7c" opacity="0.94" transform="rotate(76 296.9 317.6)"/><ellipse cx="295.6" cy="242.7" rx="37.7" ry="27.7" fill="#74b45c" opacity="0.94" transform="rotate(62 295.6 242.7)"/><ellipse cx="375.3" cy="223.9" rx="38.0" ry="25.9" fill="#f5e4ae" opacity="0.94" transform="rotate(124 375.3 223.9)"/><ellipse cx="443.4" cy="234.8" rx="35.3" ry="24.5" fill="#f5e4ae" opacity="0.94" transform="rotate(23 443.4 234.8)"/><ellipse cx="454.3" cy="257.3" rx="28.3" ry="22.4" fill="#87c46f" opacity="0.94" transform="rotate(15 454.3 257.3)"/>
+  <circle cx="473.1" cy="247.7" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="404.6" cy="292.6" r="2.7" fill="#ffffff" opacity="0.7"/><circle cx="311.8" cy="331.4" r="2.6" fill="#3f6b32" opacity="0.7"/><circle cx="377.4" cy="240.0" r="4.0" fill="#3f6b32" opacity="0.7"/><circle cx="398.5" cy="291.3" r="3.7" fill="#ffffff" opacity="0.7"/><circle cx="428.6" cy="280.3" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="307.3" cy="222.5" r="2.8" fill="#3f6b32" opacity="0.7"/><circle cx="403.4" cy="342.1" r="1.8" fill="#3f6b32" opacity="0.7"/><circle cx="419.4" cy="304.2" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="400.4" cy="290.5" r="3.3" fill="#ffffff" opacity="0.7"/><circle cx="354.0" cy="310.2" r="2.0" fill="#3f6b32" opacity="0.7"/><circle cx="354.4" cy="246.1" r="2.4" fill="#3f6b32" opacity="0.7"/><circle cx="352.7" cy="236.6" r="2.0" fill="#3f6b32" opacity="0.7"/><circle cx="406.3" cy="302.3" r="3.1" fill="#ffffff" opacity="0.7"/><circle cx="335.7" cy="345.3" r="3.3" fill="#3f6b32" opacity="0.7"/><circle cx="339.6" cy="287.4" r="3.8" fill="#3f6b32" opacity="0.7"/>
+  
+    <g stroke="#ffffff" stroke-opacity="0.65" stroke-width="7" stroke-linecap="round" fill="none">
+      <path d="M354 98 c -14 -26 14 -42 0 -62"/>
+      <path d="M400 86 c -16 -30 16 -48 0 -70"/>
+      <path d="M446 98 c -14 -26 14 -42 0 -62"/>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-label="Churros">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fadd"/>
+      <stop offset="100%" stop-color="#ffe7cd"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="62%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="560" fill="url(#bg)"/>
+  <rect width="800" height="560" fill="url(#glow)"/>
+  <circle cx="298.3" cy="80.8" r="9.9" fill="#ffffff" opacity="0.27"/><circle cx="103.3" cy="513.1" r="11.5" fill="#ffffff" opacity="0.24"/><circle cx="99.7" cy="288.5" r="8.9" fill="#ffffff" opacity="0.42"/><circle cx="30.8" cy="169.5" r="4.1" fill="#ffffff" opacity="0.26"/><circle cx="205.8" cy="174.1" r="4.7" fill="#ffffff" opacity="0.38"/><circle cx="588.9" cy="68.4" r="6.8" fill="#ffffff" opacity="0.46"/><circle cx="684.7" cy="221.9" r="5.8" fill="#ffffff" opacity="0.30"/><circle cx="50.9" cy="438.2" r="4.4" fill="#ffffff" opacity="0.46"/><circle cx="211.2" cy="496.3" r="6.7" fill="#ffffff" opacity="0.22"/><circle cx="422.2" cy="519.9" r="10.2" fill="#ffffff" opacity="0.27"/><circle cx="710.5" cy="129.0" r="6.2" fill="#ffffff" opacity="0.39"/><circle cx="718.1" cy="386.2" r="8.0" fill="#ffffff" opacity="0.38"/><circle cx="406.7" cy="22.3" r="8.7" fill="#ffffff" opacity="0.22"/><circle cx="227.4" cy="85.6" r="3.7" fill="#ffffff" opacity="0.46"/><circle cx="539.6" cy="21.2" r="11.7" fill="#ffffff" opacity="0.21"/><circle cx="637.5" cy="196.9" r="10.6" fill="#ffffff" opacity="0.33"/><circle cx="481.3" cy="527.3" r="9.7" fill="#ffffff" opacity="0.44"/>
+  
+    <circle cx="400" cy="290" r="196" fill="#ffffff" opacity="0.96"/>
+    <circle cx="400" cy="290" r="164" fill="#ffffff"/>
+    <circle cx="400" cy="290" r="164" fill="none" stroke="#000000" stroke-opacity="0.05" stroke-width="2"/>
+  <ellipse cx="520.7" cy="294.1" rx="29.9" ry="21.3" fill="#f2c9df" opacity="0.94" transform="rotate(40 520.7 294.1)"/><ellipse cx="431.6" cy="362.9" rx="35.0" ry="23.1" fill="#cb85af" opacity="0.94" transform="rotate(25 431.6 362.9)"/><ellipse cx="371.9" cy="336.7" rx="31.6" ry="27.9" fill="#cb85af" opacity="0.94" transform="rotate(84 371.9 336.7)"/><ellipse cx="352.9" cy="321.6" rx="39.9" ry="36.0" fill="#f2c9df" opacity="0.94" transform="rotate(30 352.9 321.6)"/><ellipse cx="306.3" cy="278.1" rx="30.2" ry="26.4" fill="#cb85af" opacity="0.94" transform="rotate(50 306.3 278.1)"/><ellipse cx="352.3" cy="213.2" rx="29.5" ry="21.5" fill="#cb85af" opacity="0.94" transform="rotate(77 352.3 213.2)"/><ellipse cx="426.0" cy="235.5" rx="43.2" ry="33.4" fill="#f2c9df" opacity="0.94" transform="rotate(38 426.0 235.5)"/><ellipse cx="456.6" cy="272.1" rx="40.6" ry="29.5" fill="#e2a3c6" opacity="0.94" transform="rotate(124 456.6 272.1)"/>
+  <circle cx="459.2" cy="261.2" r="2.4" fill="#ffffff" opacity="0.7"/><circle cx="414.1" cy="346.4" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="394.6" cy="338.4" r="1.9" fill="#3f6b32" opacity="0.7"/><circle cx="378.5" cy="332.2" r="1.7" fill="#ffffff" opacity="0.7"/><circle cx="405.1" cy="286.2" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="373.9" cy="295.1" r="2.7" fill="#3f6b32" opacity="0.7"/><circle cx="407.2" cy="205.0" r="3.7" fill="#3f6b32" opacity="0.7"/><circle cx="402.8" cy="328.5" r="3.8" fill="#3f6b32" opacity="0.7"/><circle cx="415.4" cy="295.5" r="3.4" fill="#3f6b32" opacity="0.7"/><circle cx="422.2" cy="267.5" r="2.9" fill="#3f6b32" opacity="0.7"/><circle cx="451.0" cy="226.5" r="1.8" fill="#ffffff" opacity="0.7"/><circle cx="351.6" cy="291.1" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="465.5" cy="279.6" r="3.2" fill="#ffffff" opacity="0.7"/><circle cx="372.9" cy="279.8" r="2.5" fill="#3f6b32" opacity="0.7"/><circle cx="358.9" cy="290.3" r="3.6" fill="#ffffff" opacity="0.7"/><circle cx="376.6" cy="300.7" r="1.8" fill="#3f6b32" opacity="0.7"/>
+</svg>

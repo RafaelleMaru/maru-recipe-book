@@ -1,5 +1,4 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
-import db from './data/recipes.json'
 
 import { buildIndex, searchIndex } from './lib/search.js'
 import { generateMenu, isVegetarian, QUICK_MINUTES } from './lib/planner.js'
@@ -15,10 +14,10 @@ import RecipeDetail from './components/RecipeDetail.jsx'
 import WeekPlan from './components/WeekPlan.jsx'
 import MarketList from './components/MarketList.jsx'
 import GenerateDialog from './components/GenerateDialog.jsx'
-import { Modal, Toasts } from './components/common.jsx'
+import { EmptyState, Modal, Toasts } from './components/common.jsx'
 
-const RECIPES = db.recipes
 const HISTORY_LIMIT = 40
+const NO_RECIPES = []
 
 const DEFAULT_FILTERS = {
   cuisines: [],
@@ -55,6 +54,28 @@ export default function App() {
   const { toasts, push, dismiss } = useToast()
   const t = useMemo(() => makeT(lang), [lang])
 
+  // The recipe database is fetched rather than bundled: it is by far the largest
+  // asset, and keeping it out of the JS means a phone paints the shell immediately
+  // and caches the data separately between deploys.
+  const [db, setDb] = useState(null)
+  const [loadError, setLoadError] = useState(false)
+
+  useEffect(() => {
+    let alive = true
+    fetch(`${import.meta.env.BASE_URL}data/recipes.json`)
+      .then((r) => {
+        if (!r.ok) throw new Error(String(r.status))
+        return r.json()
+      })
+      .then((json) => alive && setDb(json))
+      .catch(() => alive && setLoadError(true))
+    return () => {
+      alive = false
+    }
+  }, [])
+
+  const RECIPES = db?.recipes ?? NO_RECIPES
+
   useEffect(() => {
     document.documentElement.classList.toggle('dark', theme === 'dark')
   }, [theme])
@@ -65,8 +86,8 @@ export default function App() {
 
   /* ------------------------------------------------------------- derived data */
 
-  const byId = useMemo(() => new Map(RECIPES.map((r) => [r.id, r])), [])
-  const index = useMemo(() => buildIndex(RECIPES), [])
+  const byId = useMemo(() => new Map(RECIPES.map((r) => [r.id, r])), [RECIPES])
+  const index = useMemo(() => buildIndex(RECIPES), [RECIPES])
 
   const counts = useMemo(() => {
     const cuisines = {}
@@ -76,7 +97,7 @@ export default function App() {
       for (const c of r.categories) categories[c] = (categories[c] || 0) + 1
     }
     return { total: RECIPES.length, cuisines, categories }
-  }, [])
+  }, [RECIPES])
 
   const searchHits = useMemo(() => (query.trim() ? searchIndex(index, query) : null), [index, query])
   const suggestions = useMemo(() => (searchHits ? searchHits.slice(0, 6) : []), [searchHits])
@@ -113,7 +134,7 @@ export default function App() {
   const browseList = useMemo(() => {
     const base = searchHits ? searchHits.map((h) => h.recipe) : RECIPES
     return sortList(applyFilters(base), Boolean(searchHits))
-  }, [searchHits, applyFilters, sortList])
+  }, [RECIPES, searchHits, applyFilters, sortList])
 
   const menu = useMemo(() => menuIds.map((id) => byId.get(id)).filter(Boolean), [menuIds, byId])
   const cookbook = useMemo(() => cookbookIds.map((id) => byId.get(id)).filter(Boolean), [cookbookIds, byId])
@@ -125,7 +146,7 @@ export default function App() {
       RECIPES.filter((r) => totalTime(r) <= QUICK_MINUTES && !menuIds.includes(r.id))
         .sort((a, b) => totalTime(a) - totalTime(b))
         .slice(0, 4),
-    [menuIds],
+    [RECIPES, menuIds],
   )
 
   /* ----------------------------------------------------------------- handlers */
@@ -213,7 +234,7 @@ export default function App() {
       remember([replacement.id])
       push(t('Swapped {from} for {to}.', { from: recipe.title, to: replacement.title }))
     },
-    [menuIds, history, setMenuIds, setPlan, remember, push, t],
+    [RECIPES, menuIds, history, setMenuIds, setPlan, remember, push, t],
   )
 
   const clearWeek = () =>
@@ -265,6 +286,27 @@ export default function App() {
   /* -------------------------------------------------------------------- render */
 
   const main = () => {
+    if (!db) {
+      return loadError ? (
+        <EmptyState
+          icon="fa-plug-circle-xmark"
+          title={t('Could not load the recipes.')}
+          action={
+            <button onClick={() => window.location.reload()} className="btn-primary mt-1">
+              <i className="fa-solid fa-rotate-right" aria-hidden /> {t('Reload')}
+            </button>
+          }
+        >
+          {t('Check your connection and reload the page.')}
+        </EmptyState>
+      ) : (
+        <div className="card flex flex-col items-center gap-3 px-6 py-20 text-center">
+          <i className="fa-solid fa-bowl-food text-brand-400 animate-pulse text-3xl" aria-hidden />
+          <p className="meta">{t('Loading the recipe book…')}</p>
+        </div>
+      )
+    }
+
     if (selected) {
       return (
         <RecipeDetail
@@ -365,7 +407,6 @@ export default function App() {
 
     return (
       <Dashboard
-        db={db}
         menu={menu}
         counts={counts}
         servings={servings}
@@ -429,7 +470,7 @@ export default function App() {
               {t('{n} recipes · {c} cuisines · database built {date}', {
                 n: counts.total,
                 c: CUISINES.length,
-                date: new Date(db.generatedAt).toLocaleDateString(lang === 'fil' ? 'fil-PH' : 'en-PH'),
+                date: db?.generatedAt ? new Date(db.generatedAt).toLocaleDateString(lang === 'fil' ? 'fil-PH' : 'en-PH') : '—',
               })}
             </span>
             <span className="flex items-center gap-3">

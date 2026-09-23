@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs'
 import { generateMenu, buildShoppingList, isVegetarian, menuStats } from '../src/lib/planner.js'
 import { scaleQty, fmtQty, totalTime } from '../src/lib/util.js'
 
-const db = JSON.parse(readFileSync(new URL('../src/data/recipes.json', import.meta.url), 'utf8')).recipes
+const db = JSON.parse(readFileSync(new URL('../public/data/recipes.json', import.meta.url), 'utf8')).recipes
 let fails = 0
 const ok = (name, cond, extra = '') => {
   if (!cond) fails++
@@ -123,6 +123,24 @@ const enList = buildShoppingList(week, () => 1)
 ok(
   'both languages produce the same aisles and row count',
   filList.length === enList.length && filList.every((g, i) => g.items.length === enList[i].items.length),
+)
+
+// 11. Every ingredient group heading needs a Filipino entry, or the recipe page
+// silently shows an English heading. New recipes bring new group names, so this
+// is the check that catches it rather than a person noticing months later.
+const i18nSrc = readFileSync(new URL('../src/lib/i18n.js', import.meta.url), 'utf8')
+const dictBody = i18nSrc.slice(i18nSrc.indexOf('const FIL = {'), i18nSrc.indexOf('const DICTIONARIES'))
+const filKeys = new Set(
+  [...dictBody.matchAll(new RegExp("^\\s{2}(?:'((?:[^'\\\\]|\\\\.)*)'|\"([^\"]*)\"|([A-Za-z_][\\w]*)):", 'gm'))].map(
+    (m) => (m[1] ?? m[2] ?? m[3]).replace(/\\'/g, "'"),
+  ),
+)
+const groupNames = [...new Set(db.flatMap((r) => r.ingredients.map((i) => i.group).filter(Boolean)))]
+const untranslatedGroups = groupNames.filter((g) => !filKeys.has(g))
+ok(
+  'every ingredient group heading has a Filipino entry',
+  untranslatedGroups.length === 0,
+  untranslatedGroups.length ? untranslatedGroups.join(', ') : `${groupNames.length} groups`,
 )
 
 console.log(`\n${fails === 0 ? 'ALL CHECKS PASSED' : `${fails} CHECK(S) FAILED`}`)

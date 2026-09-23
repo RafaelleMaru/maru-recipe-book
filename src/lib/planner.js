@@ -145,7 +145,7 @@ const AISLES = [
       'jalapeno', 'jalapeño', 'habanero', 'bell pepper', 'scallion', 'spring onion', 'green onion', 'leek',
       'cucumber', 'papaya', 'banana', 'mango', 'pear', 'apple', 'pineapple', 'coriander', 'cilantro', 'basil',
       'mint', 'lettuce', 'mushroom', 'shiitake', 'kabocha', 'daikon', 'bean sprout', 'togue', 'broccoli',
-      'cauliflower', 'gobi', 'tomatillo', 'avocado', 'corn', 'sayote', 'chayote', 'celery', 'chives', 'curry leaves', 'peas', 'parsley', 'taro', 'gabi', 'water chestnut', 'olives', 'orange', 'hominy', 'lemongrass', 'tanglad', 'zucchini', 'calabacitas', 'bamboo shoot', 'gobo', 'burdock', 'ginseng', 'coconut', 'jujube',
+      'cauliflower', 'gobi', 'tomatillo', 'avocado', 'corn', 'sayote', 'chayote', 'celery', 'chives', 'curry leaves', 'peas', 'parsley', 'taro', 'gabi', 'water chestnut', 'olives', 'orange', 'hominy', 'lemongrass', 'tanglad', 'bitter gourd', 'french bean', 'lotus root', 'nagaimo', 'mountain yam', 'nopales', 'nopalitos', 'pea shoot', 'pomegranate', 'jackfruit', 'langka', 'plantain', 'shallot', 'winter melon', 'gosari', 'fernbrake', 'lima', 'sprouts', 'pico de gallo', 'capsicum', 'drumstick', 'pumpkin', 'kalabasa', 'zucchini', 'calabacitas', 'bamboo shoot', 'gobo', 'burdock', 'ginseng', 'coconut', 'jujube',
     ],
   },
   {
@@ -155,7 +155,7 @@ const AISLES = [
       'chicken', 'pork', 'beef', 'liempo', 'ribeye', 'sirloin', 'brisket', 'chuck', 'short rib', 'flank',
       'skirt steak', 'bulgogi-cut', 'bacon', 'ham', 'sausage', 'longganisa', 'chorizo', 'mince', 'ground meat',
       'fish', 'bangus', 'tilapia', 'salmon', 'saba', 'mackerel', 'sea bass', 'snapper', 'shrimp', 'prawn',
-      'squid', 'crab', 'mussel', 'clam', 'tuna', 'paneer', 'tofu', 'tokwa', 'egg', 'inari age', 'oxtail', 'buntot', 'liver spread', 'konnyaku',
+      'squid', 'crab', 'mussel', 'clam', 'tuna', 'paneer', 'tofu', 'tokwa', 'egg', 'inari age', 'oxtail', 'buntot', 'liver spread', 'konnyaku', 'octopus', 'tripe', 'twalya', 'pusit', 'squid',
     ],
   },
   {
@@ -172,7 +172,7 @@ const AISLES = [
     match: [
       'rice', 'bihon', 'canton', 'noodle', 'pasta', 'udon', 'soba', 'ramen', 'somen', 'vermicelli',
       'dangmyeon', 'tortilla', 'bread', 'flour', 'atta', 'wrapper', 'lumpia', 'wonton', 'tteok', 'rice cake',
-      'poha', 'semolina', 'sooji', 'masa',
+      'poha', 'semolina', 'sooji', 'masa', 'pav', 'puri', 'papdi', 'sev', 'wheat starch', 'bun', 'roll',
     ],
   },
   {
@@ -186,7 +186,7 @@ const AISLES = [
       'stock cube', 'chicken stock', 'chicken broth', 'beef broth', 'tomato sauce', 'tomato paste', 'canned',
       'peanut butter', 'peanut', 'cashew', 'almond', 'walnut', 'mayonnaise', 'ketchup', 'baking powder',
       'baking soda', 'yeast', 'vanilla', 'extract', 'lentil', 'dal', 'chickpea', 'garbanzo', 'kidney bean',
-      'black bean', 'pinto bean', 'mung bean', 'monggo', 'munggo', 'gelatin', 'agar', 'raisin', 'pumpkin seed', 'pepitas', 'mustard oil', 'salsa', 'youtiao', 'fried shallot', 'toothpick', 'coconut oil', 'worcestershire', 'capers', 'sesame paste', 'curry roux', 'stock', 'broth', 'wine',
+      'black bean', 'pinto bean', 'mung bean', 'refried bean', 'monggo', 'munggo', 'gelatin', 'agar', 'raisin', 'pumpkin seed', 'pepitas', 'mustard oil', 'salsa', 'youtiao', 'fried shallot', 'toothpick', ' oil', 'coffee', 'chocolate', 'mustard', 'okonomiyaki sauce', 'tonkatsu sauce', 'ssamjang', 'bean paste', 'bean sauce', 'anko', 'tenkasu', 'pine nut', 'chestnut', 'nuts', 'soybean', 'liquid seasoning', 'skewer', 'seeds', 'coconut oil', 'worcestershire', 'capers', 'sesame paste', 'curry roux', 'stock', 'broth', 'wine',
     ],
   },
   {
@@ -197,7 +197,7 @@ const AISLES = [
       'chilli powder', 'chili powder', 'paprika', 'oregano', 'cinnamon', 'clove', 'cardamom', 'star anise',
       'fennel', 'mustard seed', 'curry powder', 'curry paste', 'sesame seed', 'furikake', 'nori', 'wakame',
       'kombu', 'katsuobushi', 'bonito', 'dashi', 'msg', 'annatto', 'atsuete', 'epazote', 'achiote', 'asafoetida',
-      'hing', 'fenugreek', 'kasuri', 'togarashi', 'shichimi', 'sansho', 'five spice', 'chaat masala', 'five-spice', 'saffron', 'wasabi', 'dasima', 'kelp', 'daechu', 'bay leaves', 'carom', 'ajwain', 'ya cai', 'miyeok', 'seaweed', 'gulaman',
+      'hing', 'fenugreek', 'kasuri', 'togarashi', 'shichimi', 'sansho', 'five spice', 'chaat masala', 'rasam powder', 'sambar powder', 'kokum', 'jaggery', 'five-spice', 'saffron', 'wasabi', 'dasima', 'kelp', 'daechu', 'bay leaves', 'carom', 'ajwain', 'ya cai', 'miyeok', 'seaweed', 'gulaman',
     ],
   },
 ]
@@ -216,7 +216,7 @@ const aisleFor = (item) => {
 
 // Clauses that describe prep, not the thing you buy — in both languages.
 const PREP_CLAUSE =
-  /^(cut|sliced|slice|chopped|chop|minced|mince|diced|dice|crushed|grated|julienned|cracked|beaten|shredded|peeled|trimmed|cubed|halved|quartered|cleaned|scored|drained|rinsed|soaked|torn|pounded|deveined|deseeded|seeded|stemmed|toasted|rehydrated|thawed|at room temperature|room temperature|for |from |plus |divided|optional|to taste|as needed|or |o kung|kung kailangan|hiwain|hiniwa|hatiin|hinati|durugin|dinurog|tadtarin|tinadtad|balatan|binalatan|pitpitin|pinitpit|gadgarin|ginadgad|batihin|binati|linisin|nilinis|banlawan|ibabad|ibinabad|talupan|tinalupan|i-drain|i-toast|i-marinate|pinaghiwa|kada serving|per serving|depende sa panlasa|kung kailangan|optional lang)/i
+  /^(cut|sliced|slice|chopped|chop|minced|mince|diced|dice|crushed|grated|julienned|cracked|beaten|shredded|peeled|trimmed|cubed|halved|quartered|cleaned|scored|drained|rinsed|soaked|torn|pounded|deveined|deseeded|seeded|stemmed|toasted|rehydrated|thawed|at room temperature|room temperature|for |from |plus |divided|optional|to taste|as needed|to |or |o kung|kung kailangan|hiwain|hiniwa|hatiin|hinati|durugin|dinurog|tadtarin|tinadtad|balatan|binalatan|pitpitin|pinitpit|gadgarin|ginadgad|batihin|binati|linisin|nilinis|banlawan|ibabad|ibinabad|talupan|tinalupan|i-drain|i-toast|i-marinate|pinaghiwa|kada serving|per serving|depende sa panlasa|kung kailangan|optional lang)/i
 
 // Things the market list shouldn't send you shopping for.
 const NOT_SHOPPING = /^((ice[- ]?cold|iced|cold|hot|warm|boiling|room.?temperature|filtered|tap)\s+)?(water|ice|ice cubes)$/i
@@ -272,7 +272,11 @@ export function buildShoppingList(recipes, factorFor, nameFor) {
       // Merge and shelve by the English name so the two languages group identically,
       // but show whichever name the reader asked for.
       const name = marketName(ing.item)
-      if (NOT_SHOPPING.test(name)) return // nobody buys tap water
+      // Nobody buys tap water, in any phrasing — but water chestnuts are real.
+      const isPlainWater = /^water\b/i.test(name) && !/chestnut/i.test(name)
+      if (NOT_SHOPPING.test(name) || isPlainWater) {
+        return
+      }
       const label = nameFor ? marketName(nameFor(r, index)) : name
       const k = keyFor(ing.item, ing.unit)
       const scaled = scaleQty(ing.qty, ing.unit, factor)

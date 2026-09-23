@@ -31,6 +31,15 @@ export default function RecipeDetail({ recipe, servings, inMenu, saved, onToggle
   const factor = portions / recipe.servings
   const text = recipeText(recipe, lang)
 
+  // Show the domain under the credit so you can see where the link goes before tapping.
+  const sourceHost = useMemo(() => {
+    try {
+      return new URL(recipe.source?.url ?? '').hostname.replace(/^www\./, '')
+    } catch {
+      return ''
+    }
+  }, [recipe.source?.url])
+
   // Ingredients keep their English group headings but show translated names.
   const groups = useMemo(() => {
     const out = new Map()
@@ -253,9 +262,30 @@ export default function RecipeDetail({ recipe, servings, inMenu, saved, onToggle
             {t(saved ? 'Saved in cookbook' : 'Save to cookbook')}
           </button>
           {recipe.source?.url && (
-            <a href={recipe.source.url} target="_blank" rel="noreferrer noopener" className="btn-ghost">
-              <i className="fa-solid fa-arrow-up-right-from-square" aria-hidden />
-              {t('Method checked against {source}', { source: recipe.source.name })}
+            <a
+              href={recipe.source.url}
+              target="_blank"
+              rel="noreferrer noopener"
+              className="border-line hover:border-brand-300 hover:bg-surface-2 group flex items-start gap-3 rounded-2xl border p-3 transition-colors"
+            >
+              <span className="bg-brand-50 text-brand-600 dark:text-brand-300 flex h-9 w-9 shrink-0 items-center justify-center rounded-xl">
+                <i className="fa-solid fa-link" aria-hidden />
+              </span>
+              <span className="min-w-0 flex-1">
+                <span className="text-ink-2 group-hover:text-brand-700 dark:group-hover:text-brand-300 block text-xs font-bold">
+                  {t('Method checked against {source}', { source: recipe.source.name })}
+                </span>
+                {Number.isFinite(recipe.source.rating) && (
+                  <span className="meta mt-1 flex items-center gap-1.5">
+                    <i className="fa-solid fa-star text-amber-ink" aria-hidden />
+                    <span className="text-amber-ink font-bold">{recipe.source.rating.toFixed(1)}</span>
+                    {Number.isFinite(recipe.source.ratingCount) &&
+                      t('from {count} ratings', { count: recipe.source.ratingCount.toLocaleString() })}
+                  </span>
+                )}
+                <span className="text-muted mt-1 block truncate text-[11px]">{sourceHost}</span>
+              </span>
+              <i className="fa-solid fa-arrow-up-right-from-square text-muted mt-1 shrink-0 text-xs" aria-hidden />
             </a>
           )}
         </section>
