@@ -11,7 +11,7 @@ draws a placeholder image and the site picks it up.
 ## The loop
 
 ```bash
-npm run db       # merge + validate data/cuisines/*.json  →  src/data/recipes.json
+npm run db       # merge + validate data/cuisines/*.json  →  public/data/recipes.json
 npm run images   # draw a plate illustration for any recipe that doesn't have one
 npm run dev      # look at it
 ```
@@ -47,8 +47,8 @@ same file (pick a dot colour), and to the `CUISINES` list in `tools/build-db.mjs
 New recipes show up in Filipino mode with their English text until they're translated. To
 fill the gap:
 
-> Translate the new recipes in `data/cuisines/<cuisine>.json` into Taglish and add them to
-> `data/translations/<cuisine>.fil.json`. Read `docs/FILIPINO-STYLE.md` first and follow the
+> Translate the new recipes in `data/cuisines/<file>.json` into Taglish and add them to
+> `data/translations/<file>.fil.json` (same base name, keyed by recipe id). Read `docs/FILIPINO-STYLE.md` first and follow the
 > voice exactly — casual Metro Manila Taglish, never textbook Tagalog. Keep the ingredient and
 > step arrays exactly the same length as the English ones, don't translate dish titles, and
 > leave every number and time as written. Then run `npm run db && npm test`.
@@ -71,8 +71,9 @@ bite:
 
 ## Real photos
 
-Drop a photo at `public/images/recipes/<recipe-id>.jpg` and the app uses it instead of the
-drawn plate — no code change, no rebuild of the images. Roughly 800×560 or any 4:3-ish crop
+Drop a photo at `public/images/recipes/<recipe-id>.jpg` and run `npm run db`. The build notes
+which recipes have a photo, so the app loads it directly; without that step the app keeps
+showing the drawn plate. Roughly 800×560 or any 4:3-ish crop
 looks right. Anything you own, shot yourself, or that is properly licensed for the purpose is
 fine; don't paste in photos scraped from other people's recipe sites.
 

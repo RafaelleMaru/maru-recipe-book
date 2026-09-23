@@ -147,5 +147,12 @@ export const CATEGORY_META = {
 export const categoryLabel = (c) => CATEGORY_META[c]?.label ?? titleCase(c)
 export const categoryIcon = (c) => CATEGORY_META[c]?.icon ?? 'fa-utensils'
 
+/** The drawn plate illustration — every recipe has one. */
 export const imageFor = (r) => `./images/recipes/${r.id}.svg`
-export const photoFor = (r) => `./images/recipes/${r.id}.jpg`
+
+/**
+ * What to show first. `photo` is set by `npm run db` when a real photo file sits
+ * next to the drawing, so the app never requests a photo that isn't there.
+ * Drop a <recipe-id>.jpg in public/images/recipes/ and re-run `npm run db`.
+ */
+export const photoFor = (r) => (r.photo ? `./images/recipes/${r.id}.${r.photo}` : imageFor(r))

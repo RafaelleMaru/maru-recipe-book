@@ -242,6 +242,21 @@ const main = async () => {
     }
   }
 
+  // ---- note which recipes have a real photo, so the app doesn't probe for one
+  // that isn't there. Without this every card fires a 404 before falling back
+  // to the drawn plate.
+  const IMG_DIR = path.join(ROOT, 'public', 'images', 'recipes')
+  let photos = 0
+  for (const recipe of kept) {
+    for (const ext of ['jpg', 'jpeg', 'png', 'webp']) {
+      if (existsSync(path.join(IMG_DIR, `${recipe.id}.${ext}`))) {
+        recipe.photo = ext
+        photos += 1
+        break
+      }
+    }
+  }
+
   kept.sort((a, b) => a.cuisine.localeCompare(b.cuisine) || a.title.localeCompare(b.title))
 
   const counts = {}

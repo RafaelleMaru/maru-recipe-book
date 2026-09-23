@@ -121,8 +121,11 @@ gzipped) and lets the browser cache the data separately from the code.
 ### The images
 
 Each dish has a generated SVG "plate" — tinted per cuisine, plated per main ingredient,
-deterministic from the recipe id. They are placeholders that look deliberate. Drop a real
-photo at `public/images/recipes/<recipe-id>.jpg` and the app prefers it automatically.
+deterministic from the recipe id. They are placeholders that look deliberate.
+
+To use a real photo, drop `public/images/recipes/<recipe-id>.jpg` and run `npm run db` — the
+build records which recipes have a photo so the app loads it directly instead of probing for
+one that isn’t there.
 
 ## Moving it to another PC
 

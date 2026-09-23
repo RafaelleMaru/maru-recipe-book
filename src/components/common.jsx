@@ -24,7 +24,9 @@ export function RecipeImage({ recipe, className = '', alt }) {
       src={src}
       alt={alt ?? recipe.title}
       loading="lazy"
-      onError={() => setSrc((current) => (current.endsWith('.jpg') ? imageFor(recipe) : current))}
+      // Safety net: if a photo is listed but missing (deleted without rebuilding),
+      // fall back to the drawing rather than showing a broken image.
+      onError={() => setSrc((current) => (current === imageFor(recipe) ? current : imageFor(recipe)))}
       className={cx('bg-surface-2 object-cover', className)}
     />
   )
