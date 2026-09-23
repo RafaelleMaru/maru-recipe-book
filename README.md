@@ -35,6 +35,11 @@ on Vercel.
   dietitian's balance note, and a tappable link to the source the method was checked against —
   with that page's own star rating and rating count where it publishes one, so you can see how
   many cooks stood behind it.
+- **Cooking mode.** Tap **Cook this now** on any recipe for a full-screen, phone-on-the-counter
+  view: one step at a time in large type, the screen kept awake with the Wake Lock API, the
+  scaled ingredients a tap away, and a timer for any step that mentions a duration — "simmer
+  for 20 minutes" offers a 20:00 countdown that beeps and vibrates when it's done. Tap the step
+  to advance, or use the arrow keys on a laptop.
 - **English or Filipino**, switched from the top bar like light/dark mode. The Filipino
   version is conversational Taglish — the way a Manila teenager actually talks, not textbook
   Tagalog — and it covers the whole app *and* all 252 recipes: descriptions, ingredients,
@@ -58,7 +63,7 @@ Then open http://localhost:4000.
 | `npm run dev` | Dev server with hot reload |
 | `npm run build` | Validates the database, then builds to `dist/` |
 | `npm run preview` | Serves the built `dist/` locally |
-| `npm run db` | Merges `data/cuisines/*.json` → `src/data/recipes.json` |
+| `npm run db` | Merges `data/cuisines/*.json` → `public/data/recipes.json` |
 | `npm run images` | Draws a plate illustration for any recipe missing one |
 | `npm test` | Runs the checks over the planner, market list and translations |
 | `npm run links` | Verifies the source links still resolve (`-- --all` for every one) |
@@ -104,7 +109,8 @@ docs/FILIPINO-STYLE.md        the Taglish voice guide the translations follow
 docs/ADDING-RECIPES.md        how to add the next batch (including the Claude prompt)
 tools/build-db.mjs            merge + validate + reject duplicates
 tools/make-images.mjs         the plate illustrator
-tools/check.mjs               `npm test` — 46 checks on the planner, lists and data
+tools/check.mjs               `npm test` — checks on the planner, lists, data and translations
+tools/check-links.mjs         `npm run links` — verifies every source link still resolves
 ```
 
 The build **refuses duplicate ids and duplicate titles**, which is what keeps "generate 10

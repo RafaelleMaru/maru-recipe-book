@@ -146,6 +146,21 @@ const FIL = {
   Medium: 'Medium',
   Hard: 'Mahirap',
 
+  /* --------------------------------------------------------------- cook mode */
+  'Cook this now': 'Lutuin na',
+  'Exit cooking mode': 'Labas sa cooking mode',
+  'Step {n} of {total}': 'Step {n} sa {total}',
+  'Screen stays on': 'Bukas ang screen',
+  'Screen stays on while you cook': 'Hindi mag-o-off ang screen habang nagluluto ka',
+  'Start a {time} timer': 'Simulan ang {time} timer',
+  'Time is up!': 'Tapos na ang oras!',
+  Pause: 'I-pause',
+  Resume: 'Ituloy',
+  Reset: 'I-reset',
+  'Next step': 'Susunod',
+  'Done cooking': 'Tapos na!',
+  'Enjoy the {title}!': 'Kainan na — {title}!',
+
   /* ----------------------------------------------------------------- week plan */
   'No dishes on the week yet': 'Wala pang ulam ngayong linggo',
   'Generate a balanced week or add dishes from the book, then drop each one onto a day.':

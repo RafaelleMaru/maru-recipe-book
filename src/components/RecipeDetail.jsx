@@ -13,7 +13,17 @@ import { isVegetarian } from '../lib/planner.js'
 import { recipeText, useLang } from '../lib/i18n.js'
 import { CuisineDot, RecipeImage, SpiceMeter } from './common.jsx'
 
-export default function RecipeDetail({ recipe, servings, inMenu, saved, onToggleMenu, onToggleSave, onBack, onTag }) {
+export default function RecipeDetail({
+  recipe,
+  servings,
+  inMenu,
+  saved,
+  onToggleMenu,
+  onToggleSave,
+  onBack,
+  onTag,
+  onCook,
+}) {
   const { lang, t } = useLang()
   const [portions, setPortions] = useState(portionsFor(servings))
 
@@ -140,9 +150,14 @@ export default function RecipeDetail({ recipe, servings, inMenu, saved, onToggle
 
         {/* Steps */}
         <section className="card p-5">
-          <h2 className="panel-title mb-4 flex items-center gap-2">
-            <i className="fa-solid fa-list-ol" aria-hidden /> {t('Steps')}
-          </h2>
+          <div className="mb-4 flex flex-wrap items-center justify-between gap-3">
+            <h2 className="panel-title flex items-center gap-2">
+              <i className="fa-solid fa-list-ol" aria-hidden /> {t('Steps')}
+            </h2>
+            <button onClick={onCook} className="btn-primary no-print text-xs">
+              <i className="fa-solid fa-kitchen-set" aria-hidden /> {t('Cook this now')}
+            </button>
+          </div>
           <ol className="flex flex-col gap-3.5">
             {text.steps.map((step, i) => (
               <li key={i} className="flex gap-3">
@@ -253,7 +268,11 @@ export default function RecipeDetail({ recipe, servings, inMenu, saved, onToggle
 
         {/* Actions */}
         <section className="card no-print flex flex-col gap-2 p-5">
-          <button onClick={() => onToggleMenu(recipe)} className={inMenu ? 'btn-ghost' : 'btn-primary'}>
+          <button onClick={onCook} className="btn-primary py-3 text-base">
+            <i className="fa-solid fa-kitchen-set" aria-hidden />
+            {t('Cook this now')}
+          </button>
+          <button onClick={() => onToggleMenu(recipe)} className={inMenu ? 'btn-ghost' : 'btn-soft'}>
             <i className={`fa-solid ${inMenu ? 'fa-circle-minus' : 'fa-circle-plus'}`} aria-hidden />
             {t(inMenu ? 'Remove from this week' : 'Add to this week')}
           </button>

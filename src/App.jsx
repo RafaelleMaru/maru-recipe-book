@@ -14,6 +14,7 @@ import RecipeDetail from './components/RecipeDetail.jsx'
 import WeekPlan from './components/WeekPlan.jsx'
 import MarketList from './components/MarketList.jsx'
 import GenerateDialog from './components/GenerateDialog.jsx'
+import CookMode from './components/CookMode.jsx'
 import { EmptyState, Modal, Toasts } from './components/common.jsx'
 
 const HISTORY_LIMIT = 40
@@ -40,6 +41,7 @@ export default function App() {
   const [generateOpen, setGenerateOpen] = useState(false)
   const [backupOpen, setBackupOpen] = useState(false)
   const [confirm, setConfirm] = useState(null)
+  const [cookingId, setCookingId] = useState(null)
   const fileRef = useRef(null)
 
   const [servings, setServings] = useStored('servings', 'family')
@@ -140,6 +142,7 @@ export default function App() {
   const cookbook = useMemo(() => cookbookIds.map((id) => byId.get(id)).filter(Boolean), [cookbookIds, byId])
   const cookbookList = useMemo(() => sortList(applyFilters(cookbook), false), [cookbook, applyFilters, sortList])
   const selected = selectedId ? byId.get(selectedId) : null
+  const cooking = cookingId ? byId.get(cookingId) : null
 
   const quickPicks = useMemo(
     () =>
@@ -318,6 +321,7 @@ export default function App() {
           onToggleSave={toggleSave}
           onBack={() => setSelectedId(null)}
           onTag={applyTag}
+          onCook={() => setCookingId(selected.id)}
         />
       )
     }
@@ -481,7 +485,20 @@ export default function App() {
           </footer>
         </main>
 
-        <GenerateDialog
+        {cooking && (
+        <CookMode
+          recipe={cooking}
+          servings={servings}
+          onClose={() => setCookingId(null)}
+          onFinish={() => {
+            setCookingId(null)
+            remember([cooking.id])
+            push(t('Enjoy the {title}!', { title: cooking.title }))
+          }}
+        />
+      )}
+
+      <GenerateDialog
           open={generateOpen}
           onClose={() => setGenerateOpen(false)}
           db={RECIPES}
